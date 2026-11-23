@@ -1,0 +1,59 @@
+﻿RUN revise_dialogues.py
+turns 4488 unique 4464 duplicates 24 largest duplicate group 2
+RUN repair_style.py
+Checked 76800 style verdicts against 19200 constructed responses.
+RUN 05_Statistical_Analysis/targeted_bootstrap.py
+Wrote 32 persona cluster bootstrap intervals.
+RUN 05_Statistical_Analysis/analyze.py
+{'comparison': 'Extract/consolidate', 'mean_difference': 0.042529148699451826, 'ci_low': 0.022091916317182807, 'ci_high': 0.06354444204768987, 'raw_p': 0.00039996000399960006, 'holm_p': 0.001999800019998, 'provenance': 'calculated_from_reconstructed_reference'}
+{'comparison': 'Flat RAG', 'mean_difference': 0.09053772566039273, 'ci_low': 0.0658229179629262, 'ci_high': 0.11576496138619333, 'raw_p': 9.999000099990002e-05, 'holm_p': 0.0006999300069993001, 'provenance': 'calculated_from_reconstructed_reference'}
+{'comparison': 'No claim check', 'mean_difference': 0.015656020057002725, 'ci_low': -0.0007512698272191976, 'ci_high': 0.03209294247835219, 'raw_p': 0.0673932606739326, 'holm_p': 0.1347865213478652, 'provenance': 'calculated_from_reconstructed_reference'}
+{'comparison': 'No owner/consent gate', 'mean_difference': 0.050932272130639875, 'ci_low': 0.026792569616853414, 'ci_high': 0.07511593861960283, 'raw_p': 0.00039996000399960006, 'holm_p': 0.001999800019998, 'provenance': 'calculated_from_reconstructed_reference'}
+{'comparison': 'No relationship style', 'mean_difference': 0.018803464204197047, 'ci_low': -0.002350307642612767, 'ci_high': 0.04011090458508846, 'raw_p': 0.08839116088391161, 'holm_p': 0.1347865213478652, 'provenance': 'calculated_from_reconstructed_reference'}
+{'comparison': 'No version ledger', 'mean_difference': 0.03609491730277872, 'ci_low': 0.01754692306391173, 'ci_high': 0.054135907408309134, 'raw_p': 0.0006999300069993001, 'holm_p': 0.0020997900209979003, 'provenance': 'calculated_from_reconstructed_reference'}
+{'comparison': 'Tiered memory', 'mean_difference': 0.05725201395669941, 'ci_low': 0.032598521149070775, 'ci_high': 0.0830489386118738, 'raw_p': 0.00029997000299970003, 'holm_p': 0.0017998200179982003, 'provenance': 'calculated_from_reconstructed_reference'}
+RUN compare_table6.py
+RUN 09_Validation_and_Comparison/validate_all.py
+PASS persona counts and unique IDs
+PASS item counts
+PASS item links
+PASS identity_update counts
+PASS identity_update persona links
+PASS no_evidence counts
+PASS no_evidence persona links
+PASS source_attribution counts
+PASS source_attribution persona links
+PASS supersession dates
+PASS prediction labels
+PASS matched items
+PASS audit counts and ids
+PASS data provenance
+PASS 04_Item_Level_Results/calculate_metrics.py runs
+PASS 05_Statistical_Analysis/analyze.py runs
+PASS 06_Evaluator_Audit/calculate_audit_metrics.py runs
+PASS 03_Configurations_and_Implementation/run_local_demo.py runs
+RUN 09_Validation_and_Comparison/validate_semantics.py
+PASS session and evidence-turn links
+PASS expected identity values match authorized active record
+PASS attribution distractor genuinely belongs to another actor
+PASS update old and current values and supersession match
+PASS responses agree with expected value and scoring
+PASS audit references correct response
+PASS audit claim adjudication agrees with scenario
+# Semantic validation
+
+- PASS session and evidence-turn links
+- PASS expected identity values match authorized active record
+- PASS attribution distractor genuinely belongs to another actor
+- PASS update old and current values and supersession match
+- PASS responses agree with expected value and scoring
+- PASS audit references correct response
+- PASS audit claim adjudication agrees with scenario
+
+Dialogue: 4488 turns, 4464 unique exact texts, 24 exact duplicates; most repeated text occurs 2 times. Text is template-generated; exact diversity does not establish naturalness.
+
+Style verdicts are checked against constructed response text with a limited deterministic rule set. Configuration demos are simplified, and attribution errors are scenario-based allocations rather than outputs of those demos. This validation cannot establish original-study reproducibility.
+
+RUN 09_Validation_and_Comparison/validate_style.py
+PASS 76800 rule verdicts match full response text; audit is 40 per configuration
+Rebuilt derived outputs in C:\Users\kzada\AppData\Local\Temp\vscode-agent-codex-sandbox-ejGt9c\mirai_final_4bc046d69d3e4431a940db11d6554aa2 ; source data is the input snapshot, not regenerated from original records.

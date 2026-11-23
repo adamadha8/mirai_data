@@ -1,0 +1,37 @@
+location,metric,reported,reconstructed,difference,status,source,assumptions
+Table 4,no_evidence CI low,0.863,0.8575,-0.005499999999999949,different,05_Statistical_Analysis/targeted_bootstrap.csv,Synthetic assignment and assumed seed
+Table 4,no_evidence CI high,0.92,0.9225,0.0024999999999999467,different,05_Statistical_Analysis/targeted_bootstrap.csv,Synthetic assignment and assumed seed
+Table 4,identity_update CI low,0.863,0.8583333333333333,-0.004666666666666708,different,05_Statistical_Analysis/targeted_bootstrap.csv,Synthetic assignment and assumed seed
+Table 4,identity_update CI high,0.938,0.9375,-0.0004999999999999449,different,05_Statistical_Analysis/targeted_bootstrap.csv,Synthetic assignment and assumed seed
+Table 4,source_attribution CI low,0.932,0.93125,-0.0007500000000000284,different,05_Statistical_Analysis/targeted_bootstrap.csv,Synthetic assignment and assumed seed
+Table 4,source_attribution CI high,0.963,0.96375,0.0007500000000000284,different,05_Statistical_Analysis/targeted_bootstrap.csv,Synthetic assignment and assumed seed
+Table 4,style_rule CI low,0.912,0.9125,0.0004999999999999449,different,05_Statistical_Analysis/targeted_bootstrap.csv,Synthetic assignment and assumed seed
+Table 4,style_rule CI high,0.926,0.92578125,-0.0002187500000000453,different,05_Statistical_Analysis/targeted_bootstrap.csv,Synthetic assignment and assumed seed
+Table 4 / Section 5,item micro-F1 CI low,0.896,,,reported only,06_Evaluator_Audit/calculate_audit_metrics.py,See audit script; item CI not yet reconstructed
+Table 4 / Section 5,item micro-F1 CI high,0.923,,,reported only,06_Evaluator_Audit/calculate_audit_metrics.py,See audit script; item CI not yet reconstructed
+Table 4 / Section 5,audit claim agreement,0.89,,,reported only,06_Evaluator_Audit/calculate_audit_metrics.py,See audit script; item CI not yet reconstructed
+Table 4 / Section 5,audit style agreement,0.92,,,reported only,06_Evaluator_Audit/calculate_audit_metrics.py,See audit script; item CI not yet reconstructed
+Table 4 / Section 5,parser accuracy,0.94,,,reported only,06_Evaluator_Audit/calculate_audit_metrics.py,See audit script; item CI not yet reconstructed
+Table 4 / Section 5,parser recall,0.92,,,reported only,06_Evaluator_Audit/calculate_audit_metrics.py,See audit script; item CI not yet reconstructed
+Table 4 / Section 5,parser F1,0.93,,,reported only,06_Evaluator_Audit/calculate_audit_metrics.py,See audit script; item CI not yet reconstructed
+Table 4 / Section 5,style accuracy,0.95,,,reported only,06_Evaluator_Audit/calculate_audit_metrics.py,See audit script; item CI not yet reconstructed
+Table 7,LoCoMo QA F1,0.64,,,reported only,07_Public_Benchmarks/benchmark_information.csv,No actual model run
+Table 7,LongMemEval accuracy,0.61,,,reported only,07_Public_Benchmarks/benchmark_information.csv,No actual model run
+Table 7,GPT-4.1 mini primary micro-F1,0.918,,,reported only,07_Public_Benchmarks/benchmark_information.csv,No actual model run
+Table 7,GPT-4.1 mini held-out micro-F1,0.889,,,reported only,07_Public_Benchmarks/benchmark_information.csv,No actual model run
+Table 9,Full MIRAI mean seconds,2.74,,,reported only,08_Failure_and_Overhead_Logs/reported_overhead.csv,Original per-response measurements unavailable; synthetic logs separate
+Table 9,Full MIRAI p95 seconds,5.21,,,reported only,08_Failure_and_Overhead_Logs/reported_overhead.csv,Original per-response measurements unavailable; synthetic logs separate
+Table 9,Full MIRAI input tokens,2480,,,reported only,08_Failure_and_Overhead_Logs/reported_overhead.csv,Original per-response measurements unavailable; synthetic logs separate
+Table 9,Full MIRAI output tokens,118,,,reported only,08_Failure_and_Overhead_Logs/reported_overhead.csv,Original per-response measurements unavailable; synthetic logs separate
+Table 9,Flat RAG mean seconds,1.86,,,reported only,08_Failure_and_Overhead_Logs/reported_overhead.csv,Original per-response measurements unavailable; synthetic logs separate
+Table 9,Flat RAG p95 seconds,3.34,,,reported only,08_Failure_and_Overhead_Logs/reported_overhead.csv,Original per-response measurements unavailable; synthetic logs separate
+Table 9,Flat RAG input tokens,2120,,,reported only,08_Failure_and_Overhead_Logs/reported_overhead.csv,Original per-response measurements unavailable; synthetic logs separate
+Table 9,Flat RAG output tokens,126,,,reported only,08_Failure_and_Overhead_Logs/reported_overhead.csv,Original per-response measurements unavailable; synthetic logs separate
+Table 9,Tiered memory mean seconds,2.08,,,reported only,08_Failure_and_Overhead_Logs/reported_overhead.csv,Original per-response measurements unavailable; synthetic logs separate
+Table 9,Tiered memory p95 seconds,3.72,,,reported only,08_Failure_and_Overhead_Logs/reported_overhead.csv,Original per-response measurements unavailable; synthetic logs separate
+Table 9,Tiered memory input tokens,2260,,,reported only,08_Failure_and_Overhead_Logs/reported_overhead.csv,Original per-response measurements unavailable; synthetic logs separate
+Table 9,Tiered memory output tokens,121,,,reported only,08_Failure_and_Overhead_Logs/reported_overhead.csv,Original per-response measurements unavailable; synthetic logs separate
+Table 9,Extract/consolidate mean seconds,2.21,,,reported only,08_Failure_and_Overhead_Logs/reported_overhead.csv,Original per-response measurements unavailable; synthetic logs separate
+Table 9,Extract/consolidate p95 seconds,4.03,,,reported only,08_Failure_and_Overhead_Logs/reported_overhead.csv,Original per-response measurements unavailable; synthetic logs separate
+Table 9,Extract/consolidate input tokens,2330,,,reported only,08_Failure_and_Overhead_Logs/reported_overhead.csv,Original per-response measurements unavailable; synthetic logs separate
+Table 9,Extract/consolidate output tokens,119,,,reported only,08_Failure_and_Overhead_Logs/reported_overhead.csv,Original per-response measurements unavailable; synthetic logs separate

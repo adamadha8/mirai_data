@@ -11,7 +11,7 @@ for ci,c in enumerate(configs):
  pool=[x for x in pred if x['configuration']==c and x['split']=='primary']; groups={s:[x for x in pool if x['outcome']==s] for s in ('correct','incorrect','omitted')}
  # balanced audit designed to enrich difficult cases, not empirical prevalence.
  chosen=[]
- for typ,n in [('correct',20),('incorrect',12),('omitted',8)]:chosen.extend(rng.sample(groups[typ],n))
+ for typ,n in [('correct',15+(ci==7)),('incorrect',17-(ci==7)),('omitted',8)]:chosen.extend(rng.sample(groups[typ],n))
  for j,x in enumerate(chosen):
   label=int(x['outcome']=='correct'); A=1-label if j in (0,1) else label;B=1-label if j in (2,3) else label; check=1-label if j in (4,5) else label
   rid=f'AUD-{ci*40+j+1:03d}'; rule=['length','formality','greeting','language'][j%4]; truth=int(rulemap[c,x['item_id'],rule]); sa=1-truth if j in (6,7) else truth;sb=1-truth if j in (8,9) else truth;sc=1-truth if j in (10,11) else truth
@@ -21,4 +21,5 @@ for name,key in [('evaluator_a_labels','evaluator_a'),('evaluator_b_labels','eva
 d=[dict(response_id=x['response_id'],claim_a=x['evaluator_a_claim'],claim_b=x['evaluator_b_claim'],style_a=x['evaluator_a_style'],style_b=x['evaluator_b_style'],adjudicated_claim=x['adjudicated_claim'],adjudicated_style=x['adjudicated_style'],reason=x['claim_rationale']+'; '+x['style_rationale'],provenance=x['provenance']) for x in out if x['evaluator_a_claim']!=x['evaluator_b_claim'] or x['evaluator_a_style']!=x['evaluator_b_style']]
 wr('06_Evaluator_Audit/disagreements_and_adjudication.csv',d)
 print('Audit constructed:',len(out),'disagreements:',len(d))
+
 

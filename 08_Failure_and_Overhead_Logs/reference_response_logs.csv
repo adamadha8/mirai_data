@@ -1,0 +1,201 @@
+response_id,configuration,duration_seconds,input_tokens,output_tokens,provenance,note
+SYN-Ful-001,Full MIRAI,3.408,2819,120,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-002,Full MIRAI,2.76,1903,102,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-003,Full MIRAI,3.777,2870,150,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-004,Full MIRAI,2.928,1896,119,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-005,Full MIRAI,2.173,2863,84,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-006,Full MIRAI,3.609,1961,97,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-007,Full MIRAI,4.286,2194,109,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-008,Full MIRAI,2.286,2194,128,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-009,Full MIRAI,2.363,2384,145,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-010,Full MIRAI,2.828,2323,88,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-011,Full MIRAI,4.062,2743,146,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-012,Full MIRAI,4.901,2099,81,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-013,Full MIRAI,4.251,2529,155,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-014,Full MIRAI,2.803,2141,118,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-015,Full MIRAI,4.368,2706,137,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-016,Full MIRAI,3.973,2733,94,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-017,Full MIRAI,1.935,2028,91,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-018,Full MIRAI,4.152,2416,134,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-019,Full MIRAI,4.918,2837,77,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-020,Full MIRAI,2.378,2368,120,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-021,Full MIRAI,3.696,2031,106,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-022,Full MIRAI,3.454,2657,144,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-023,Full MIRAI,4.009,1870,142,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-024,Full MIRAI,1.95,2516,77,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-025,Full MIRAI,4.339,2387,121,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-026,Full MIRAI,1.867,1713,96,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-027,Full MIRAI,3.274,2066,142,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-028,Full MIRAI,2.71,2701,103,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-029,Full MIRAI,2.348,2092,88,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-030,Full MIRAI,4.048,2361,85,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-031,Full MIRAI,1.952,2844,136,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-032,Full MIRAI,4.863,2447,131,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-033,Full MIRAI,4.918,1835,122,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-034,Full MIRAI,2.33,2244,146,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-035,Full MIRAI,4.772,2852,98,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-036,Full MIRAI,3.916,2225,145,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-037,Full MIRAI,3.609,2906,83,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-038,Full MIRAI,4.461,2816,115,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-039,Full MIRAI,3.211,2741,149,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-040,Full MIRAI,3.595,2804,80,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-041,Full MIRAI,2.811,1940,94,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-042,Full MIRAI,3.049,2051,115,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-043,Full MIRAI,3.934,2643,146,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-044,Full MIRAI,4.081,2022,129,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-045,Full MIRAI,4.831,2250,153,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-046,Full MIRAI,2.531,2925,158,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-047,Full MIRAI,3.845,2717,122,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-048,Full MIRAI,1.83,1761,133,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-049,Full MIRAI,2.791,1881,133,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ful-050,Full MIRAI,2.309,2119,100,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-001,Flat RAG,1.814,2942,96,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-002,Flat RAG,2.891,2633,115,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-003,Flat RAG,3.207,1898,125,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-004,Flat RAG,1.708,2415,116,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-005,Flat RAG,1.393,2603,82,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-006,Flat RAG,2.668,2249,101,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-007,Flat RAG,1.745,2942,156,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-008,Flat RAG,2.382,2093,110,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-009,Flat RAG,2.629,1998,104,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-010,Flat RAG,1.96,1795,143,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-011,Flat RAG,2.073,2816,75,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-012,Flat RAG,2.116,2964,139,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-013,Flat RAG,1.967,2967,93,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-014,Flat RAG,1.36,1836,147,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-015,Flat RAG,2.641,2117,139,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-016,Flat RAG,3.342,2205,75,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-017,Flat RAG,1.371,2833,79,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-018,Flat RAG,3.333,2270,95,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-019,Flat RAG,1.953,2829,103,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-020,Flat RAG,3.254,2837,140,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-021,Flat RAG,2.791,1840,118,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-022,Flat RAG,2.501,1984,154,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-023,Flat RAG,1.614,1788,138,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-024,Flat RAG,1.321,2328,115,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-025,Flat RAG,2.3,2438,143,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-026,Flat RAG,3.143,2683,89,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-027,Flat RAG,2.255,2260,160,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-028,Flat RAG,1.936,2930,157,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-029,Flat RAG,1.615,2743,157,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-030,Flat RAG,1.421,2825,84,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-031,Flat RAG,1.822,2123,147,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-032,Flat RAG,1.796,2584,128,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-033,Flat RAG,1.986,1951,102,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-034,Flat RAG,2.19,2212,101,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-035,Flat RAG,2.982,1853,142,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-036,Flat RAG,3.284,1960,102,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-037,Flat RAG,1.976,2977,132,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-038,Flat RAG,1.933,2544,134,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-039,Flat RAG,1.713,2922,88,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-040,Flat RAG,1.428,1804,100,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-041,Flat RAG,1.37,2418,107,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-042,Flat RAG,1.773,2762,102,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-043,Flat RAG,1.177,2884,112,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-044,Flat RAG,2.925,2436,89,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-045,Flat RAG,1.905,1844,122,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-046,Flat RAG,2.895,2724,152,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-047,Flat RAG,2.353,2638,132,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-048,Flat RAG,1.432,2877,158,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-049,Flat RAG,2.595,2965,97,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Fla-050,Flat RAG,2.646,1835,96,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-001,Tiered memory,3.132,2585,139,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-002,Tiered memory,2.763,2905,126,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-003,Tiered memory,2.123,2112,98,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-004,Tiered memory,1.898,1912,146,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-005,Tiered memory,3.32,2184,94,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-006,Tiered memory,3.706,1802,128,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-007,Tiered memory,3.355,2743,128,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-008,Tiered memory,1.697,1928,105,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-009,Tiered memory,3.013,2143,78,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-010,Tiered memory,3.369,2159,160,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-011,Tiered memory,2.532,1944,82,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-012,Tiered memory,2.582,2258,117,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-013,Tiered memory,3.299,2132,137,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-014,Tiered memory,2.755,2116,139,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-015,Tiered memory,1.582,2376,139,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-016,Tiered memory,3.014,1738,93,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-017,Tiered memory,1.532,2447,88,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-018,Tiered memory,1.694,2855,153,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-019,Tiered memory,2.496,2655,120,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-020,Tiered memory,1.927,2757,113,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-021,Tiered memory,2.38,1731,132,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-022,Tiered memory,3.679,2975,132,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-023,Tiered memory,2.913,1705,105,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-024,Tiered memory,3.447,2239,80,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-025,Tiered memory,3.502,2327,144,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-026,Tiered memory,3.353,1889,91,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-027,Tiered memory,1.8,1920,151,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-028,Tiered memory,1.399,2845,106,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-029,Tiered memory,3.465,2479,113,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-030,Tiered memory,3.291,2246,143,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-031,Tiered memory,2.859,2988,136,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-032,Tiered memory,1.665,2075,129,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-033,Tiered memory,1.836,2907,108,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-034,Tiered memory,2.107,2543,160,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-035,Tiered memory,3.592,2753,106,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-036,Tiered memory,1.249,1947,131,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-037,Tiered memory,2.671,2089,129,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-038,Tiered memory,2.896,2418,96,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-039,Tiered memory,2.87,2420,124,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-040,Tiered memory,3.099,2854,80,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-041,Tiered memory,3.561,2192,142,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-042,Tiered memory,2.201,1875,128,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-043,Tiered memory,1.46,1855,98,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-044,Tiered memory,1.383,2676,109,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-045,Tiered memory,2.611,2510,118,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-046,Tiered memory,1.673,2663,83,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-047,Tiered memory,1.752,1992,78,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-048,Tiered memory,1.769,2908,104,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-049,Tiered memory,2.912,2908,82,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Tie-050,Tiered memory,2.463,2820,146,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-001,Extract/consolidate,2.69,2141,80,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-002,Extract/consolidate,1.886,2361,106,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-003,Extract/consolidate,3.68,2603,158,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-004,Extract/consolidate,1.631,1866,133,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-005,Extract/consolidate,2.931,2124,87,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-006,Extract/consolidate,3.185,1905,93,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-007,Extract/consolidate,1.781,2257,90,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-008,Extract/consolidate,2.196,1902,90,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-009,Extract/consolidate,2.666,2739,87,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-010,Extract/consolidate,2.634,2805,120,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-011,Extract/consolidate,1.535,2731,140,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-012,Extract/consolidate,1.35,2953,156,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-013,Extract/consolidate,1.821,2991,125,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-014,Extract/consolidate,1.791,2898,154,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-015,Extract/consolidate,1.529,2593,121,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-016,Extract/consolidate,1.415,2628,117,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-017,Extract/consolidate,1.919,2046,77,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-018,Extract/consolidate,1.359,1822,139,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-019,Extract/consolidate,3.266,2224,92,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-020,Extract/consolidate,3.383,2915,91,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-021,Extract/consolidate,1.515,2391,101,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-022,Extract/consolidate,3.034,2479,81,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-023,Extract/consolidate,2.025,2704,104,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-024,Extract/consolidate,1.597,2852,77,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-025,Extract/consolidate,2.46,1809,118,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-026,Extract/consolidate,1.832,1774,77,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-027,Extract/consolidate,1.772,2479,97,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-028,Extract/consolidate,2.388,2524,157,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-029,Extract/consolidate,1.859,2852,113,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-030,Extract/consolidate,2.65,2870,96,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-031,Extract/consolidate,2.093,1928,95,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-032,Extract/consolidate,3.255,1701,98,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-033,Extract/consolidate,1.944,2430,100,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-034,Extract/consolidate,1.374,2014,130,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-035,Extract/consolidate,3.599,2585,101,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-036,Extract/consolidate,2.242,1922,79,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-037,Extract/consolidate,3.437,2592,138,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-038,Extract/consolidate,1.82,2712,156,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-039,Extract/consolidate,2.69,2303,77,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-040,Extract/consolidate,1.639,2540,153,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-041,Extract/consolidate,1.573,2697,91,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-042,Extract/consolidate,3.514,2088,102,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-043,Extract/consolidate,3.574,2362,76,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-044,Extract/consolidate,1.465,2950,117,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-045,Extract/consolidate,3.007,2910,114,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-046,Extract/consolidate,1.633,2020,140,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-047,Extract/consolidate,2.819,1909,146,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-048,Extract/consolidate,1.428,2564,154,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-049,Extract/consolidate,3.794,2188,150,reconstructed_reference,illustrative synthetic values; not measurements
+SYN-Ext-050,Extract/consolidate,3.854,2355,136,reconstructed_reference,illustrative synthetic values; not measurements

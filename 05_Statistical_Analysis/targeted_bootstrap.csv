@@ -1,0 +1,33 @@
+metric,configuration,observed,ci_low,ci_high,resamples,seed,provenance
+no_evidence,Extract/consolidate,0.8375,0.8025,0.8725,10000,20260619,calculated_from_reconstructed_reference
+no_evidence,Flat RAG,0.6725,0.6275,0.7175,10000,20260619,calculated_from_reconstructed_reference
+no_evidence,Full MIRAI,0.8925,0.8575,0.9225,10000,20260619,calculated_from_reconstructed_reference
+no_evidence,No claim check,0.6075,0.5675,0.65,10000,20260619,calculated_from_reconstructed_reference
+no_evidence,No owner/consent gate,0.7425,0.695,0.7875,10000,20260619,calculated_from_reconstructed_reference
+no_evidence,No relationship style,0.8725,0.8375,0.9075,10000,20260619,calculated_from_reconstructed_reference
+no_evidence,No version ledger,0.8125,0.775,0.85,10000,20260619,calculated_from_reconstructed_reference
+no_evidence,Tiered memory,0.7475,0.7,0.7925,10000,20260619,calculated_from_reconstructed_reference
+identity_update,Extract/consolidate,0.7041666666666667,0.6291666666666667,0.7791666666666667,10000,20260619,calculated_from_reconstructed_reference
+identity_update,Flat RAG,0.6,0.5208333333333334,0.675,10000,20260619,calculated_from_reconstructed_reference
+identity_update,Full MIRAI,0.9,0.8583333333333333,0.9375,10000,20260619,calculated_from_reconstructed_reference
+identity_update,No claim check,0.8791666666666667,0.8416666666666667,0.9166666666666666,10000,20260619,calculated_from_reconstructed_reference
+identity_update,No owner/consent gate,0.8083333333333333,0.7625,0.8541666666666666,10000,20260619,calculated_from_reconstructed_reference
+identity_update,No relationship style,0.8916666666666667,0.8541666666666666,0.9291666666666667,10000,20260619,calculated_from_reconstructed_reference
+identity_update,No version ledger,0.675,0.6125,0.7375,10000,20260619,calculated_from_reconstructed_reference
+identity_update,Tiered memory,0.7166666666666667,0.6666666666666666,0.7666666666666667,10000,20260619,calculated_from_reconstructed_reference
+source_attribution,Extract/consolidate,0.81375,0.7875,0.83875,10000,20260619,calculated_from_reconstructed_reference
+source_attribution,Flat RAG,0.7225,0.6925,0.75125,10000,20260619,calculated_from_reconstructed_reference
+source_attribution,Full MIRAI,0.9475,0.93125,0.96375,10000,20260619,calculated_from_reconstructed_reference
+source_attribution,No claim check,0.9075,0.88875,0.92625,10000,20260619,calculated_from_reconstructed_reference
+source_attribution,No owner/consent gate,0.67375,0.6475,0.7,10000,20260619,calculated_from_reconstructed_reference
+source_attribution,No relationship style,0.92625,0.91,0.94125,10000,20260619,calculated_from_reconstructed_reference
+source_attribution,No version ledger,0.90125,0.8825,0.91875,10000,20260619,calculated_from_reconstructed_reference
+source_attribution,Tiered memory,0.7675,0.73625,0.79875,10000,20260619,calculated_from_reconstructed_reference
+style_rule,Extract/consolidate,0.82984375,0.8203125,0.83953125,10000,20260619,calculated_from_reconstructed_reference
+style_rule,Flat RAG,0.7646875,0.75390625,0.775625,10000,20260619,calculated_from_reconstructed_reference
+style_rule,Full MIRAI,0.91921875,0.9125,0.92578125,10000,20260619,calculated_from_reconstructed_reference
+style_rule,No claim check,0.91,0.90234375,0.91765625,10000,20260619,calculated_from_reconstructed_reference
+style_rule,No owner/consent gate,0.9021875,0.8940625,0.910625,10000,20260619,calculated_from_reconstructed_reference
+style_rule,No relationship style,0.70609375,0.69734375,0.7146875,10000,20260619,calculated_from_reconstructed_reference
+style_rule,No version ledger,0.90734375,0.900625,0.91375,10000,20260619,calculated_from_reconstructed_reference
+style_rule,Tiered memory,0.7915625,0.7815625,0.8015625,10000,20260619,calculated_from_reconstructed_reference

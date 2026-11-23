@@ -1,36 +1,36 @@
 response_id,claim_a,claim_b,style_a,style_b,adjudicated_claim,adjudicated_style,reason,provenance
-AUD-001,1,0,1,0,1,1,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
-AUD-002,1,0,1,0,1,1,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
-AUD-003,1,0,1,0,1,1,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
-AUD-004,1,0,1,0,1,1,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
-AUD-005,1,0,1,0,1,1,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
-AUD-006,1,0,1,0,1,1,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
-AUD-007,1,0,1,0,1,1,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
-AUD-008,1,0,1,0,1,1,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
-AUD-009,1,0,0,1,1,0,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
-AUD-010,1,0,1,0,1,1,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
-AUD-011,1,0,1,0,1,1,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
-AUD-012,1,0,1,0,1,1,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
-AUD-013,1,0,0,1,1,0,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
-AUD-014,1,0,1,0,1,1,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
-AUD-015,1,0,1,0,1,1,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
-AUD-016,1,0,1,0,1,1,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
-AUD-017,1,0,1,0,1,1,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
-AUD-018,1,0,0,1,1,0,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
-AUD-019,1,0,1,0,1,1,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
-AUD-020,1,0,1,0,1,1,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
-AUD-021,0,1,1,0,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
-AUD-022,0,1,1,0,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
-AUD-023,0,1,1,0,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
-AUD-024,0,1,1,0,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
-AUD-025,0,1,1,0,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
-AUD-026,0,1,0,1,0,0,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
-AUD-027,0,1,1,1,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
-AUD-028,0,1,1,1,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
-AUD-029,0,1,1,1,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
-AUD-030,0,1,1,1,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
-AUD-031,0,1,1,1,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
-AUD-032,0,1,1,1,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
-AUD-033,0,1,0,0,0,0,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
-AUD-034,0,1,0,0,0,0,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
-AUD-035,0,1,1,1,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-001,1,0,1,0,1,1,"Value agrees with active evidence; Rule length: passes on the quoted response, using deterministic rule.",reconstructed_reference
+AUD-002,1,0,1,0,1,1,"Value agrees with active evidence; Rule formality: passes on the quoted response, using deterministic rule.",reconstructed_reference
+AUD-003,1,0,1,0,1,1,"Value agrees with active evidence; Rule greeting: passes on the quoted response, using deterministic rule.",reconstructed_reference
+AUD-004,1,0,1,0,1,1,"Value agrees with active evidence; Rule language: passes on the quoted response, using deterministic rule.",reconstructed_reference
+AUD-005,1,0,1,0,1,1,"Value agrees with active evidence; Rule length: passes on the quoted response, using deterministic rule.",reconstructed_reference
+AUD-006,1,0,1,0,1,1,"Value agrees with active evidence; Rule formality: passes on the quoted response, using deterministic rule.",reconstructed_reference
+AUD-007,1,0,1,0,1,1,"Value agrees with active evidence; Rule greeting: passes on the quoted response, using deterministic rule.",reconstructed_reference
+AUD-008,1,0,1,0,1,1,"Value agrees with active evidence; Rule language: passes on the quoted response, using deterministic rule.",reconstructed_reference
+AUD-009,1,0,0,1,1,0,"Value agrees with active evidence; Rule length: fails on the quoted response, using deterministic rule.",reconstructed_reference
+AUD-010,1,0,1,0,1,1,"Value agrees with active evidence; Rule formality: passes on the quoted response, using deterministic rule.",reconstructed_reference
+AUD-011,1,0,1,0,1,1,"Value agrees with active evidence; Rule greeting: passes on the quoted response, using deterministic rule.",reconstructed_reference
+AUD-012,1,0,1,0,1,1,"Value agrees with active evidence; Rule language: passes on the quoted response, using deterministic rule.",reconstructed_reference
+AUD-013,1,0,0,1,1,0,"Value agrees with active evidence; Rule length: fails on the quoted response, using deterministic rule.",reconstructed_reference
+AUD-014,1,0,1,0,1,1,"Value agrees with active evidence; Rule formality: passes on the quoted response, using deterministic rule.",reconstructed_reference
+AUD-015,1,0,1,0,1,1,"Value agrees with active evidence; Rule greeting: passes on the quoted response, using deterministic rule.",reconstructed_reference
+AUD-016,0,1,1,0,0,1,"Value missing or differs from expected evidence; Rule language: passes on the quoted response, using deterministic rule.",reconstructed_reference
+AUD-017,0,1,1,0,0,1,"Value missing or differs from expected evidence; Rule length: passes on the quoted response, using deterministic rule.",reconstructed_reference
+AUD-018,0,1,0,1,0,0,"Value missing or differs from expected evidence; Rule formality: fails on the quoted response, using deterministic rule.",reconstructed_reference
+AUD-019,0,1,1,0,0,1,"Value missing or differs from expected evidence; Rule greeting: passes on the quoted response, using deterministic rule.",reconstructed_reference
+AUD-020,0,1,1,0,0,1,"Value missing or differs from expected evidence; Rule language: passes on the quoted response, using deterministic rule.",reconstructed_reference
+AUD-021,0,1,1,0,0,1,"Value missing or differs from expected evidence; Rule length: passes on the quoted response, using deterministic rule.",reconstructed_reference
+AUD-022,0,1,1,0,0,1,"Value missing or differs from expected evidence; Rule formality: passes on the quoted response, using deterministic rule.",reconstructed_reference
+AUD-023,0,1,1,0,0,1,"Value missing or differs from expected evidence; Rule greeting: passes on the quoted response, using deterministic rule.",reconstructed_reference
+AUD-024,0,1,1,0,0,1,"Value missing or differs from expected evidence; Rule language: passes on the quoted response, using deterministic rule.",reconstructed_reference
+AUD-025,0,1,1,0,0,1,"Value missing or differs from expected evidence; Rule length: passes on the quoted response, using deterministic rule.",reconstructed_reference
+AUD-026,0,1,0,1,0,0,"Value missing or differs from expected evidence; Rule formality: fails on the quoted response, using deterministic rule.",reconstructed_reference
+AUD-027,0,1,1,1,0,1,"Value missing or differs from expected evidence; Rule greeting: passes on the quoted response, using deterministic rule.",reconstructed_reference
+AUD-028,0,1,1,1,0,1,"Value missing or differs from expected evidence; Rule language: passes on the quoted response, using deterministic rule.",reconstructed_reference
+AUD-029,0,1,1,1,0,1,"Value missing or differs from expected evidence; Rule length: passes on the quoted response, using deterministic rule.",reconstructed_reference
+AUD-030,0,1,1,1,0,1,"Value missing or differs from expected evidence; Rule formality: passes on the quoted response, using deterministic rule.",reconstructed_reference
+AUD-031,0,1,1,1,0,1,"Value missing or differs from expected evidence; Rule greeting: passes on the quoted response, using deterministic rule.",reconstructed_reference
+AUD-032,0,1,1,1,0,1,"Value missing or differs from expected evidence; Rule language: passes on the quoted response, using deterministic rule.",reconstructed_reference
+AUD-033,0,1,0,0,0,0,"Value missing or differs from expected evidence; Rule length: fails on the quoted response, using deterministic rule.",reconstructed_reference
+AUD-034,0,1,0,0,0,0,"Value missing or differs from expected evidence; Rule formality: fails on the quoted response, using deterministic rule.",reconstructed_reference
+AUD-035,0,1,1,1,0,1,"Value missing or differs from expected evidence; Rule greeting: passes on the quoted response, using deterministic rule.",reconstructed_reference

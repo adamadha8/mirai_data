@@ -1,0 +1,5 @@
+configuration,n,mean_seconds,p95_seconds,mean_input_tokens,mean_output_tokens,provenance
+Extract/consolidate,50,2.33068,3.68,2400.16,112.6,calculated_from_reconstructed_reference
+Flat RAG,50,2.1777,3.284,2427.48,117.82,calculated_from_reconstructed_reference
+Full MIRAI,50,3.38986,4.901,2368.48,117.74,calculated_from_reconstructed_reference
+Tiered memory,50,2.55294,3.592,2350,117.34,calculated_from_reconstructed_reference
