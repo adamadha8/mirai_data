@@ -1,0 +1,341 @@
+conversation_id,persona_id,split,date,context,provenance
+D001-C1,D001,development,2025-06-12,Getting acquainted,reconstructed_reference
+D001-C2,D001,development,2025-06-12,Planning a weekend,reconstructed_reference
+D001-C3,D001,development,2025-06-12,Talking about work and memories,reconstructed_reference
+D001-C4,D001,development,2025-06-12,Discussing friends and values,reconstructed_reference
+D002-C1,D002,development,2025-06-12,Getting acquainted,reconstructed_reference
+D002-C2,D002,development,2025-06-12,Planning a weekend,reconstructed_reference
+D002-C3,D002,development,2025-06-12,Talking about work and memories,reconstructed_reference
+D002-C4,D002,development,2025-06-12,Discussing friends and values,reconstructed_reference
+D003-C1,D003,development,2025-06-12,Getting acquainted,reconstructed_reference
+D003-C2,D003,development,2025-06-12,Planning a weekend,reconstructed_reference
+D003-C3,D003,development,2025-06-12,Talking about work and memories,reconstructed_reference
+D003-C4,D003,development,2025-06-12,Discussing friends and values,reconstructed_reference
+D004-C1,D004,development,2025-06-12,Getting acquainted,reconstructed_reference
+D004-C2,D004,development,2025-06-12,Planning a weekend,reconstructed_reference
+D004-C3,D004,development,2025-06-12,Talking about work and memories,reconstructed_reference
+D004-C4,D004,development,2025-06-12,Discussing friends and values,reconstructed_reference
+D005-C1,D005,development,2025-06-12,Getting acquainted,reconstructed_reference
+D005-C2,D005,development,2025-06-12,Planning a weekend,reconstructed_reference
+D005-C3,D005,development,2025-06-12,Talking about work and memories,reconstructed_reference
+D005-C4,D005,development,2025-06-12,Discussing friends and values,reconstructed_reference
+D006-C1,D006,development,2025-06-12,Getting acquainted,reconstructed_reference
+D006-C2,D006,development,2025-06-12,Planning a weekend,reconstructed_reference
+D006-C3,D006,development,2025-06-12,Talking about work and memories,reconstructed_reference
+D006-C4,D006,development,2025-06-12,Discussing friends and values,reconstructed_reference
+D007-C1,D007,development,2025-06-12,Getting acquainted,reconstructed_reference
+D007-C2,D007,development,2025-06-12,Planning a weekend,reconstructed_reference
+D007-C3,D007,development,2025-06-12,Talking about work and memories,reconstructed_reference
+D007-C4,D007,development,2025-06-12,Discussing friends and values,reconstructed_reference
+D008-C1,D008,development,2025-06-12,Getting acquainted,reconstructed_reference
+D008-C2,D008,development,2025-06-12,Planning a weekend,reconstructed_reference
+D008-C3,D008,development,2025-06-12,Talking about work and memories,reconstructed_reference
+D008-C4,D008,development,2025-06-12,Discussing friends and values,reconstructed_reference
+P001-C1,P001,primary,2025-06-12,Getting acquainted,reconstructed_reference
+P001-C2,P001,primary,2025-06-12,Planning a weekend,reconstructed_reference
+P001-C3,P001,primary,2025-06-12,Talking about work and memories,reconstructed_reference
+P001-C4,P001,primary,2025-06-12,Discussing friends and values,reconstructed_reference
+P002-C1,P002,primary,2025-06-12,Getting acquainted,reconstructed_reference
+P002-C2,P002,primary,2025-06-12,Planning a weekend,reconstructed_reference
+P002-C3,P002,primary,2025-06-12,Talking about work and memories,reconstructed_reference
+P002-C4,P002,primary,2025-06-12,Discussing friends and values,reconstructed_reference
+P003-C1,P003,primary,2025-06-12,Getting acquainted,reconstructed_reference
+P003-C2,P003,primary,2025-06-12,Planning a weekend,reconstructed_reference
+P003-C3,P003,primary,2025-06-12,Talking about work and memories,reconstructed_reference
+P003-C4,P003,primary,2025-06-12,Discussing friends and values,reconstructed_reference
+P004-C1,P004,primary,2025-06-12,Getting acquainted,reconstructed_reference
+P004-C2,P004,primary,2025-06-12,Planning a weekend,reconstructed_reference
+P004-C3,P004,primary,2025-06-12,Talking about work and memories,reconstructed_reference
+P004-C4,P004,primary,2025-06-12,Discussing friends and values,reconstructed_reference
+P005-C1,P005,primary,2025-06-12,Getting acquainted,reconstructed_reference
+P005-C2,P005,primary,2025-06-12,Planning a weekend,reconstructed_reference
+P005-C3,P005,primary,2025-06-12,Talking about work and memories,reconstructed_reference
+P005-C4,P005,primary,2025-06-12,Discussing friends and values,reconstructed_reference
+P006-C1,P006,primary,2025-06-12,Getting acquainted,reconstructed_reference
+P006-C2,P006,primary,2025-06-12,Planning a weekend,reconstructed_reference
+P006-C3,P006,primary,2025-06-12,Talking about work and memories,reconstructed_reference
+P006-C4,P006,primary,2025-06-12,Discussing friends and values,reconstructed_reference
+P007-C1,P007,primary,2025-06-12,Getting acquainted,reconstructed_reference
+P007-C2,P007,primary,2025-06-12,Planning a weekend,reconstructed_reference
+P007-C3,P007,primary,2025-06-12,Talking about work and memories,reconstructed_reference
+P007-C4,P007,primary,2025-06-12,Discussing friends and values,reconstructed_reference
+P008-C1,P008,primary,2025-06-12,Getting acquainted,reconstructed_reference
+P008-C2,P008,primary,2025-06-12,Planning a weekend,reconstructed_reference
+P008-C3,P008,primary,2025-06-12,Talking about work and memories,reconstructed_reference
+P008-C4,P008,primary,2025-06-12,Discussing friends and values,reconstructed_reference
+P009-C1,P009,primary,2025-06-12,Getting acquainted,reconstructed_reference
+P009-C2,P009,primary,2025-06-12,Planning a weekend,reconstructed_reference
+P009-C3,P009,primary,2025-06-12,Talking about work and memories,reconstructed_reference
+P009-C4,P009,primary,2025-06-12,Discussing friends and values,reconstructed_reference
+P010-C1,P010,primary,2025-06-12,Getting acquainted,reconstructed_reference
+P010-C2,P010,primary,2025-06-12,Planning a weekend,reconstructed_reference
+P010-C3,P010,primary,2025-06-12,Talking about work and memories,reconstructed_reference
+P010-C4,P010,primary,2025-06-12,Discussing friends and values,reconstructed_reference
+P011-C1,P011,primary,2025-06-12,Getting acquainted,reconstructed_reference
+P011-C2,P011,primary,2025-06-12,Planning a weekend,reconstructed_reference
+P011-C3,P011,primary,2025-06-12,Talking about work and memories,reconstructed_reference
+P011-C4,P011,primary,2025-06-12,Discussing friends and values,reconstructed_reference
+P012-C1,P012,primary,2025-06-12,Getting acquainted,reconstructed_reference
+P012-C2,P012,primary,2025-06-12,Planning a weekend,reconstructed_reference
+P012-C3,P012,primary,2025-06-12,Talking about work and memories,reconstructed_reference
+P012-C4,P012,primary,2025-06-12,Discussing friends and values,reconstructed_reference
+P013-C1,P013,primary,2025-06-12,Getting acquainted,reconstructed_reference
+P013-C2,P013,primary,2025-06-12,Planning a weekend,reconstructed_reference
+P013-C3,P013,primary,2025-06-12,Talking about work and memories,reconstructed_reference
+P013-C4,P013,primary,2025-06-12,Discussing friends and values,reconstructed_reference
+P014-C1,P014,primary,2025-06-12,Getting acquainted,reconstructed_reference
+P014-C2,P014,primary,2025-06-12,Planning a weekend,reconstructed_reference
+P014-C3,P014,primary,2025-06-12,Talking about work and memories,reconstructed_reference
+P014-C4,P014,primary,2025-06-12,Discussing friends and values,reconstructed_reference
+P015-C1,P015,primary,2025-06-12,Getting acquainted,reconstructed_reference
+P015-C2,P015,primary,2025-06-12,Planning a weekend,reconstructed_reference
+P015-C3,P015,primary,2025-06-12,Talking about work and memories,reconstructed_reference
+P015-C4,P015,primary,2025-06-12,Discussing friends and values,reconstructed_reference
+P016-C1,P016,primary,2025-06-12,Getting acquainted,reconstructed_reference
+P016-C2,P016,primary,2025-06-12,Planning a weekend,reconstructed_reference
+P016-C3,P016,primary,2025-06-12,Talking about work and memories,reconstructed_reference
+P016-C4,P016,primary,2025-06-12,Discussing friends and values,reconstructed_reference
+P017-C1,P017,primary,2025-06-12,Getting acquainted,reconstructed_reference
+P017-C2,P017,primary,2025-06-12,Planning a weekend,reconstructed_reference
+P017-C3,P017,primary,2025-06-12,Talking about work and memories,reconstructed_reference
+P017-C4,P017,primary,2025-06-12,Discussing friends and values,reconstructed_reference
+P018-C1,P018,primary,2025-06-12,Getting acquainted,reconstructed_reference
+P018-C2,P018,primary,2025-06-12,Planning a weekend,reconstructed_reference
+P018-C3,P018,primary,2025-06-12,Talking about work and memories,reconstructed_reference
+P018-C4,P018,primary,2025-06-12,Discussing friends and values,reconstructed_reference
+P019-C1,P019,primary,2025-06-12,Getting acquainted,reconstructed_reference
+P019-C2,P019,primary,2025-06-12,Planning a weekend,reconstructed_reference
+P019-C3,P019,primary,2025-06-12,Talking about work and memories,reconstructed_reference
+P019-C4,P019,primary,2025-06-12,Discussing friends and values,reconstructed_reference
+P020-C1,P020,primary,2025-06-12,Getting acquainted,reconstructed_reference
+P020-C2,P020,primary,2025-06-12,Planning a weekend,reconstructed_reference
+P020-C3,P020,primary,2025-06-12,Talking about work and memories,reconstructed_reference
+P020-C4,P020,primary,2025-06-12,Discussing friends and values,reconstructed_reference
+P021-C1,P021,primary,2025-06-12,Getting acquainted,reconstructed_reference
+P021-C2,P021,primary,2025-06-12,Planning a weekend,reconstructed_reference
+P021-C3,P021,primary,2025-06-12,Talking about work and memories,reconstructed_reference
+P021-C4,P021,primary,2025-06-12,Discussing friends and values,reconstructed_reference
+P022-C1,P022,primary,2025-06-12,Getting acquainted,reconstructed_reference
+P022-C2,P022,primary,2025-06-12,Planning a weekend,reconstructed_reference
+P022-C3,P022,primary,2025-06-12,Talking about work and memories,reconstructed_reference
+P022-C4,P022,primary,2025-06-12,Discussing friends and values,reconstructed_reference
+P023-C1,P023,primary,2025-06-12,Getting acquainted,reconstructed_reference
+P023-C2,P023,primary,2025-06-12,Planning a weekend,reconstructed_reference
+P023-C3,P023,primary,2025-06-12,Talking about work and memories,reconstructed_reference
+P023-C4,P023,primary,2025-06-12,Discussing friends and values,reconstructed_reference
+P024-C1,P024,primary,2025-06-12,Getting acquainted,reconstructed_reference
+P024-C2,P024,primary,2025-06-12,Planning a weekend,reconstructed_reference
+P024-C3,P024,primary,2025-06-12,Talking about work and memories,reconstructed_reference
+P024-C4,P024,primary,2025-06-12,Discussing friends and values,reconstructed_reference
+P025-C1,P025,primary,2025-06-12,Getting acquainted,reconstructed_reference
+P025-C2,P025,primary,2025-06-12,Planning a weekend,reconstructed_reference
+P025-C3,P025,primary,2025-06-12,Talking about work and memories,reconstructed_reference
+P025-C4,P025,primary,2025-06-12,Discussing friends and values,reconstructed_reference
+P026-C1,P026,primary,2025-06-12,Getting acquainted,reconstructed_reference
+P026-C2,P026,primary,2025-06-12,Planning a weekend,reconstructed_reference
+P026-C3,P026,primary,2025-06-12,Talking about work and memories,reconstructed_reference
+P026-C4,P026,primary,2025-06-12,Discussing friends and values,reconstructed_reference
+P027-C1,P027,primary,2025-06-12,Getting acquainted,reconstructed_reference
+P027-C2,P027,primary,2025-06-12,Planning a weekend,reconstructed_reference
+P027-C3,P027,primary,2025-06-12,Talking about work and memories,reconstructed_reference
+P027-C4,P027,primary,2025-06-12,Discussing friends and values,reconstructed_reference
+P028-C1,P028,primary,2025-06-12,Getting acquainted,reconstructed_reference
+P028-C2,P028,primary,2025-06-12,Planning a weekend,reconstructed_reference
+P028-C3,P028,primary,2025-06-12,Talking about work and memories,reconstructed_reference
+P028-C4,P028,primary,2025-06-12,Discussing friends and values,reconstructed_reference
+P029-C1,P029,primary,2025-06-12,Getting acquainted,reconstructed_reference
+P029-C2,P029,primary,2025-06-12,Planning a weekend,reconstructed_reference
+P029-C3,P029,primary,2025-06-12,Talking about work and memories,reconstructed_reference
+P029-C4,P029,primary,2025-06-12,Discussing friends and values,reconstructed_reference
+P030-C1,P030,primary,2025-06-12,Getting acquainted,reconstructed_reference
+P030-C2,P030,primary,2025-06-12,Planning a weekend,reconstructed_reference
+P030-C3,P030,primary,2025-06-12,Talking about work and memories,reconstructed_reference
+P030-C4,P030,primary,2025-06-12,Discussing friends and values,reconstructed_reference
+P031-C1,P031,primary,2025-06-12,Getting acquainted,reconstructed_reference
+P031-C2,P031,primary,2025-06-12,Planning a weekend,reconstructed_reference
+P031-C3,P031,primary,2025-06-12,Talking about work and memories,reconstructed_reference
+P031-C4,P031,primary,2025-06-12,Discussing friends and values,reconstructed_reference
+P032-C1,P032,primary,2025-06-12,Getting acquainted,reconstructed_reference
+P032-C2,P032,primary,2025-06-12,Planning a weekend,reconstructed_reference
+P032-C3,P032,primary,2025-06-12,Talking about work and memories,reconstructed_reference
+P032-C4,P032,primary,2025-06-12,Discussing friends and values,reconstructed_reference
+P033-C1,P033,primary,2025-06-12,Getting acquainted,reconstructed_reference
+P033-C2,P033,primary,2025-06-12,Planning a weekend,reconstructed_reference
+P033-C3,P033,primary,2025-06-12,Talking about work and memories,reconstructed_reference
+P033-C4,P033,primary,2025-06-12,Discussing friends and values,reconstructed_reference
+P034-C1,P034,primary,2025-06-12,Getting acquainted,reconstructed_reference
+P034-C2,P034,primary,2025-06-12,Planning a weekend,reconstructed_reference
+P034-C3,P034,primary,2025-06-12,Talking about work and memories,reconstructed_reference
+P034-C4,P034,primary,2025-06-12,Discussing friends and values,reconstructed_reference
+P035-C1,P035,primary,2025-06-12,Getting acquainted,reconstructed_reference
+P035-C2,P035,primary,2025-06-12,Planning a weekend,reconstructed_reference
+P035-C3,P035,primary,2025-06-12,Talking about work and memories,reconstructed_reference
+P035-C4,P035,primary,2025-06-12,Discussing friends and values,reconstructed_reference
+P036-C1,P036,primary,2025-06-12,Getting acquainted,reconstructed_reference
+P036-C2,P036,primary,2025-06-12,Planning a weekend,reconstructed_reference
+P036-C3,P036,primary,2025-06-12,Talking about work and memories,reconstructed_reference
+P036-C4,P036,primary,2025-06-12,Discussing friends and values,reconstructed_reference
+P037-C1,P037,primary,2025-06-12,Getting acquainted,reconstructed_reference
+P037-C2,P037,primary,2025-06-12,Planning a weekend,reconstructed_reference
+P037-C3,P037,primary,2025-06-12,Talking about work and memories,reconstructed_reference
+P037-C4,P037,primary,2025-06-12,Discussing friends and values,reconstructed_reference
+P038-C1,P038,primary,2025-06-12,Getting acquainted,reconstructed_reference
+P038-C2,P038,primary,2025-06-12,Planning a weekend,reconstructed_reference
+P038-C3,P038,primary,2025-06-12,Talking about work and memories,reconstructed_reference
+P038-C4,P038,primary,2025-06-12,Discussing friends and values,reconstructed_reference
+P039-C1,P039,primary,2025-06-12,Getting acquainted,reconstructed_reference
+P039-C2,P039,primary,2025-06-12,Planning a weekend,reconstructed_reference
+P039-C3,P039,primary,2025-06-12,Talking about work and memories,reconstructed_reference
+P039-C4,P039,primary,2025-06-12,Discussing friends and values,reconstructed_reference
+P040-C1,P040,primary,2025-06-12,Getting acquainted,reconstructed_reference
+P040-C2,P040,primary,2025-06-12,Planning a weekend,reconstructed_reference
+P040-C3,P040,primary,2025-06-12,Talking about work and memories,reconstructed_reference
+P040-C4,P040,primary,2025-06-12,Discussing friends and values,reconstructed_reference
+H001-C1,H001,held-out,2025-06-12,Getting acquainted,reconstructed_reference
+H001-C2,H001,held-out,2025-06-12,Planning a weekend,reconstructed_reference
+H001-C3,H001,held-out,2025-06-12,Talking about work and memories,reconstructed_reference
+H001-C4,H001,held-out,2025-06-12,Discussing friends and values,reconstructed_reference
+H002-C1,H002,held-out,2025-06-12,Getting acquainted,reconstructed_reference
+H002-C2,H002,held-out,2025-06-12,Planning a weekend,reconstructed_reference
+H002-C3,H002,held-out,2025-06-12,Talking about work and memories,reconstructed_reference
+H002-C4,H002,held-out,2025-06-12,Discussing friends and values,reconstructed_reference
+H003-C1,H003,held-out,2025-06-12,Getting acquainted,reconstructed_reference
+H003-C2,H003,held-out,2025-06-12,Planning a weekend,reconstructed_reference
+H003-C3,H003,held-out,2025-06-12,Talking about work and memories,reconstructed_reference
+H003-C4,H003,held-out,2025-06-12,Discussing friends and values,reconstructed_reference
+H004-C1,H004,held-out,2025-06-12,Getting acquainted,reconstructed_reference
+H004-C2,H004,held-out,2025-06-12,Planning a weekend,reconstructed_reference
+H004-C3,H004,held-out,2025-06-12,Talking about work and memories,reconstructed_reference
+H004-C4,H004,held-out,2025-06-12,Discussing friends and values,reconstructed_reference
+H005-C1,H005,held-out,2025-06-12,Getting acquainted,reconstructed_reference
+H005-C2,H005,held-out,2025-06-12,Planning a weekend,reconstructed_reference
+H005-C3,H005,held-out,2025-06-12,Talking about work and memories,reconstructed_reference
+H005-C4,H005,held-out,2025-06-12,Discussing friends and values,reconstructed_reference
+H006-C1,H006,held-out,2025-06-12,Getting acquainted,reconstructed_reference
+H006-C2,H006,held-out,2025-06-12,Planning a weekend,reconstructed_reference
+H006-C3,H006,held-out,2025-06-12,Talking about work and memories,reconstructed_reference
+H006-C4,H006,held-out,2025-06-12,Discussing friends and values,reconstructed_reference
+H007-C1,H007,held-out,2025-06-12,Getting acquainted,reconstructed_reference
+H007-C2,H007,held-out,2025-06-12,Planning a weekend,reconstructed_reference
+H007-C3,H007,held-out,2025-06-12,Talking about work and memories,reconstructed_reference
+H007-C4,H007,held-out,2025-06-12,Discussing friends and values,reconstructed_reference
+H008-C1,H008,held-out,2025-06-12,Getting acquainted,reconstructed_reference
+H008-C2,H008,held-out,2025-06-12,Planning a weekend,reconstructed_reference
+H008-C3,H008,held-out,2025-06-12,Talking about work and memories,reconstructed_reference
+H008-C4,H008,held-out,2025-06-12,Discussing friends and values,reconstructed_reference
+H009-C1,H009,held-out,2025-06-12,Getting acquainted,reconstructed_reference
+H009-C2,H009,held-out,2025-06-12,Planning a weekend,reconstructed_reference
+H009-C3,H009,held-out,2025-06-12,Talking about work and memories,reconstructed_reference
+H009-C4,H009,held-out,2025-06-12,Discussing friends and values,reconstructed_reference
+H010-C1,H010,held-out,2025-06-12,Getting acquainted,reconstructed_reference
+H010-C2,H010,held-out,2025-06-12,Planning a weekend,reconstructed_reference
+H010-C3,H010,held-out,2025-06-12,Talking about work and memories,reconstructed_reference
+H010-C4,H010,held-out,2025-06-12,Discussing friends and values,reconstructed_reference
+H011-C1,H011,held-out,2025-06-12,Getting acquainted,reconstructed_reference
+H011-C2,H011,held-out,2025-06-12,Planning a weekend,reconstructed_reference
+H011-C3,H011,held-out,2025-06-12,Talking about work and memories,reconstructed_reference
+H011-C4,H011,held-out,2025-06-12,Discussing friends and values,reconstructed_reference
+H012-C1,H012,held-out,2025-06-12,Getting acquainted,reconstructed_reference
+H012-C2,H012,held-out,2025-06-12,Planning a weekend,reconstructed_reference
+H012-C3,H012,held-out,2025-06-12,Talking about work and memories,reconstructed_reference
+H012-C4,H012,held-out,2025-06-12,Discussing friends and values,reconstructed_reference
+H013-C1,H013,held-out,2025-06-12,Getting acquainted,reconstructed_reference
+H013-C2,H013,held-out,2025-06-12,Planning a weekend,reconstructed_reference
+H013-C3,H013,held-out,2025-06-12,Talking about work and memories,reconstructed_reference
+H013-C4,H013,held-out,2025-06-12,Discussing friends and values,reconstructed_reference
+H014-C1,H014,held-out,2025-06-12,Getting acquainted,reconstructed_reference
+H014-C2,H014,held-out,2025-06-12,Planning a weekend,reconstructed_reference
+H014-C3,H014,held-out,2025-06-12,Talking about work and memories,reconstructed_reference
+H014-C4,H014,held-out,2025-06-12,Discussing friends and values,reconstructed_reference
+H015-C1,H015,held-out,2025-06-12,Getting acquainted,reconstructed_reference
+H015-C2,H015,held-out,2025-06-12,Planning a weekend,reconstructed_reference
+H015-C3,H015,held-out,2025-06-12,Talking about work and memories,reconstructed_reference
+H015-C4,H015,held-out,2025-06-12,Discussing friends and values,reconstructed_reference
+H016-C1,H016,held-out,2025-06-12,Getting acquainted,reconstructed_reference
+H016-C2,H016,held-out,2025-06-12,Planning a weekend,reconstructed_reference
+H016-C3,H016,held-out,2025-06-12,Talking about work and memories,reconstructed_reference
+H016-C4,H016,held-out,2025-06-12,Discussing friends and values,reconstructed_reference
+H017-C1,H017,held-out,2025-06-12,Getting acquainted,reconstructed_reference
+H017-C2,H017,held-out,2025-06-12,Planning a weekend,reconstructed_reference
+H017-C3,H017,held-out,2025-06-12,Talking about work and memories,reconstructed_reference
+H017-C4,H017,held-out,2025-06-12,Discussing friends and values,reconstructed_reference
+H018-C1,H018,held-out,2025-06-12,Getting acquainted,reconstructed_reference
+H018-C2,H018,held-out,2025-06-12,Planning a weekend,reconstructed_reference
+H018-C3,H018,held-out,2025-06-12,Talking about work and memories,reconstructed_reference
+H018-C4,H018,held-out,2025-06-12,Discussing friends and values,reconstructed_reference
+H019-C1,H019,held-out,2025-06-12,Getting acquainted,reconstructed_reference
+H019-C2,H019,held-out,2025-06-12,Planning a weekend,reconstructed_reference
+H019-C3,H019,held-out,2025-06-12,Talking about work and memories,reconstructed_reference
+H019-C4,H019,held-out,2025-06-12,Discussing friends and values,reconstructed_reference
+H020-C1,H020,held-out,2025-06-12,Getting acquainted,reconstructed_reference
+H020-C2,H020,held-out,2025-06-12,Planning a weekend,reconstructed_reference
+H020-C3,H020,held-out,2025-06-12,Talking about work and memories,reconstructed_reference
+H020-C4,H020,held-out,2025-06-12,Discussing friends and values,reconstructed_reference
+D001-EARLIER,D001,development,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+D002-EARLIER,D002,development,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+D003-EARLIER,D003,development,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+D004-EARLIER,D004,development,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+D005-EARLIER,D005,development,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+D006-EARLIER,D006,development,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+D007-EARLIER,D007,development,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+D008-EARLIER,D008,development,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+P001-EARLIER,P001,primary,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+P002-EARLIER,P002,primary,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+P003-EARLIER,P003,primary,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+P004-EARLIER,P004,primary,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+P005-EARLIER,P005,primary,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+P006-EARLIER,P006,primary,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+P007-EARLIER,P007,primary,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+P008-EARLIER,P008,primary,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+P009-EARLIER,P009,primary,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+P010-EARLIER,P010,primary,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+P011-EARLIER,P011,primary,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+P012-EARLIER,P012,primary,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+P013-EARLIER,P013,primary,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+P014-EARLIER,P014,primary,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+P015-EARLIER,P015,primary,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+P016-EARLIER,P016,primary,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+P017-EARLIER,P017,primary,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+P018-EARLIER,P018,primary,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+P019-EARLIER,P019,primary,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+P020-EARLIER,P020,primary,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+P021-EARLIER,P021,primary,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+P022-EARLIER,P022,primary,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+P023-EARLIER,P023,primary,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+P024-EARLIER,P024,primary,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+P025-EARLIER,P025,primary,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+P026-EARLIER,P026,primary,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+P027-EARLIER,P027,primary,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+P028-EARLIER,P028,primary,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+P029-EARLIER,P029,primary,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+P030-EARLIER,P030,primary,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+P031-EARLIER,P031,primary,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+P032-EARLIER,P032,primary,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+P033-EARLIER,P033,primary,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+P034-EARLIER,P034,primary,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+P035-EARLIER,P035,primary,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+P036-EARLIER,P036,primary,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+P037-EARLIER,P037,primary,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+P038-EARLIER,P038,primary,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+P039-EARLIER,P039,primary,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+P040-EARLIER,P040,primary,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+H001-EARLIER,H001,held-out,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+H002-EARLIER,H002,held-out,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+H003-EARLIER,H003,held-out,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+H004-EARLIER,H004,held-out,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+H005-EARLIER,H005,held-out,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+H006-EARLIER,H006,held-out,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+H007-EARLIER,H007,held-out,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+H008-EARLIER,H008,held-out,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+H009-EARLIER,H009,held-out,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+H010-EARLIER,H010,held-out,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+H011-EARLIER,H011,held-out,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+H012-EARLIER,H012,held-out,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+H013-EARLIER,H013,held-out,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+H014-EARLIER,H014,held-out,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+H015-EARLIER,H015,held-out,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+H016-EARLIER,H016,held-out,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+H017-EARLIER,H017,held-out,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+H018-EARLIER,H018,held-out,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+H019-EARLIER,H019,held-out,2025-02-04,Earlier preferences before corrections,reconstructed_reference
+H020-EARLIER,H020,held-out,2025-02-04,Earlier preferences before corrections,reconstructed_reference

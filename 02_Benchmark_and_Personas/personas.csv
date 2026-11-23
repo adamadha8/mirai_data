@@ -1,69 +1,69 @@
-persona_id,split,display_name,language,identity_version,provenance
-D001,development,Persona D001,English,v2,reconstructed_reference
-D002,development,Persona D002,English,v2,reconstructed_reference
-D003,development,Persona D003,English,v2,reconstructed_reference
-D004,development,Persona D004,English,v2,reconstructed_reference
-D005,development,Persona D005,English,v2,reconstructed_reference
-D006,development,Persona D006,English,v2,reconstructed_reference
-D007,development,Persona D007,English,v2,reconstructed_reference
-D008,development,Persona D008,English,v2,reconstructed_reference
-P001,primary,Persona P001,English,v2,reconstructed_reference
-P002,primary,Persona P002,English,v2,reconstructed_reference
-P003,primary,Persona P003,English,v2,reconstructed_reference
-P004,primary,Persona P004,English,v2,reconstructed_reference
-P005,primary,Persona P005,English,v2,reconstructed_reference
-P006,primary,Persona P006,English,v2,reconstructed_reference
-P007,primary,Persona P007,English,v2,reconstructed_reference
-P008,primary,Persona P008,English,v2,reconstructed_reference
-P009,primary,Persona P009,English,v2,reconstructed_reference
-P010,primary,Persona P010,English,v2,reconstructed_reference
-P011,primary,Persona P011,English,v2,reconstructed_reference
-P012,primary,Persona P012,English,v2,reconstructed_reference
-P013,primary,Persona P013,English,v2,reconstructed_reference
-P014,primary,Persona P014,English,v2,reconstructed_reference
-P015,primary,Persona P015,English,v2,reconstructed_reference
-P016,primary,Persona P016,English,v2,reconstructed_reference
-P017,primary,Persona P017,English,v2,reconstructed_reference
-P018,primary,Persona P018,English,v2,reconstructed_reference
-P019,primary,Persona P019,English,v2,reconstructed_reference
-P020,primary,Persona P020,English,v2,reconstructed_reference
-P021,primary,Persona P021,English,v2,reconstructed_reference
-P022,primary,Persona P022,English,v2,reconstructed_reference
-P023,primary,Persona P023,English,v2,reconstructed_reference
-P024,primary,Persona P024,English,v2,reconstructed_reference
-P025,primary,Persona P025,English,v2,reconstructed_reference
-P026,primary,Persona P026,English,v2,reconstructed_reference
-P027,primary,Persona P027,English,v2,reconstructed_reference
-P028,primary,Persona P028,English,v2,reconstructed_reference
-P029,primary,Persona P029,English,v2,reconstructed_reference
-P030,primary,Persona P030,English,v2,reconstructed_reference
-P031,primary,Persona P031,English,v2,reconstructed_reference
-P032,primary,Persona P032,English,v2,reconstructed_reference
-P033,primary,Persona P033,English,v2,reconstructed_reference
-P034,primary,Persona P034,English,v2,reconstructed_reference
-P035,primary,Persona P035,English,v2,reconstructed_reference
-P036,primary,Persona P036,English,v2,reconstructed_reference
-P037,primary,Persona P037,English,v2,reconstructed_reference
-P038,primary,Persona P038,English,v2,reconstructed_reference
-P039,primary,Persona P039,English,v2,reconstructed_reference
-P040,primary,Persona P040,English,v2,reconstructed_reference
-H001,held-out,Persona H001,Malay-English,v2,reconstructed_reference
-H002,held-out,Persona H002,Malay-English,v2,reconstructed_reference
-H003,held-out,Persona H003,Malay-English,v2,reconstructed_reference
-H004,held-out,Persona H004,Malay-English,v2,reconstructed_reference
-H005,held-out,Persona H005,Malay-English,v2,reconstructed_reference
-H006,held-out,Persona H006,Malay-English,v2,reconstructed_reference
-H007,held-out,Persona H007,Malay-English,v2,reconstructed_reference
-H008,held-out,Persona H008,Malay-English,v2,reconstructed_reference
-H009,held-out,Persona H009,Malay-English,v2,reconstructed_reference
-H010,held-out,Persona H010,Malay-English,v2,reconstructed_reference
-H011,held-out,Persona H011,Malay-English,v2,reconstructed_reference
-H012,held-out,Persona H012,Malay-English,v2,reconstructed_reference
-H013,held-out,Persona H013,Malay-English,v2,reconstructed_reference
-H014,held-out,Persona H014,Malay-English,v2,reconstructed_reference
-H015,held-out,Persona H015,Malay-English,v2,reconstructed_reference
-H016,held-out,Persona H016,Malay-English,v2,reconstructed_reference
-H017,held-out,Persona H017,Malay-English,v2,reconstructed_reference
-H018,held-out,Persona H018,Malay-English,v2,reconstructed_reference
-H019,held-out,Persona H019,Malay-English,v2,reconstructed_reference
-H020,held-out,Persona H020,Malay-English,v2,reconstructed_reference
+persona_id,split,display_name,language,identity_version,provenance,style_habit,recipient_relationship
+D001,development,Aina (synthetic D001),English,v2,reconstructed_reference,brief and friendly,friend
+D002,development,Farah (synthetic D002),English,v2,reconstructed_reference,polite and formal,colleague
+D003,development,Hafiz (synthetic D003),English,v2,reconstructed_reference,warm with a greeting,mentor
+D004,development,Mei (synthetic D004),English,v2,reconstructed_reference,concise with Malay phrases,family
+D005,development,Ravi (synthetic D005),English,v2,reconstructed_reference,brief and friendly,friend
+D006,development,Siti (synthetic D006),English,v2,reconstructed_reference,polite and formal,colleague
+D007,development,Daniel (synthetic D007),English,v2,reconstructed_reference,warm with a greeting,mentor
+D008,development,Amir (synthetic D008),English,v2,reconstructed_reference,concise with Malay phrases,family
+P001,primary,Nadia (synthetic P001),English,v2,reconstructed_reference,brief and friendly,friend
+P002,primary,Kumar (synthetic P002),English,v2,reconstructed_reference,polite and formal,colleague
+P003,primary,Azlan (synthetic P003),English,v2,reconstructed_reference,warm with a greeting,mentor
+P004,primary,Nurul (synthetic P004),English,v2,reconstructed_reference,concise with Malay phrases,family
+P005,primary,Aina (synthetic P005),English,v2,reconstructed_reference,brief and friendly,friend
+P006,primary,Farah (synthetic P006),English,v2,reconstructed_reference,polite and formal,colleague
+P007,primary,Hafiz (synthetic P007),English,v2,reconstructed_reference,warm with a greeting,mentor
+P008,primary,Mei (synthetic P008),English,v2,reconstructed_reference,concise with Malay phrases,family
+P009,primary,Ravi (synthetic P009),English,v2,reconstructed_reference,brief and friendly,friend
+P010,primary,Siti (synthetic P010),English,v2,reconstructed_reference,polite and formal,colleague
+P011,primary,Daniel (synthetic P011),English,v2,reconstructed_reference,warm with a greeting,mentor
+P012,primary,Amir (synthetic P012),English,v2,reconstructed_reference,concise with Malay phrases,family
+P013,primary,Nadia (synthetic P013),English,v2,reconstructed_reference,brief and friendly,friend
+P014,primary,Kumar (synthetic P014),English,v2,reconstructed_reference,polite and formal,colleague
+P015,primary,Azlan (synthetic P015),English,v2,reconstructed_reference,warm with a greeting,mentor
+P016,primary,Nurul (synthetic P016),English,v2,reconstructed_reference,concise with Malay phrases,family
+P017,primary,Aina (synthetic P017),English,v2,reconstructed_reference,brief and friendly,friend
+P018,primary,Farah (synthetic P018),English,v2,reconstructed_reference,polite and formal,colleague
+P019,primary,Hafiz (synthetic P019),English,v2,reconstructed_reference,warm with a greeting,mentor
+P020,primary,Mei (synthetic P020),English,v2,reconstructed_reference,concise with Malay phrases,family
+P021,primary,Ravi (synthetic P021),English,v2,reconstructed_reference,brief and friendly,friend
+P022,primary,Siti (synthetic P022),English,v2,reconstructed_reference,polite and formal,colleague
+P023,primary,Daniel (synthetic P023),English,v2,reconstructed_reference,warm with a greeting,mentor
+P024,primary,Amir (synthetic P024),English,v2,reconstructed_reference,concise with Malay phrases,family
+P025,primary,Nadia (synthetic P025),English,v2,reconstructed_reference,brief and friendly,friend
+P026,primary,Kumar (synthetic P026),English,v2,reconstructed_reference,polite and formal,colleague
+P027,primary,Azlan (synthetic P027),English,v2,reconstructed_reference,warm with a greeting,mentor
+P028,primary,Nurul (synthetic P028),English,v2,reconstructed_reference,concise with Malay phrases,family
+P029,primary,Aina (synthetic P029),English,v2,reconstructed_reference,brief and friendly,friend
+P030,primary,Farah (synthetic P030),English,v2,reconstructed_reference,polite and formal,colleague
+P031,primary,Hafiz (synthetic P031),English,v2,reconstructed_reference,warm with a greeting,mentor
+P032,primary,Mei (synthetic P032),English,v2,reconstructed_reference,concise with Malay phrases,family
+P033,primary,Ravi (synthetic P033),English,v2,reconstructed_reference,brief and friendly,friend
+P034,primary,Siti (synthetic P034),English,v2,reconstructed_reference,polite and formal,colleague
+P035,primary,Daniel (synthetic P035),English,v2,reconstructed_reference,warm with a greeting,mentor
+P036,primary,Amir (synthetic P036),English,v2,reconstructed_reference,concise with Malay phrases,family
+P037,primary,Nadia (synthetic P037),English,v2,reconstructed_reference,brief and friendly,friend
+P038,primary,Kumar (synthetic P038),English,v2,reconstructed_reference,polite and formal,colleague
+P039,primary,Azlan (synthetic P039),English,v2,reconstructed_reference,warm with a greeting,mentor
+P040,primary,Nurul (synthetic P040),English,v2,reconstructed_reference,concise with Malay phrases,family
+H001,held-out,Aina (synthetic H001),Malay-English,v2,reconstructed_reference,brief and friendly,friend
+H002,held-out,Farah (synthetic H002),Malay-English,v2,reconstructed_reference,polite and formal,colleague
+H003,held-out,Hafiz (synthetic H003),Malay-English,v2,reconstructed_reference,warm with a greeting,mentor
+H004,held-out,Mei (synthetic H004),Malay-English,v2,reconstructed_reference,concise with Malay phrases,family
+H005,held-out,Ravi (synthetic H005),Malay-English,v2,reconstructed_reference,brief and friendly,friend
+H006,held-out,Siti (synthetic H006),Malay-English,v2,reconstructed_reference,polite and formal,colleague
+H007,held-out,Daniel (synthetic H007),Malay-English,v2,reconstructed_reference,warm with a greeting,mentor
+H008,held-out,Amir (synthetic H008),Malay-English,v2,reconstructed_reference,concise with Malay phrases,family
+H009,held-out,Nadia (synthetic H009),Malay-English,v2,reconstructed_reference,brief and friendly,friend
+H010,held-out,Kumar (synthetic H010),Malay-English,v2,reconstructed_reference,polite and formal,colleague
+H011,held-out,Azlan (synthetic H011),Malay-English,v2,reconstructed_reference,warm with a greeting,mentor
+H012,held-out,Nurul (synthetic H012),Malay-English,v2,reconstructed_reference,concise with Malay phrases,family
+H013,held-out,Aina (synthetic H013),Malay-English,v2,reconstructed_reference,brief and friendly,friend
+H014,held-out,Farah (synthetic H014),Malay-English,v2,reconstructed_reference,polite and formal,colleague
+H015,held-out,Hafiz (synthetic H015),Malay-English,v2,reconstructed_reference,warm with a greeting,mentor
+H016,held-out,Mei (synthetic H016),Malay-English,v2,reconstructed_reference,concise with Malay phrases,family
+H017,held-out,Ravi (synthetic H017),Malay-English,v2,reconstructed_reference,brief and friendly,friend
+H018,held-out,Siti (synthetic H018),Malay-English,v2,reconstructed_reference,polite and formal,colleague
+H019,held-out,Daniel (synthetic H019),Malay-English,v2,reconstructed_reference,warm with a greeting,mentor
+H020,held-out,Amir (synthetic H020),Malay-English,v2,reconstructed_reference,concise with Malay phrases,family

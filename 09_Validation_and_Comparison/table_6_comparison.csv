@@ -1,0 +1,36 @@
+location,configuration,metric,reported,reconstructed,difference,status,source,assumption
+Table 6,No owner/consent gate,mean difference,0.051,0.050932272130639875,-6.772786936012215e-05,different,05_Statistical_Analysis/paired_comparisons.csv,Synthetic allocation; assumed analysis seed 20260619
+Table 6,No owner/consent gate,interval low,0.032,0.026792569616853414,-0.005207430383146586,different,05_Statistical_Analysis/paired_comparisons.csv,Synthetic allocation; assumed analysis seed 20260619
+Table 6,No owner/consent gate,interval high,0.07,0.07511593861960283,0.005115938619602828,different,05_Statistical_Analysis/paired_comparisons.csv,Synthetic allocation; assumed analysis seed 20260619
+Table 6,No owner/consent gate,raw p,0.0001,0.00039996000399960006,0.00029996000399960007,different,05_Statistical_Analysis/paired_comparisons.csv,Synthetic allocation; assumed analysis seed 20260619
+Table 6,No owner/consent gate,Holm p,0.0007,0.001999800019998,0.001299800019998,different,05_Statistical_Analysis/paired_comparisons.csv,Synthetic allocation; assumed analysis seed 20260619
+Table 6,No version ledger,mean difference,0.037,0.03609491730277872,-0.0009050826972212753,different,05_Statistical_Analysis/paired_comparisons.csv,Synthetic allocation; assumed analysis seed 20260619
+Table 6,No version ledger,interval low,0.017,0.01754692306391173,0.0005469230639117278,different,05_Statistical_Analysis/paired_comparisons.csv,Synthetic allocation; assumed analysis seed 20260619
+Table 6,No version ledger,interval high,0.057,0.054135907408309134,-0.0028640925916908686,different,05_Statistical_Analysis/paired_comparisons.csv,Synthetic allocation; assumed analysis seed 20260619
+Table 6,No version ledger,raw p,0.0013,0.0006999300069993001,-0.0006000699930006998,different,05_Statistical_Analysis/paired_comparisons.csv,Synthetic allocation; assumed analysis seed 20260619
+Table 6,No version ledger,Holm p,0.0039,0.0020997900209979003,-0.0018002099790020995,different,05_Statistical_Analysis/paired_comparisons.csv,Synthetic allocation; assumed analysis seed 20260619
+Table 6,No relationship style,mean difference,0.019,0.018803464204197047,-0.00019653579580295247,different,05_Statistical_Analysis/paired_comparisons.csv,Synthetic allocation; assumed analysis seed 20260619
+Table 6,No relationship style,interval low,-0.004,-0.002350307642612767,0.001649692357387233,different,05_Statistical_Analysis/paired_comparisons.csv,Synthetic allocation; assumed analysis seed 20260619
+Table 6,No relationship style,interval high,0.04,0.04011090458508846,0.0001109045850884588,different,05_Statistical_Analysis/paired_comparisons.csv,Synthetic allocation; assumed analysis seed 20260619
+Table 6,No relationship style,raw p,0.1108,0.08839116088391161,-0.02240883911608839,different,05_Statistical_Analysis/paired_comparisons.csv,Synthetic allocation; assumed analysis seed 20260619
+Table 6,No relationship style,Holm p,0.2216,0.1347865213478652,-0.08681347865213479,different,05_Statistical_Analysis/paired_comparisons.csv,Synthetic allocation; assumed analysis seed 20260619
+Table 6,No claim check,mean difference,0.016,0.015656020057002725,-0.0003439799429972752,different,05_Statistical_Analysis/paired_comparisons.csv,Synthetic allocation; assumed analysis seed 20260619
+Table 6,No claim check,interval low,-0.011,-0.0007512698272191976,0.010248730172780801,different,05_Statistical_Analysis/paired_comparisons.csv,Synthetic allocation; assumed analysis seed 20260619
+Table 6,No claim check,interval high,0.043,0.03209294247835219,-0.010907057521647806,different,05_Statistical_Analysis/paired_comparisons.csv,Synthetic allocation; assumed analysis seed 20260619
+Table 6,No claim check,raw p,0.269,0.0673932606739326,-0.20160673932606743,different,05_Statistical_Analysis/paired_comparisons.csv,Synthetic allocation; assumed analysis seed 20260619
+Table 6,No claim check,Holm p,0.269,0.1347865213478652,-0.13421347865213482,different,05_Statistical_Analysis/paired_comparisons.csv,Synthetic allocation; assumed analysis seed 20260619
+Table 6,Flat RAG,mean difference,0.091,0.09053772566039273,-0.0004622743396072715,different,05_Statistical_Analysis/paired_comparisons.csv,Synthetic allocation; assumed analysis seed 20260619
+Table 6,Flat RAG,interval low,0.07,0.0658229179629262,-0.004177082037073801,different,05_Statistical_Analysis/paired_comparisons.csv,Synthetic allocation; assumed analysis seed 20260619
+Table 6,Flat RAG,interval high,0.112,0.11576496138619333,0.0037649613861933245,different,05_Statistical_Analysis/paired_comparisons.csv,Synthetic allocation; assumed analysis seed 20260619
+Table 6,Flat RAG,raw p,0.0001,9.999000099990002e-05,-9.999000099989363e-09,matches rounding,05_Statistical_Analysis/paired_comparisons.csv,Synthetic allocation; assumed analysis seed 20260619
+Table 6,Flat RAG,Holm p,0.0007,0.0006999300069993001,-6.999300069989844e-08,matches rounding,05_Statistical_Analysis/paired_comparisons.csv,Synthetic allocation; assumed analysis seed 20260619
+Table 6,Tiered memory,mean difference,0.057,0.05725201395669941,0.0002520139566994095,different,05_Statistical_Analysis/paired_comparisons.csv,Synthetic allocation; assumed analysis seed 20260619
+Table 6,Tiered memory,interval low,0.032,0.032598521149070775,0.0005985211490707742,different,05_Statistical_Analysis/paired_comparisons.csv,Synthetic allocation; assumed analysis seed 20260619
+Table 6,Tiered memory,interval high,0.081,0.0830489386118738,0.0020489386118738018,different,05_Statistical_Analysis/paired_comparisons.csv,Synthetic allocation; assumed analysis seed 20260619
+Table 6,Tiered memory,raw p,0.0002,0.00029997000299970003,9.997000299970002e-05,different,05_Statistical_Analysis/paired_comparisons.csv,Synthetic allocation; assumed analysis seed 20260619
+Table 6,Tiered memory,Holm p,0.0008,0.0017998200179982003,0.0009998200179982004,different,05_Statistical_Analysis/paired_comparisons.csv,Synthetic allocation; assumed analysis seed 20260619
+Table 6,Extract/consolidate,mean difference,0.042,0.042529148699451826,0.000529148699451823,different,05_Statistical_Analysis/paired_comparisons.csv,Synthetic allocation; assumed analysis seed 20260619
+Table 6,Extract/consolidate,interval low,0.023,0.022091916317182807,-0.0009080836828171922,different,05_Statistical_Analysis/paired_comparisons.csv,Synthetic allocation; assumed analysis seed 20260619
+Table 6,Extract/consolidate,interval high,0.062,0.06354444204768987,0.001544442047689873,different,05_Statistical_Analysis/paired_comparisons.csv,Synthetic allocation; assumed analysis seed 20260619
+Table 6,Extract/consolidate,raw p,0.0001,0.00039996000399960006,0.00029996000399960007,different,05_Statistical_Analysis/paired_comparisons.csv,Synthetic allocation; assumed analysis seed 20260619
+Table 6,Extract/consolidate,Holm p,0.0007,0.001999800019998,0.001299800019998,different,05_Statistical_Analysis/paired_comparisons.csv,Synthetic allocation; assumed analysis seed 20260619

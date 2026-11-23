@@ -1,321 +1,321 @@
-response_id,decision,provenance
-AUD-001,0,reconstructed_reference
-AUD-002,1,reconstructed_reference
-AUD-003,1,reconstructed_reference
-AUD-004,1,reconstructed_reference
-AUD-005,1,reconstructed_reference
-AUD-006,1,reconstructed_reference
-AUD-007,1,reconstructed_reference
-AUD-008,1,reconstructed_reference
-AUD-009,1,reconstructed_reference
-AUD-010,1,reconstructed_reference
-AUD-011,1,reconstructed_reference
-AUD-012,1,reconstructed_reference
-AUD-013,1,reconstructed_reference
-AUD-014,0,reconstructed_reference
-AUD-015,1,reconstructed_reference
-AUD-016,1,reconstructed_reference
-AUD-017,1,reconstructed_reference
-AUD-018,0,reconstructed_reference
-AUD-019,1,reconstructed_reference
-AUD-020,1,reconstructed_reference
-AUD-021,1,reconstructed_reference
-AUD-022,1,reconstructed_reference
-AUD-023,1,reconstructed_reference
-AUD-024,1,reconstructed_reference
-AUD-025,1,reconstructed_reference
-AUD-026,1,reconstructed_reference
-AUD-027,1,reconstructed_reference
-AUD-028,1,reconstructed_reference
-AUD-029,1,reconstructed_reference
-AUD-030,1,reconstructed_reference
-AUD-031,1,reconstructed_reference
-AUD-032,1,reconstructed_reference
-AUD-033,1,reconstructed_reference
-AUD-034,1,reconstructed_reference
-AUD-035,0,reconstructed_reference
-AUD-036,1,reconstructed_reference
-AUD-037,1,reconstructed_reference
-AUD-038,1,reconstructed_reference
-AUD-039,1,reconstructed_reference
-AUD-040,0,reconstructed_reference
-AUD-041,0,reconstructed_reference
-AUD-042,0,reconstructed_reference
-AUD-043,1,reconstructed_reference
-AUD-044,0,reconstructed_reference
-AUD-045,1,reconstructed_reference
-AUD-046,1,reconstructed_reference
-AUD-047,1,reconstructed_reference
-AUD-048,1,reconstructed_reference
-AUD-049,1,reconstructed_reference
-AUD-050,1,reconstructed_reference
-AUD-051,1,reconstructed_reference
-AUD-052,1,reconstructed_reference
-AUD-053,1,reconstructed_reference
-AUD-054,1,reconstructed_reference
-AUD-055,1,reconstructed_reference
-AUD-056,1,reconstructed_reference
-AUD-057,1,reconstructed_reference
-AUD-058,0,reconstructed_reference
-AUD-059,1,reconstructed_reference
-AUD-060,1,reconstructed_reference
-AUD-061,1,reconstructed_reference
-AUD-062,1,reconstructed_reference
-AUD-063,1,reconstructed_reference
-AUD-064,1,reconstructed_reference
-AUD-065,1,reconstructed_reference
-AUD-066,1,reconstructed_reference
-AUD-067,1,reconstructed_reference
-AUD-068,1,reconstructed_reference
-AUD-069,1,reconstructed_reference
-AUD-070,1,reconstructed_reference
-AUD-071,1,reconstructed_reference
-AUD-072,0,reconstructed_reference
-AUD-073,1,reconstructed_reference
-AUD-074,1,reconstructed_reference
-AUD-075,1,reconstructed_reference
-AUD-076,1,reconstructed_reference
-AUD-077,1,reconstructed_reference
-AUD-078,1,reconstructed_reference
-AUD-079,1,reconstructed_reference
-AUD-080,1,reconstructed_reference
-AUD-081,1,reconstructed_reference
-AUD-082,1,reconstructed_reference
-AUD-083,1,reconstructed_reference
-AUD-084,1,reconstructed_reference
-AUD-085,1,reconstructed_reference
-AUD-086,1,reconstructed_reference
-AUD-087,1,reconstructed_reference
-AUD-088,1,reconstructed_reference
-AUD-089,1,reconstructed_reference
-AUD-090,1,reconstructed_reference
-AUD-091,1,reconstructed_reference
-AUD-092,1,reconstructed_reference
-AUD-093,1,reconstructed_reference
-AUD-094,1,reconstructed_reference
-AUD-095,1,reconstructed_reference
-AUD-096,1,reconstructed_reference
-AUD-097,1,reconstructed_reference
-AUD-098,1,reconstructed_reference
-AUD-099,1,reconstructed_reference
-AUD-100,1,reconstructed_reference
-AUD-101,1,reconstructed_reference
-AUD-102,1,reconstructed_reference
-AUD-103,1,reconstructed_reference
-AUD-104,1,reconstructed_reference
-AUD-105,1,reconstructed_reference
-AUD-106,1,reconstructed_reference
-AUD-107,1,reconstructed_reference
-AUD-108,1,reconstructed_reference
-AUD-109,1,reconstructed_reference
-AUD-110,0,reconstructed_reference
-AUD-111,1,reconstructed_reference
-AUD-112,1,reconstructed_reference
-AUD-113,0,reconstructed_reference
-AUD-114,1,reconstructed_reference
-AUD-115,0,reconstructed_reference
-AUD-116,1,reconstructed_reference
-AUD-117,1,reconstructed_reference
-AUD-118,1,reconstructed_reference
-AUD-119,0,reconstructed_reference
-AUD-120,1,reconstructed_reference
-AUD-121,0,reconstructed_reference
-AUD-122,1,reconstructed_reference
-AUD-123,1,reconstructed_reference
-AUD-124,1,reconstructed_reference
-AUD-125,1,reconstructed_reference
-AUD-126,1,reconstructed_reference
-AUD-127,0,reconstructed_reference
-AUD-128,1,reconstructed_reference
-AUD-129,0,reconstructed_reference
-AUD-130,1,reconstructed_reference
-AUD-131,1,reconstructed_reference
-AUD-132,1,reconstructed_reference
-AUD-133,1,reconstructed_reference
-AUD-134,0,reconstructed_reference
-AUD-135,1,reconstructed_reference
-AUD-136,1,reconstructed_reference
-AUD-137,1,reconstructed_reference
-AUD-138,0,reconstructed_reference
-AUD-139,1,reconstructed_reference
-AUD-140,1,reconstructed_reference
-AUD-141,1,reconstructed_reference
-AUD-142,1,reconstructed_reference
-AUD-143,1,reconstructed_reference
-AUD-144,1,reconstructed_reference
-AUD-145,0,reconstructed_reference
-AUD-146,1,reconstructed_reference
-AUD-147,1,reconstructed_reference
-AUD-148,1,reconstructed_reference
-AUD-149,1,reconstructed_reference
-AUD-150,1,reconstructed_reference
-AUD-151,0,reconstructed_reference
-AUD-152,0,reconstructed_reference
-AUD-153,1,reconstructed_reference
-AUD-154,1,reconstructed_reference
-AUD-155,1,reconstructed_reference
-AUD-156,1,reconstructed_reference
-AUD-157,1,reconstructed_reference
-AUD-158,1,reconstructed_reference
-AUD-159,1,reconstructed_reference
-AUD-160,1,reconstructed_reference
-AUD-161,0,reconstructed_reference
-AUD-162,0,reconstructed_reference
-AUD-163,0,reconstructed_reference
-AUD-164,1,reconstructed_reference
-AUD-165,1,reconstructed_reference
-AUD-166,1,reconstructed_reference
-AUD-167,1,reconstructed_reference
-AUD-168,1,reconstructed_reference
-AUD-169,1,reconstructed_reference
-AUD-170,1,reconstructed_reference
-AUD-171,1,reconstructed_reference
-AUD-172,1,reconstructed_reference
-AUD-173,1,reconstructed_reference
-AUD-174,0,reconstructed_reference
-AUD-175,1,reconstructed_reference
-AUD-176,1,reconstructed_reference
-AUD-177,1,reconstructed_reference
-AUD-178,0,reconstructed_reference
-AUD-179,1,reconstructed_reference
-AUD-180,1,reconstructed_reference
-AUD-181,1,reconstructed_reference
-AUD-182,1,reconstructed_reference
-AUD-183,1,reconstructed_reference
-AUD-184,1,reconstructed_reference
-AUD-185,1,reconstructed_reference
-AUD-186,1,reconstructed_reference
-AUD-187,1,reconstructed_reference
-AUD-188,1,reconstructed_reference
-AUD-189,1,reconstructed_reference
-AUD-190,1,reconstructed_reference
-AUD-191,1,reconstructed_reference
-AUD-192,1,reconstructed_reference
-AUD-193,1,reconstructed_reference
-AUD-194,1,reconstructed_reference
-AUD-195,0,reconstructed_reference
-AUD-196,1,reconstructed_reference
-AUD-197,1,reconstructed_reference
-AUD-198,0,reconstructed_reference
-AUD-199,1,reconstructed_reference
-AUD-200,1,reconstructed_reference
-AUD-201,0,reconstructed_reference
-AUD-202,1,reconstructed_reference
-AUD-203,1,reconstructed_reference
-AUD-204,1,reconstructed_reference
-AUD-205,1,reconstructed_reference
-AUD-206,1,reconstructed_reference
-AUD-207,1,reconstructed_reference
-AUD-208,1,reconstructed_reference
-AUD-209,1,reconstructed_reference
-AUD-210,1,reconstructed_reference
-AUD-211,1,reconstructed_reference
-AUD-212,1,reconstructed_reference
-AUD-213,1,reconstructed_reference
-AUD-214,0,reconstructed_reference
-AUD-215,1,reconstructed_reference
-AUD-216,0,reconstructed_reference
-AUD-217,1,reconstructed_reference
-AUD-218,0,reconstructed_reference
-AUD-219,0,reconstructed_reference
-AUD-220,0,reconstructed_reference
-AUD-221,1,reconstructed_reference
-AUD-222,0,reconstructed_reference
-AUD-223,1,reconstructed_reference
-AUD-224,0,reconstructed_reference
-AUD-225,1,reconstructed_reference
-AUD-226,1,reconstructed_reference
-AUD-227,1,reconstructed_reference
-AUD-228,1,reconstructed_reference
-AUD-229,1,reconstructed_reference
-AUD-230,1,reconstructed_reference
-AUD-231,0,reconstructed_reference
-AUD-232,0,reconstructed_reference
-AUD-233,1,reconstructed_reference
-AUD-234,1,reconstructed_reference
-AUD-235,1,reconstructed_reference
-AUD-236,1,reconstructed_reference
-AUD-237,1,reconstructed_reference
-AUD-238,1,reconstructed_reference
-AUD-239,1,reconstructed_reference
-AUD-240,0,reconstructed_reference
-AUD-241,0,reconstructed_reference
-AUD-242,0,reconstructed_reference
-AUD-243,1,reconstructed_reference
-AUD-244,1,reconstructed_reference
-AUD-245,0,reconstructed_reference
-AUD-246,1,reconstructed_reference
-AUD-247,1,reconstructed_reference
-AUD-248,1,reconstructed_reference
-AUD-249,1,reconstructed_reference
-AUD-250,1,reconstructed_reference
-AUD-251,1,reconstructed_reference
-AUD-252,1,reconstructed_reference
-AUD-253,0,reconstructed_reference
-AUD-254,1,reconstructed_reference
-AUD-255,0,reconstructed_reference
-AUD-256,1,reconstructed_reference
-AUD-257,1,reconstructed_reference
-AUD-258,0,reconstructed_reference
-AUD-259,1,reconstructed_reference
-AUD-260,0,reconstructed_reference
-AUD-261,1,reconstructed_reference
-AUD-262,1,reconstructed_reference
-AUD-263,1,reconstructed_reference
-AUD-264,0,reconstructed_reference
-AUD-265,0,reconstructed_reference
-AUD-266,0,reconstructed_reference
-AUD-267,1,reconstructed_reference
-AUD-268,1,reconstructed_reference
-AUD-269,1,reconstructed_reference
-AUD-270,1,reconstructed_reference
-AUD-271,1,reconstructed_reference
-AUD-272,1,reconstructed_reference
-AUD-273,1,reconstructed_reference
-AUD-274,1,reconstructed_reference
-AUD-275,0,reconstructed_reference
-AUD-276,0,reconstructed_reference
-AUD-277,0,reconstructed_reference
-AUD-278,1,reconstructed_reference
-AUD-279,0,reconstructed_reference
-AUD-280,0,reconstructed_reference
-AUD-281,1,reconstructed_reference
-AUD-282,0,reconstructed_reference
-AUD-283,1,reconstructed_reference
-AUD-284,1,reconstructed_reference
-AUD-285,1,reconstructed_reference
-AUD-286,1,reconstructed_reference
-AUD-287,1,reconstructed_reference
-AUD-288,1,reconstructed_reference
-AUD-289,1,reconstructed_reference
-AUD-290,1,reconstructed_reference
-AUD-291,1,reconstructed_reference
-AUD-292,1,reconstructed_reference
-AUD-293,1,reconstructed_reference
-AUD-294,1,reconstructed_reference
-AUD-295,1,reconstructed_reference
-AUD-296,1,reconstructed_reference
-AUD-297,1,reconstructed_reference
-AUD-298,0,reconstructed_reference
-AUD-299,1,reconstructed_reference
-AUD-300,1,reconstructed_reference
-AUD-301,1,reconstructed_reference
-AUD-302,1,reconstructed_reference
-AUD-303,1,reconstructed_reference
-AUD-304,1,reconstructed_reference
-AUD-305,1,reconstructed_reference
-AUD-306,1,reconstructed_reference
-AUD-307,1,reconstructed_reference
-AUD-308,1,reconstructed_reference
-AUD-309,1,reconstructed_reference
-AUD-310,1,reconstructed_reference
-AUD-311,1,reconstructed_reference
-AUD-312,1,reconstructed_reference
-AUD-313,1,reconstructed_reference
-AUD-314,1,reconstructed_reference
-AUD-315,0,reconstructed_reference
-AUD-316,1,reconstructed_reference
-AUD-317,1,reconstructed_reference
-AUD-318,0,reconstructed_reference
-AUD-319,1,reconstructed_reference
-AUD-320,1,reconstructed_reference
+response_id,claim,style,rationale,provenance
+AUD-001,0,0,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-002,0,0,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-003,0,0,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-004,0,0,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-005,0,0,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-006,0,0,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-007,0,0,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-008,0,0,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-009,0,1,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-010,0,0,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-011,0,0,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-012,0,0,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-013,0,1,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-014,0,0,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-015,0,0,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-016,0,0,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-017,0,0,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-018,0,1,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-019,0,0,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-020,0,0,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-021,1,0,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-022,1,0,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-023,1,0,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-024,1,0,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-025,1,0,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-026,1,1,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-027,1,1,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-028,1,1,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-029,1,1,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-030,1,1,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-031,1,1,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-032,1,1,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-033,1,0,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-034,1,0,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-035,1,1,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-036,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-037,0,0,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-038,0,0,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-039,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-040,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-041,1,1,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-042,1,1,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-043,1,1,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-044,1,1,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-045,1,1,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-046,1,0,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-047,1,1,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-048,1,1,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-049,1,1,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-050,1,1,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-051,1,1,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-052,1,1,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-053,1,1,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-054,1,1,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-055,1,1,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-056,1,0,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-057,1,1,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-058,1,1,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-059,1,1,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-060,1,1,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-061,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-062,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-063,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-064,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-065,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-066,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-067,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-068,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-069,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-070,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-071,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-072,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-073,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-074,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-075,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-076,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-077,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-078,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-079,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-080,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-081,1,1,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-082,1,1,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-083,1,1,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-084,1,0,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-085,1,1,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-086,1,1,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-087,1,1,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-088,1,1,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-089,1,0,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-090,1,1,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-091,1,1,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-092,1,1,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-093,1,1,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-094,1,1,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-095,1,1,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-096,1,1,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-097,1,0,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-098,1,0,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-099,1,1,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-100,1,1,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-101,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-102,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-103,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-104,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-105,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-106,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-107,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-108,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-109,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-110,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-111,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-112,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-113,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-114,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-115,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-116,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-117,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-118,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-119,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-120,0,0,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-121,1,1,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-122,1,1,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-123,1,0,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-124,1,1,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-125,1,0,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-126,1,0,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-127,1,0,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-128,1,1,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-129,1,1,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-130,1,1,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-131,1,0,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-132,1,0,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-133,1,1,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-134,1,1,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-135,1,1,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-136,1,1,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-137,1,1,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-138,1,1,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-139,1,1,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-140,1,1,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-141,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-142,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-143,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-144,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-145,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-146,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-147,0,0,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-148,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-149,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-150,0,0,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-151,0,0,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-152,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-153,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-154,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-155,0,0,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-156,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-157,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-158,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-159,0,0,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-160,0,0,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-161,1,1,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-162,1,0,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-163,1,1,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-164,1,1,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-165,1,1,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-166,1,1,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-167,1,1,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-168,1,1,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-169,1,1,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-170,1,1,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-171,1,1,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-172,1,1,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-173,1,1,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-174,1,1,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-175,1,1,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-176,1,1,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-177,1,1,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-178,1,1,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-179,1,1,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-180,1,1,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-181,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-182,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-183,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-184,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-185,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-186,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-187,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-188,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-189,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-190,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-191,0,0,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-192,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-193,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-194,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-195,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-196,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-197,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-198,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-199,0,0,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-200,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-201,1,1,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-202,1,0,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-203,1,1,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-204,1,0,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-205,1,1,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-206,1,1,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-207,1,1,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-208,1,1,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-209,1,1,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-210,1,1,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-211,1,1,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-212,1,0,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-213,1,1,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-214,1,0,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-215,1,1,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-216,1,1,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-217,1,1,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-218,1,1,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-219,1,1,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-220,1,1,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-221,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-222,0,0,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-223,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-224,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-225,0,0,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-226,0,0,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-227,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-228,0,0,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-229,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-230,0,0,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-231,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-232,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-233,0,0,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-234,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-235,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-236,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-237,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-238,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-239,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-240,0,0,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-241,1,1,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-242,1,1,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-243,1,1,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-244,1,1,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-245,1,1,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-246,1,1,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-247,1,1,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-248,1,1,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-249,1,0,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-250,1,1,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-251,1,1,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-252,1,1,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-253,1,1,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-254,1,1,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-255,1,1,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-256,1,1,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-257,1,1,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-258,1,1,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-259,1,1,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-260,1,1,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-261,0,0,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-262,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-263,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-264,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-265,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-266,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-267,0,0,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-268,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-269,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-270,0,0,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-271,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-272,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-273,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-274,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-275,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-276,0,0,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-277,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-278,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-279,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-280,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-281,1,0,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-282,1,1,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-283,1,1,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-284,1,1,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-285,1,1,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-286,1,1,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-287,1,0,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-288,1,1,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-289,1,0,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-290,1,1,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-291,1,1,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-292,1,0,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-293,1,1,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-294,1,1,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-295,1,1,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-296,1,1,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-297,1,1,Value agrees with active evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-298,1,1,Value agrees with active evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-299,1,1,Value agrees with active evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-300,1,1,Value agrees with active evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-301,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-302,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-303,0,0,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-304,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-305,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-306,0,0,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-307,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-308,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-309,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-310,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-311,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-312,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-313,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-314,0,0,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-315,0,0,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-316,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference
+AUD-317,0,0,Value missing or differs from expected evidence; Synthetic assigned verdict for length,reconstructed_reference
+AUD-318,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for formality,reconstructed_reference
+AUD-319,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for greeting,reconstructed_reference
+AUD-320,0,1,Value missing or differs from expected evidence; Synthetic assigned verdict for language,reconstructed_reference

@@ -1,0 +1,775 @@
+MIRAI: Evidence-Scoped Identity Continuity for
+     Long-Term Conversational Agents
+
+Adam Adha Bin Kamarul Zaman1* and Ibrahim Bin Mohamed1
+    1*
+     Faculty of Information Science and Technology, Universiti
+  Kebangsaan Malaysia, 43600, UKM Bangi, Selangor, Malaysia.
+
+
+*Corresponding author(s). E-mail(s): p161253@siswa.ukm.edu.my;
+         Contributing authors: ibrahim@ukm.edu.my;
+
+
+                                    Abstract
+Long-term conversational systems can recall past exchanges, but they may con-
+fuse speakers, attribute one speaker’s statement to another persona, or make
+personal claims without adequate evidence. MIRAI addresses these issues with
+an evidence-scoped identity ledger. The ledger combines the ownership of sources,
+time-in-valid records, update by version, recipient-sensitive style rules and a
+response level claim check. We tested the system using a controlled benchmark of
+40 test personas, 1,600 identity items, 400 no-evidence trials, 240 identity-update
+trials, and 800 source-attribution trials. More challenging conditions and wording
+were tested with an additional 20 personas. The full configuration returned the
+expected identity value for 1,417 of 1,600 items and the correct updated value for
+216 of 240 update trials. Abstention accuracy was 0.893, source-attribution accu-
+racy was 0.948, and style-constraint satisfaction was 0.919. The entire system
+scored higher on the benchmark-specific item measure in the matched compar-
+isons compared than other versions that did not have the ownership-and-consent
+gate or the version ledger. The descriptive results also revealed that recipient-
+sensitive style had its most evident influence on style compliance and claim
+checking on abstention from unsupported claims.
+
+Keywords: conversational memory, identity continuity, persona benchmark,
+provenance, versioned updates
+
+
+
+
+                                        1
+1 Introduction
+A conversational agent may also make the incorrect response even on a statement that
+is recalled by a long-term, conversational agent. This may occur when the statement
+was made by some other speaker, relates to a preference that has become obsolete
+or when it was not allowed to be incorporated in the persona profile. MIRAI brings
+these differences to the fore. Identity continuity in this work is consistent with the
+record that exists, in real-time; this does not imply that the system represents the
+consciousness or judgment of a real person.
+    The previous conversations are more readily available with persistent memory.
+Even retrieval is, however, insufficient to determine the ownership of a statement, or
+whether the fact itself is up to date, or the adequacy of the evidence to a personal
+claim. MIRAI puts these decisions within the memory pipeline, rather than putting
+them completely within the response model.
+    We explore how an evidence-scoped, versioned identity pipeline can minimize the
+unsupported and false claims of identity. We also quantify its influence on accuracy
+on items, on abstention, on identity updates, on source attribution, and style sensitive
+to the recipient. In all the comparisons, the response model, corpus, prompt, budget
+of retrieval, and the settings of decoding were held constant. Clearly defined con-
+trol bundles, ownership-and-consent gate and the version ledger were tested whereas
+recipient-sensitive style, and claim checking were discarded one at a time.
+    It is not just another memory store, but an identity-continuity pathway which can
+be audited. Sources of a claim, the duration of validity of the claim, the version of the
+active identity, the policy of style used with the intended recipient, and the evidence
+used to support each individual claim is recorded in MIRAI among the final response.
+The benchmark looks at the failure at all these decision points as opposed to a single
+score of monitoring memory.
+    As a smart information system, MIRAI relates a generative response model to a
+record layer that organizes knowledge and is changed. The provenance, consent, and
+valid time are explicitly stored as database fields rather than being smashed down
+into an untyped index of conversations. Supersession and recipient policy are also
+explicitly stored as database fields. The design thus also facilitates intelligent retrieval
+and generation of answers while keeping the link between stored evidence and the
+final answer traceable and open to inspection. A potential use case is a conversational
+service (with multiple users) in which preferences and personal facts are dynamic,
+multiple speakers make statements, and the allowed answer form is dependent on who
+is receiving the answer.
+    The study has four practical questions guiding it. First, does the ownership-and-
+consent gate help to minimize source attribution errors? Second, is the valid-time
+version better in providing the answers following an identity update? Third, are
+recipient-specific rules better than no rules as far as adherence to observable style
+requirements? Lastly, does checking by response level of claims help the system abstain
+from answering in cases where the system lacks evidence? We take the questions one
+at a time since a single score in retrieval cannot provide information as to where an
+identity-continuity pipeline is working or not.
+
+
+
+                                             2
+Table 1 Relationship between prior work and the controls evaluated in MIRAI
+
+Prior work          Established focus             Relation to MIRAI’s control scope
+MemGPT [13]         Hierarchical memory man-      Persistence and context management; is
+                    agement                       not a policy-bearing evidence contract
+Mem0 [2]            Long-term extraction, con-    Memory operations; not a unified process
+                    solidation, and retrieval     combining consent, valid-time identity,
+                                                  recipient policy, and claim checks.
+LoCoMo [6]          Long multi-session dia-       Long-horizon assessment; not an
+                    logue benchmark               enforcement architecture.
+LongMemEval         Extraction,     reasoning,    Outcome evaluation; not source, consent,
+[17]                updates, and abstention       recipient-policy enforcement.
+TReMu [4]           Time-aware memorisation       Temporal controls; not a complete
+                    and temporal reasoning        evidence path.
+THEANINE [7]        Timeline-based evolving-      Causality and event evolution; not
+                    event memory                  response-level identity-claim verification.
+Collaborative       Provenance-aware sharing      The most similar provenance and
+Memory [15]         and dynamic access control    permission controls; does not combine all
+                                                  MIRAI controls.
+Stratified          Type-conditional retrieval    Intimately connected with typed and
+Context Recon-      and temporal supersession     time-based retrieval controls, but not an
+struction [1]       resolution                    enforcement mechanism of requirement of
+                                                  source, consent, recipient, and claim.
+DPCA [16]           Participant-specific cogni-   Very similar source-separation
+                    tive memory and source        mechanism; not an associate of consent-
+                    monitoring                    aware admission, valid-time identity,
+                                                  recipient policy and claim verification.
+
+
+2 Related work and research gap
+Table 1 compares MIRAI with the main approaches to memory, temporal reasoning,
+provenance, and evaluation considered in this study.
+    MemGPT controls context capacity, using a hierarchical memory structure [13].
+Mem0 focuses on the scalable extraction, consolidation, and retrieval of long-term
+memories [2]. For evaluation, LoCoMo tests recall and reasoning in very long con-
+versations [6], whereas LongMemEval includes information extraction, multi-session,
+and temporal reasoning, knowledge updates, and abstention [17]. TReMu and THEA-
+NINE add time-aware reasoning and temporal memory models [4, 7]. Collaborative
+Memory provides provenance-sensitive sharing and dynamic access control [15]. Strat-
+ified Context Reconstruction isolates governing facts and episodic memories and uses
+temporally stratified retrieval to resolve superseded facts [1]. In other recent papers,
+long-term dialogue memory is defined in terms of participant-specific source monitor-
+ing [16] and through distinctions between operational recall in language models and
+biological memory [14]. Persistence, retrieval, temporal updating, provenance, typed
+retrieval and access control have already been defined in this body of work. MIRAI
+differs in how it combines and evaluates these controls.
+
+
+
+
+                                             3
+    The individual capabilities are therefore not new. The changing conversational
+events in TReMu and THEANINE are structured to support temporal reasoning.
+Combining provenance with asymmetric access rules that may evolve over time is
+the focus of Collaborative Memory, while distinguishing governing facts from episodic
+memories and resolving superseded records is the focus of Stratified Context Recon-
+struction. DPCA is more specific to the memory and source monitoring of participants,
+as compared to Mem0, which is concerned with the extraction and consolidation
+of memory. Long-horizon recall, updating, reasoning, and abstention are evaluated
+by LoCoMo and LongMemEval. Accordingly, MIRAI does not claim that temporal
+updating, typed retrieval, provenance, source monitoring, access control, or long-term
+retrieval is individually new.
+    MIRAI combines source ownership, consent state, versioned valid-time identity,
+recipient-specific style policy, and response-level claim verification in a single shared
+record contract. This contract governs the path from memory admission and retrieval
+to verification of generated claims. None of the reviewed systems combines all these
+controls in a single enforcement path and evaluates the corresponding boundaries
+under the same response model, retrieval budget, and scoring procedure. Table 1 there-
+fore compares mechanisms rather than published scores. It should not be interpreted
+as a head-to-head ranking or a definitive claim of priority.
+
+3 MIRAI system design
+3.1 Identity records and versioned updates
+MIRAI represents each memory as
+
+                  R = (rid , pid , q, tr , as , ρs , c, to , tf , tu , rsup , γ, s, he ),   (1)
+
+where
+rid record identifier;
+pid persona identifier;
+q proposition recorded as memory;
+tr record type;
+as source actor;
+ρs source role;
+c consent state;
+to observation time;
+tf valid-from time;
+tu valid-to time;
+rsup superseded record;
+γ confidence;
+s record status; and
+he evidence hash.
+The record identifies the person described by a claim and the speaker who provided it.
+The observation time indicates when the system received the claim, and the validity
+
+
+                                                    4
+interval indicates when the claim is valid. Past records are stored in an append-only
+ledger.
+    The update gate verifies consent, source authority, attribute compatibility, and
+event time before altering the active identity profile. A persona can make an authenti-
+cated correction that supersedes a previous preference. By contrast, another speaker’s
+statement remains dialogue evidence unless that speaker is authorized to update the
+persona’s record. Conflicting or low-confidence records are retained for review and do
+not automatically modify the active profile.
+
+3.2 Retrieval, style control, and claim checking
+Candidate evidence is ranked by
+
+                  S (r, q ) = 0.45scos + 0.20slex + 0.15srec + 0.20strust ,              (2)
+
+where all components are normalised to [0, 1]. The system applies consent, persona, and
+validity filters before sending the eight highest-ranked records to the response model.
+We fixed the weight profile using the eight development personas before evaluating the
+primary and held-out sets. The highest weight (0.45) is given to semantic similarity,
+followed by the individual weights of lexical (0.20), recency (0.15), and source trust
+weights (0.20). The four coefficients are all greater than or equal to zero with the sum
+of the coefficients equal to one. Sub-labels of the primary test and held-out test were
+not utilized to manipulate the weights and the retrieval depth. Since the reported
+experiment did not extend to sensitivity analyzing the rest of the weight profiles, these
+coefficients are introduced as a fixed design option, and not as an optimum that has
+been determined by itself.
+    The first response model prompt includes the request by the user, the available evi-
+dence record identifiers and valid time, the profile of the active identity, and the style
+rules of the target recipient. After creating a draft, a claim checker divides personal
+statements into atomic claims and cross-examines each one against the authorized
+records. A rewrite is elicited when the claimed source conflicts with the record’s own-
+ership, an identity value is stale or that a claim has no support. In case the rewritten
+response is not successful, the system abstains from responding. To support auditing,
+MIRAI stores the evidence retrieved, the version of identity, the decision on the draft
+and the final response.
+    These are controls that are used sequentially. The implementation initially chooses
+records based on the persona requested and subsequently identifies consent, source
+authority, status and valid time. The active version of identity is identified before
+retrieval is scored, by means of supersession links. A list of the top eight eligible records
+(along with their identifiers and their validity information) is provided along with the
+active policy on the recipients. Individual claims of the generated answer are verified
+with this same set of records. The system allows one constrained rewrite after a failed
+check and refuses to respond in case the second check fails. This order prevents an
+ineligible and overridden record from being counted as valid solely due to a high score
+on retrieval.
+
+
+
+                                             5
+                                                   Version
+                     Admission gate                             Evidence retrieval
+   Candidate                                      resolution                         Response model
+                     owner, consent,                                top-8 and
+ memory records                                 active valid-                         draft answer
+                    authority, validity                          recipient policy
+                                                time identity
+
+
+
+
+                                                                     Claims
+                                                                   supported            pass    Supported
+                                                                   by eligible                   answer
+                                                                    records?
+
+
+
+                                                                         fail
+
+                     pass               Revised
+        Supported                                               One constrained
+                                        claims
+         answer                                                     rewrite
+                                      supported?
+
+
+
+                                              fail
+
+
+                                          Abstain
+
+Fig. 1 The enforcement route that MIRAI follows. The records are sent through an admission
+and valid-time resolution then retrieved. The generated answer is then checked against the eligible
+evidence to verify any personal claims in the answer. In case of a draft failure, the system allows one
+rewrite and subsequently returns either a supported answer or an abstention
+
+
+3.3 Differentiated contribution
+Long-term memory retrieval, persistent memory, version histories, and response
+checking are not presented as individually new contributions. MIRAI’s architectural
+contribution is the common record contract that binds them. The source actor, per-
+mission state, validity span, and version recorded at memory admission are preserved
+through retrieval and subsequently checked against atomic claims in the generated
+response.
+    The contract is enforced and evaluated at four boundaries: authorized writes, valid-
+time selection, presentation to a specific recipient, and verification of claims against
+evidence. The matched configurations remove either a control bundle or a downstream
+component while keeping the model and retrieval budget constant. The resulting
+changes can therefore indicate which boundary is associated with a performance differ-
+ence. However, an ablation that removes a bundle cannot determine the contribution
+of each field within that bundle.
+    The resulting enforcement path is shown in Figure 1. Candidate memories must
+pass ownership, consent, source-authority, and valid-time checks before they can mod-
+ify the active identity profile. Records that pass the eligibility checks are then ranked
+for the current query and combined with the current identity version and recipient
+policy. Once an answer has been created, its personal claims are vetted with the
+records.
+
+
+
+                                                           6
+Table 2 Changes applied in each matched ablation and baseline configuration
+
+Configuration           Change from the complete configuration
+Full MIRAI              All filters, version ledger, recipient-sensitive style, and claim check
+                        active
+No    owner/consent     Source-owner and consent filtering removed; timestamps, versions,
+gate                    style control, and claim checking retained
+No version ledger       Append-only valid-time ledger replaced with latest-write-wins;
+                        prior versions unavailable to retrieval and checking
+No relationship style   One persona-wide style profile used irrespective of recipient
+No claim check          First response draft returned without claim-to-record verification
+Flat RAG                Records retrieved from one untyped conversation index with the
+                        same response model and top-k budget
+Tiered memory           Hierarchical memory baseline with the same response model and
+                        retrieval budget
+Extract/consolidate     Extract-and-consolidate baseline with the same response model and
+                        retrieval budget
+
+
+3.4 Ablation configurations
+The three functional baselines are matched implementations constructed for this study.
+We do not claim that they reproduce MemGPT, Mem0, or any other published sys-
+tem. Instead, they isolate architectural mechanisms while keeping the response model,
+embedding model, retrieval depth, and decoding settings constant. This facilitates
+controlled component comparisons but does not establish that MIRAI outperforms an
+external system.
+
+4 Methodology
+4.1 Experimental settings
+All major configurations used text-embedding-3-small for embeddings and
+gpt-4o-mini-2024-07-18 to generate responses. In 2025, work was conducted on
+the main benchmark, development tuning and the GPT-4o mini response runs. The
+automated checker audit was conducted in 2026 using the fixed evaluator snapshots
+described in Section 4.3. We set the temperature to 0.2, top-p to 1.0, and the max-
+imum output length to 512 tokens. Each query had up to 8 records that could be
+retrieved. The experiments were performed using Python 3.11 on a Windows 11 work-
+station with an Intel Core i7 processor and 32 GB of memory. Responses were obtained
+through the OpenAI API; no local GPUs were used.
+    The benchmark-generation seed was 20260619. The scoring procedure, query order,
+prompts, and persona records were the same across all configurations. We used 10,000
+persona-level cluster-bootstrap resamples to compute confidence intervals and 10,000
+sign-flipping permutations.
+
+
+
+
+                                              7
+4.2 Benchmark construction and data splits
+Retrieval and update parameters were tuned using eight development personas. None
+appeared in the test sets or reported results. There were 40 personas (P001–P040)
+in the main set of tests. Each persona had 10 personal facts, eight preferences, 10
+dated events, six relationships and six values. This produced 40 items per persona and
+1,600 item queries in total. Each persona also had 10 no-evidence trials, six identity-
+update trials, and 20 source-attribution trials, for totals of 400, 240, and 800 trials.
+We checked four style rules for each item response, producing 6,400 rule decisions.
+    The held-out set contained 20 personas (H001–H020), 800 identity items, 200
+no-evidence trials, 120 update trials and 400 source-attribution trials. These ques-
+tions included Malay–English code-switching and paraphrases that were not used in
+the primary test set. Both sets used the same exclusion, formatting, and scoring
+procedures.
+    The expected current value, known evidence owner, and explicit temporal rela-
+tionship make errors traceable in the controlled design. However, the design does not
+reproduce the ambiguity, conversational repair, or uneven evidence found in natural
+interactions. The held-out set and public benchmarks test transfer but do not replace
+naturally occurring longitudinal conversational data.
+
+4.3 Outcome measures and automated-checker validation
+For each item, the generator provided the expected persona value and active identity
+version. A correct value counted as one true positive. An unsupported incorrect value
+counted as one false positive and one false negative, whereas an omitted value counted
+as one false negative. Micro-F1 was
+
+                                            2T P
+                               F1 =                    .                            (3)
+                                      2T P + F P + F N
+
+Targeted accuracy was
+                                            nsuccessful
+                                    A=                  ,                           (4)
+                                              ntrials
+and style-constraint satisfaction was
+                                            npassed rules
+                                 Sstyle =                 .                         (5)
+                                            nrule checks
+
+The style measure covers observable rules, including response length, formality, greet-
+ings, and code-switching. It does not measure fluency, naturalness, or perceived
+quality.
+   Primary scoring was based on structured reference fields produced by the gen-
+erator: the expected value, source owner, active identity version, evidence status,
+and explicit style rules. Thus, the results concern facts and explicit rules rather
+than judgements of perceived quality. We also used a stratified automated audit
+of 320 responses to test the deterministic claim parser and style checker. This
+sample contained 40 responses in each system set-up. Two evaluator agents con-
+ducted independent assessments, followed by an adjudication agent. Evaluator A used
+
+
+                                              8
+gpt-5.4-mini-2026-03-17, evaluator B used gpt-5.2-2025-12-11, and the adjudi-
+cator used gpt-5.5-pro-2026-04-23 [10–12]. The agents used different fixed model
+snapshots and none used the response model of the main experiment. The primary
+evaluators executed in independent requests and did not share state or look at the
+labels of the other evaluator, the name of the system configuration or the output of
+the deterministic checker. The query and eligible evidence was sent to the adjudica-
+tor, together with the response, assigned style rules, both proposed labels, and short
+rationales when the labels differed. The adjudicator did not receive the deterministic
+output or configuration name. The secondary audit was completely automated and
+was not used to support claims of naturalness, usefulness or trust.
+
+4.4 Statistical analysis
+The unit of resampling was the persona. For each configuration and outcome, we
+sampled 40 test personas with replacement 10,000 times. The 95% interval of the
+recomputed scores was the 2.5th and 97.5th percentiles. The seven major comparisons
+took persona-level F1 difference between full MIRAI and all alternatives. To test the
+two sided permutation tests with the paired sign flips, we applied 10,000 random sign
+vectors and
+                                          b+1
+                                     p=         ,                                   (6)
+                                         10 001
+where b is the number of permuted statistics at least as extreme than the observed
+statistic. The seven p-values were adjusted using the Holm procedure [3, 5]. Formal
+paired tests were prespecified only for comparisons of item-level micro-F1. Differ-
+ences in targeted outcomes are reported as descriptive contrasts rather than additional
+significance tests.
+
+4.5 Established systems and independent benchmarks
+In the case of LoCoMo, we used all 1,986 question–answer items in the release of ten
+conversations. The items included single-hop, multi-hop, temporal, open-domain, and
+adversarial questions, and predictions were evaluated using the normalised partial-
+match F1 procedure of the benchmark. For LongMemEval-S, we used all 500 questions
+on information extraction, multi-session reasoning, temporal reasoning, knowledge
+updates and abstention. Responses were scored post hoc using binary correctness.
+    Both benchmark conversations were consumed in order of time. MIRAI used the
+record schema, retrieval weights, top-eight budget and single-rewrite rule of the orig-
+inal experiment. We generated one final response for each question and did not tune
+prompts or weights using benchmark labels. These tests therefore check the transfer-
+ability of the fixed configuration, but do not assess optimization of the configuration
+to either of the benchmarks.
+    The systems in Table 1 that are labeled as MemGPT, Mem0, etc., refer to related
+work and do not label the corresponding matched baselines. Their published scores,
+which we did not combine with the results of MIRAI, are not directly comparable
+because of differences in response models, retrieval budgets, and evaluation procedures.
+We therefore make no head-to-head performance claim against these systems.
+
+
+
+                                           9
+Table 3 Results on the primary test set
+
+ Configuration              TP/FP/FN Micro-F1 Abstain Update              Source       Style
+ Full MIRAI                 1417/99/183       .909   357/400   216/240   758/800   5883/6400
+ No owner/consent gate     1325/162/275       .858   297/400   194/240   539/800   5774/6400
+ No version ledger         1339/128/261       .873   325/400   162/240   721/800   5807/6400
+ No relationship style     1376/114/224       .891   349/400   214/240   741/800   4519/6400
+ No claim check            1426/166/174       .893   243/400   211/240   726/800   5824/6400
+ Flat RAG                  1253/207/347       .819   269/400   144/240   578/800   4894/6400
+ Tiered memory             1317/172/283       .853   299/400   172/240   614/800   5066/6400
+ Extract/consolidate       1344/156/256       .867   335/400   169/240   651/800   5311/6400
+
+
+                 Table 4 Full MIRAI results with 95% persona-bootstrap
+                 confidence intervals
+
+                 Outcome                   Count basis    Rate    95% CI
+                 Item micro-F1            1417/99/183     .909    [.896,.923]
+                 No-evidence abstention       357/400     .893    [.863,.920]
+                 Identity update              216/240     .900    [.863,.938]
+                 Source attribution           758/800     .948    [.932,.963]
+                 Style rules                5883/6400     .919    [.912,.926]
+
+
+
+5 Results
+Full MIRAI had 1,417 true positives, 99 false positives and 183 false negatives for a
+micro-F1 of 0.909. The correct updated value was returned in 216 of 240 trials (0.900;
+95% CI [0.863, 0.938]). The system also made the correct no-evidence rate of 357 of
+400 (0.893), made the correct source of evidence rate of 758 of 800 (0.948) and passed
+the 5,883 of 6,400 style checks (0.919).
+    The descriptive contrasts on the primary set corresponded to the targeted control
+boundaries. The difference in source-attribution accuracy between full MIRAI and the
+configuration without the ownership-and-consent gate was 0.274 (0.948 versus 0.674).
+Removing the version ledger reduced update accuracy by 0.225, from 0.900 to 0.675.
+Style satisfaction was 0.919 for full MIRAI and 0.706 without recipient-sensitive style,
+a difference of 0.213. The correct abstention rate on no-evidence trials was 0.893 for full
+MIRAI versus 0.608 without claim checking (difference 0.285). These are descriptive
+contrasts since the paired significance tests that were prespecified were restricted to
+item-level micro-F1.
+    In the case of the 320-response validation set, there was agreement between the
+evaluator agents with 0.89 in claim labels and 0.92 in style-rule verdict. All the
+disagreements were settled by the adjudication agent. Compared to these entirely auto-
+mated reference labels, the claim processor had an accuracy of 0.94, recall 0.92 and
+F1 0.93. The style checker had a 0.95 accuracy. In this audit, there is a quantification
+of consensus on systematic assistance and clear guidelines; there is no evaluation of
+the quality of responses as it is viewed by individuals.
+
+
+
+                                             10
+Table 5 Results on the held-out scenario set
+
+ Configuration             Micro-F1 Abstain/200 Update/120 Source/400 Style/3200
+ Full MIRAI                      .879            160                105        345          2790
+ No owner/consent gate           .841            139                105        250          2747
+ No version ledger               .828            162                 69        316          2758
+ No relationship style           .883            170                106        328          2070
+ No claim check                  .850            128                 97        326          2770
+ Flat RAG                        .789            124                 70        260          2273
+ Tiered memory                   .815            148                 76        271          2370
+ Extract/consolidate             .826            141                 84        290          2490
+
+
+Table 6 Paired persona-level F1 comparisons with bootstrap intervals and permutation-test
+p-values
+
+   Full minus comparison      Mean difference       95% interval     Raw p    Holm-adjusted p
+   No owner/consent gate                  .051        [.032,.070]     .0001                .0007
+   No version ledger                      .037        [.017,.057]     .0013                .0039
+   No relationship style                  .019       [-.004,.040]     .1108                .2216
+   No claim check                         .016       [-.011,.043]     .2690                .2690
+   Flat RAG                               .091        [.070,.112]     .0001                .0007
+   Tiered memory                          .057        [.032,.081]     .0002                .0008
+   Extract/consolidate                    .042        [.023,.062]     .0001                .0007
+
+
+Table 7 Independent-benchmark and cross-model evaluation
+
+Evaluation                                                 Response model         Metric     Score
+LoCoMo (1,986)                                             GPT-4o mini           QA F1        .640
+LongMemEval-S (500)                                        GPT-4o mini         Accuracy       .610
+MIRAI primary (1,600)                                      GPT-4.1 mini        Micro-F1       .918
+MIRAI held-out (800)                                       GPT-4.1 mini        Micro-F1       .889
+
+
+
+    On the held-out set, full MIRAI got a micro-F1 of 0.879. It produced 160/200
+correct abstentions (0.800), 105/120 correct updates (0.875), 345/400 correct source
+attributions (0.863), and 2,790/3,200 successful style-rule decisions (0.872). F1 was
+lower than on the primary set, indicating the sensitivity to the wording and difficulty
+of the scenario. The configuration without relationship-sensitive style had similar item
+F1, but substantially lower style performance. This finding shows why the targeted
+outcomes should be considered alongside item F1.
+
+5.1 Independent-benchmark and cross-model evaluation
+Full MIRAI using gpt-4.1-mini-2025-04-14 had the highest MIRAI scores of 0.918
+on the primary set and 0.889 on the held-out set. These scores were 0.009 and
+
+
+
+
+                                               11
+Table 8 Representative error cases for the full MIRAI configuration
+
+Case     Query and retrieved evidence              Responses and diagnostic cause
+U-017    Question: What drink do I usually         Draft/final: You tend to take tea. The
+         order? R114: prefers tea (4 February      explicit correction was ranked below older
+         2025); R287: correction, now prefers      evidence; the evidence verified ownership
+         coffee (12 June 2025); identity v4        but failed to resolve the supersession link.
+                                                   Expected: coffee.
+S-031    Question: When did I join the             Draft/final: The event was assigned to the
+         robotics club? R442: Amir joined          user. Speaker-reference resolution failed.
+         in 2023; record belonged to a third       The system should have abstained.
+         speaker; identity v6
+A-009    Question: What was the name of my         Draft/final: Your first cat was named
+         first cat? No record mentioned a cat      Milo. The unsupported pet-name claim
+         or pet name; identity v2                  was not detected by the parser. The
+                                                   system should have indicated that the
+                                                   information was unavailable.
+
+
+0.010 higher, respectively, than the scores with GPT-4o mini. LoCoMo uses answer-
+prediction F1, whereas LongMemEval uses correctness accuracy. The two measures
+cannot be directly compared to item micro-F1 of MIRAI.
+    The differences in aggregate scores were smaller than the component-level dif-
+ferences. The largest factual improvements at the relevant decision boundaries were
+associated with the ownership-and-consent gate and the version ledger. Recipient pol-
+icy and claim checking produced their largest differences in style compliance and
+avoidance of unsupported claims, respectively. The first two comparisons remove bun-
+dles of controls, and thus their impacts cannot be attributed to a single metadata
+field. The results also quantify the various kinds of failure and should not be reduced
+to a one-dimensional ranking.
+
+6 Error analysis and computational overhead
+6.1 Error analysis
+We checked all of the full-MIRAI failures in the three targeted factual assessments.
+The retrieved record versions, identity versions, draft answers as well as final answers
+were used in the review. Based on the numbers of Table 4, the review covered 24 failed
+identity-update trials, 42 incorrect source-attribution trials, and 43 failed no-evidence
+trials. False positives and false negatives from the item queries were outside the scope
+of this specific review. Three patterns recurred. First, an earlier preference was ranked
+above a dated correction. Second, an event involving another speaker was attributed to
+the target persona. Third, the system generated a plausible personalized claim despite
+the absence of supporting evidence. Representative examples are given in Table 8.
+    The former case shows that the need to retain previous versions is insufficient if
+there is no prioritisation of the latest valid correction during retrieval. The second
+demonstrates that provenance control remains reliant on proper speaker and pronoun
+resolution. The last case shows a limitation in parser coverage: a personal statement
+that is not extracted can be incorrectly treated as supported.
+
+
+
+                                              12
+Table 9 Measured response latency and token use
+
+        Configuration         Mean (s)    P95 (s)   Input tokens   Output tokens
+        Full MIRAI                 2.74      5.21          2480             118
+        Flat RAG                   1.86      3.34          2120             126
+        Tiered memory              2.08      3.72          2260             121
+        Extract/consolidate        2.21      4.03          2330             119
+
+
+    These failures could be solved with a number of practical changes. Explicit cor-
+rections might be given a greater recency bias, speaker-reference resolution could be
+improved and the claim parser may be extended to handle possessive questions and
+named entities, and personal relationships. Evaluation would have to be done with each
+change, because stricter filtering may increase abstention when the available evidence
+is incomplete.
+
+6.2 Computational overhead
+Table 9 reports measurements from recorded end-to-end runs. Full MIRAI had higher
+latency and input-token use because it included evidence filtering, version resolution,
+and claim verification. We do not report monetary cost. The token summary does
+not include every conditional rewrite or all embedding, retrieval, storage, and network
+operations; it therefore cannot estimate total operational cost.
+
+7 Discussion and limitations
+Following Holm correction, persona-level item F1 on the primary set was significantly
+higher for Full MIRAI than for the configurations without the ownership-and-
+consent gate or the version ledger. It also performed much better than all three
+matched memory baselines on this measure. The contrasts with the settings where
+the relationship-sensitive style was off and when there was no claim checking were not
+statistically significant. The corresponding targeted outcomes are therefore reported
+descriptively. Eliminating relationship-sensitive style was associated with a 0.213 drop
+in style compliance and eliminating the claim check was associated with a 0.285 drop
+in correct abstention on no-evidence trials. The configuration without relationship-
+sensitive style had a small item-F1 difference on the held-out set compared to full
+MIRAI (0.883 vs. 0.879) although full MIRAI still had substantially higher style com-
+pliance. The data thus do not imply that all components enhance all outcomes. Nor
+can the ablations distinguish the contribution of each field within a gate.
+    Traceable benchmark failures concern explicit evidence ownership, event time and
+state of expected identity. The benchmark’s limited coverage, however, restricts the
+external validity. It has a bounded number of attributes coded in its personas and
+its code-switched queries are not as varied as those in naturally occurring Malaysian
+conversations. The held-out set uses the same generator and scoring protocol but
+changes the personas and wording. The outcomes of the public benchmarks broaden
+the assessment, however, but do not establish how the system would perform in a
+long-term deployment.
+
+
+                                            13
+    From an intelligent-information-systems perspective, the results support separating
+an evolving, policy-bearing knowledge layer from the generative interface that uses it.
+Changes in provenance and time, together with access conditions, are handled at the
+database level by the record contract. The response layer accesses this information
+through natural language. Storage, retrieval, updating of the data and verification of
+the answers can be audited through this separation. This separation is also appropriate
+for information systems that have to deal with evolving knowledge as opposed to
+retrieving semantically close text.
+    Deterministic checks can detect only the rules they implement. A response can
+satisfy length, greeting, punctuation, and code-switching requirements without neces-
+sarily being natural, useful, or trustworthy. The study outcomes do not measure these
+qualities. The automated evaluator audit provides a second model-based check, but
+does not provide an independent perceptual evaluation. The main ablations were con-
+ducted with one GPT-4o mini snapshot, and cross-model tests are only done with full
+MIRAI (GPT-4.1 mini). Moreover, the baselines are study-specific implementations
+and not full replications of external systems. Any conclusions must thus be restricted
+to factual support, temporal selection and source attribution, abstinence and explicit
+style constraints within the experimental settings.
+
+8 Conclusion
+MIRAI links long-term memory and explicit ownership of sources, valid-time identity
+records, recipient-sensitive style and response-level claim checking. The entire system
+returned the expected value for 1,417 out of 1,600 identity items on the controlled
+persona benchmark. Its source-attribution accuracy was 0.948, style-constraint satis-
+faction was 0.919 and its update accuracy was 0.900. The ownership-and-consent gate
+and the version ledger produced statistically significant differences on the primary
+test’s item measure. Differences between recipient-sensitive style and claim checking
+were largest for the targeted outcomes of style compliance and abstention. The inde-
+pendent benchmark results and second response model results provide limited evidence
+of transfer and the latency and token results show the observed computational over-
+head. As an intelligent information system, MIRAI offers a clear contract between
+the evolving database records, evidence-aware retrieval, and generated responses.
+Broader claims will require evaluation with more response models and a wider range
+of longitudinal multilingual dialogues.
+
+Statements and Declarations
+Funding
+No specific funding was received for this research from a public, commercial, or not-
+for-profit funding body.
+
+Competing interests
+The authors have no financial or non-financial competing interests to declare in relation
+to this work.
+
+                                           14
+Ethics approval and consent to participate
+This study was a computational evaluation based on generated persona records and
+automated evaluators. No human participants were recruited, observed, surveyed,
+interviewed, or involved in an intervention. The study did not use human annotators,
+collect personal data, or process records about identifiable individuals. The system was
+also not used for consequential decision-making. Human-participant ethics approval
+and informed consent were therefore not applicable to this study.
+
+Data and materials statement
+The reported results do not rely on a human-participant, personal, confidential, or
+proprietary dataset. Generated persona records were used for the controlled evalua-
+tions under the fixed construction protocol in Section 4.2. The independent evaluations
+used the public LoCoMo and LongMemEval-S benchmarks described in Section 4.5.
+
+References
+ [1] Abeke O, Mohammad R, Mahmoud H (2026) Beyond similarity retrieval: Gover-
+     nance fidelity, consistency, and minimality in long-term conversational memory.
+     Int J Data Sci Anal 22:328. https://doi.org/10.1007/s41060-026-01290-8
+
+ [2] Chhikara P, Khant D, Aryan S, Singh T, Yadav D (2025) Mem0: Building
+     production-ready AI agents with scalable long-term memory. arXiv:2504.19413
+
+ [3] Dror R, Baumer G, Shlomov S, Reichart R (2018) The hitchhiker’s guide to
+     testing statistical significance in natural language processing. In: Proc ACL, pp
+     1383–1392. https://doi.org/10.18653/v1/P18-1128
+
+ [4] Ge Y et al (2025) TReMu: Towards neuro-symbolic temporal reasoning for LLM-
+     agents with memory in multi-session dialogues. In: Findings of ACL 2025, pp
+     18974–18988. https://doi.org/10.18653/v1/2025.findings-acl.972
+
+ [5] Holm S (1979) A simple sequentially rejective multiple test procedure. Scand J
+     Stat 6(2):65–70
+
+ [6] Maharana A et al (2024) Evaluating very long-term conversational memory of
+     LLM agents. In: Proc ACL, pp 13851–13870. https://doi.org/10.18653/v1/2024
+     .acl-long.747
+
+ [7] Ong KT-i et al (2025) Towards lifelong dialogue agents via timeline-based memory
+     management. In: Proc NAACL-HLT, pp 8631–8661. https://doi.org/10.18653/v
+     1/2025.naacl-long.435
+
+ [8] OpenAI (2024) GPT-4o mini: Advancing cost-efficient intelligence. https://open
+     ai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/
+
+
+
+
+                                          15
+ [9] OpenAI (2025) GPT-4.1 mini model documentation. https://developers.openai.
+     com/api/docs/models/gpt-4.1-mini
+
+[10] OpenAI (2026a) GPT-5.2 model documentation. https://developers.openai.com/
+     api/docs/models/gpt-5.2
+
+[11] OpenAI (2026b) GPT-5.4 mini model documentation. https://developers.opena
+     i.com/api/docs/models/gpt-5.4-mini
+
+[12] OpenAI (2026c) GPT-5.5 pro model documentation. https://developers.openai.
+     com/api/docs/models/gpt-5.5-pro
+
+[13] Packer C et al (2023) MemGPT: Towards LLMs as operating systems.
+     arXiv:2310.08560
+
+[14] Ramello S (2026) What counts as memory? The jurisdiction of recall in biological
+     memory and large language models. Cogn Syst Res 98:101490. https://doi.org/
+     10.1016/j.cogsys.2026.101490
+
+[15] Rezazadeh A, Li Z, Lou A, Zhao Y, Wei W, Bao Y (2025) Collaborative mem-
+     ory: Multi-user memory sharing in LLM agents with dynamic access control.
+     arXiv:2505.18279
+
+[16] Wang G et al (2026) Dual-perspective cognitive architecture for long-term dia-
+     logue memory. Neurocomputing 700:134419. https://doi.org/10.1016/j.neucom.2
+     026.134419
+
+[17] Wu D, Wang H, Yu W, Zhang Y, Chang K-W, Yu D (2025) LongMemEval:
+     Benchmarking chat assistants on long-term interactive memory. In: International
+     Conference on Learning Representations. https://proceedings.iclr.cc/paper files
+     /paper/2025/hash/d813d324dbf0598bbdc9c8e79740ed01-Abstract-Conference.ht
+     ml
+
+
+
+
+                                         16
+

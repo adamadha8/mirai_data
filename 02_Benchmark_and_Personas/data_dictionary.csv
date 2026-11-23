@@ -1,4 +1,22 @@
 file,column,definition
+conversations.csv,conversation_id,Conversation id (synthetic reference)
+conversations.csv,persona_id,Synthetic unique persona key
+conversations.csv,split,"Development, primary or held-out"
+conversations.csv,date,Date (synthetic reference)
+conversations.csv,context,Context (synthetic reference)
+conversations.csv,provenance,Source classification; reconstructed rows are synthetic
+data_dictionary.csv,file,File (synthetic reference)
+data_dictionary.csv,column,Column (synthetic reference)
+data_dictionary.csv,definition,Definition (synthetic reference)
+dialogue_turns.csv,turn_id,Turn id (synthetic reference)
+dialogue_turns.csv,conversation_id,Conversation id (synthetic reference)
+dialogue_turns.csv,persona_id,Synthetic unique persona key
+dialogue_turns.csv,date,Date (synthetic reference)
+dialogue_turns.csv,speaker,Speaker (synthetic reference)
+dialogue_turns.csv,role,Role (synthetic reference)
+dialogue_turns.csv,text,Text (synthetic reference)
+dialogue_turns.csv,record_id,Record id (synthetic reference)
+dialogue_turns.csv,provenance,Source classification; reconstructed rows are synthetic
 identity_items.csv,item_id,Synthetic item key
 identity_items.csv,persona_id,Synthetic unique persona key
 identity_items.csv,split,"Development, primary or held-out"
@@ -8,6 +26,9 @@ identity_items.csv,expected_value,Constructed reference answer
 identity_items.csv,evidence_id,Synthetic record identifier
 identity_items.csv,active_identity_version,Assumed identity version
 identity_items.csv,provenance,Source classification; reconstructed rows are synthetic
+identity_items.csv,attribute,Attribute (synthetic reference)
+identity_items.csv,conversation_id,Conversation id (synthetic reference)
+identity_items.csv,evidence_owner,Evidence owner (synthetic reference)
 identity_update_trials.csv,trial_id,Synthetic trial key
 identity_update_trials.csv,persona_id,Synthetic unique persona key
 identity_update_trials.csv,split,"Development, primary or held-out"
@@ -18,6 +39,9 @@ identity_update_trials.csv,old_evidence_id,Old evidence id (synthetic reference)
 identity_update_trials.csv,evidence_id,Synthetic record identifier
 identity_update_trials.csv,active_identity_version,Assumed identity version
 identity_update_trials.csv,provenance,Source classification; reconstructed rows are synthetic
+identity_update_trials.csv,conversation_id,Conversation id (synthetic reference)
+identity_update_trials.csv,old_conversation_id,Old conversation id (synthetic reference)
+identity_update_trials.csv,evidence_owner,Evidence owner (synthetic reference)
 memory_records.csv,record_id,Record id (synthetic reference)
 memory_records.csv,persona_id,Synthetic unique persona key
 memory_records.csv,attribute,Attribute (synthetic reference)
@@ -34,6 +58,7 @@ memory_records.csv,status,Status (synthetic reference)
 memory_records.csv,confidence,Confidence (synthetic reference)
 memory_records.csv,evidence_hash,"SHA-256 of ID and value, synthetic integrity marker"
 memory_records.csv,provenance,Source classification; reconstructed rows are synthetic
+memory_records.csv,conversation_id,Conversation id (synthetic reference)
 no_evidence_trials.csv,trial_id,Synthetic trial key
 no_evidence_trials.csv,persona_id,Synthetic unique persona key
 no_evidence_trials.csv,split,"Development, primary or held-out"
@@ -42,6 +67,9 @@ no_evidence_trials.csv,expected_value,Constructed reference answer
 no_evidence_trials.csv,evidence_id,Synthetic record identifier
 no_evidence_trials.csv,active_identity_version,Assumed identity version
 no_evidence_trials.csv,provenance,Source classification; reconstructed rows are synthetic
+no_evidence_trials.csv,conversation_id,Conversation id (synthetic reference)
+no_evidence_trials.csv,evidence_inventory,Evidence inventory (synthetic reference)
+no_evidence_trials.csv,evidence_owner,Evidence owner (synthetic reference)
 persona_splits.csv,persona_id,Synthetic unique persona key
 persona_splits.csv,split,"Development, primary or held-out"
 persona_splits.csv,provenance,Source classification; reconstructed rows are synthetic
@@ -51,6 +79,8 @@ personas.csv,display_name,Display name (synthetic reference)
 personas.csv,language,Language (synthetic reference)
 personas.csv,identity_version,Identity version (synthetic reference)
 personas.csv,provenance,Source classification; reconstructed rows are synthetic
+personas.csv,style_habit,Style habit (synthetic reference)
+personas.csv,recipient_relationship,Recipient relationship (synthetic reference)
 source_attribution_trials.csv,trial_id,Synthetic trial key
 source_attribution_trials.csv,persona_id,Synthetic unique persona key
 source_attribution_trials.csv,split,"Development, primary or held-out"
@@ -59,6 +89,11 @@ source_attribution_trials.csv,expected_value,Constructed reference answer
 source_attribution_trials.csv,evidence_id,Synthetic record identifier
 source_attribution_trials.csv,active_identity_version,Assumed identity version
 source_attribution_trials.csv,provenance,Source classification; reconstructed rows are synthetic
+source_attribution_trials.csv,distractor_record_id,Distractor record id (synthetic reference)
+source_attribution_trials.csv,distractor_owner,Distractor owner (synthetic reference)
+source_attribution_trials.csv,conversation_id,Conversation id (synthetic reference)
+source_attribution_trials.csv,evidence_owner,Evidence owner (synthetic reference)
+source_attribution_trials.csv,explanation,Explanation (synthetic reference)
 style_rules.csv,persona_id,Synthetic unique persona key
 style_rules.csv,split,"Development, primary or held-out"
 style_rules.csv,recipient,Recipient (synthetic reference)

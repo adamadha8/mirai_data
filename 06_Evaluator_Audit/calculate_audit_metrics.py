@@ -1,6 +1,9 @@
 ﻿from pathlib import Path
 import csv
-root=Path(__file__).resolve().parents[1]
-with (root/'06_Evaluator_Audit/audit_sample.csv').open(encoding='utf-8',newline='') as f:r=list(csv.DictReader(f))
-n=len(r); agree=sum(x['evaluator_a']==x['evaluator_b'] for x in r); acc=sum(x['parser']==x['adjudicated'] for x in r); tp=sum(x['parser']=='1' and x['adjudicated']=='1' for x in r); fp=sum(x['parser']=='1' and x['adjudicated']=='0' for x in r); fn=sum(x['parser']=='0' and x['adjudicated']=='1' for x in r)
-print('Illustrative audit only:',n,'agreement',agree/n,'accuracy',acc/n,'recall',tp/(tp+fn),'F1',2*tp/(2*tp+fp+fn))
+p=Path(__file__).resolve().parent
+with (p/'audit_sample.csv').open(encoding='utf-8',newline='') as f:r=list(csv.DictReader(f))
+n=len(r)
+for dim in ('claim','style'):
+ a='evaluator_a_'+dim;b='evaluator_b_'+dim;t='adjudicated_'+dim;checker='parser_claim' if dim=='claim' else 'checker_style'
+ tp=sum(x[checker]=='1' and x[t]=='1' for x in r);fp=sum(x[checker]=='1' and x[t]=='0' for x in r);fn=sum(x[checker]=='0' and x[t]=='1' for x in r)
+ print(dim,'N',n,'agreement',sum(x[a]==x[b] for x in r)/n,'accuracy',sum(x[checker]==x[t] for x in r)/n,'recall',tp/(tp+fn) if tp+fn else None,'F1',2*tp/(2*tp+fp+fn) if 2*tp+fp+fn else None,'TP FP FN',tp,fp,fn)

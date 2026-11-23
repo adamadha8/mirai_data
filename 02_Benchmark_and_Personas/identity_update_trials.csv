@@ -1,409 +1,409 @@
-trial_id,persona_id,split,query,old_value,expected_value,old_evidence_id,evidence_id,active_identity_version,provenance
-D001-U01,D001,development,What is my preference number 1?,previous preference 1,coffee,D001-OLD01,D001-R11,v2,reconstructed_reference
-D001-U02,D001,development,What is my preference number 2?,previous preference 2,noodles,D001-OLD02,D001-R12,v2,reconstructed_reference
-D001-U03,D001,development,What is my preference number 3?,previous preference 3,rice,D001-OLD03,D001-R13,v2,reconstructed_reference
-D001-U04,D001,development,What is my preference number 4?,previous preference 4,cycling,D001-OLD04,D001-R14,v2,reconstructed_reference
-D001-U05,D001,development,What is my preference number 5?,previous preference 5,reading,D001-OLD05,D001-R15,v2,reconstructed_reference
-D001-U06,D001,development,What is my preference number 6?,previous preference 6,blue,D001-OLD06,D001-R16,v2,reconstructed_reference
-D002-U01,D002,development,What is my preference number 1?,previous preference 1,noodles,D002-OLD01,D002-R11,v2,reconstructed_reference
-D002-U02,D002,development,What is my preference number 2?,previous preference 2,rice,D002-OLD02,D002-R12,v2,reconstructed_reference
-D002-U03,D002,development,What is my preference number 3?,previous preference 3,cycling,D002-OLD03,D002-R13,v2,reconstructed_reference
-D002-U04,D002,development,What is my preference number 4?,previous preference 4,reading,D002-OLD04,D002-R14,v2,reconstructed_reference
-D002-U05,D002,development,What is my preference number 5?,previous preference 5,blue,D002-OLD05,D002-R15,v2,reconstructed_reference
-D002-U06,D002,development,What is my preference number 6?,previous preference 6,green,D002-OLD06,D002-R16,v2,reconstructed_reference
-D003-U01,D003,development,What is my preference number 1?,previous preference 1,rice,D003-OLD01,D003-R11,v2,reconstructed_reference
-D003-U02,D003,development,What is my preference number 2?,previous preference 2,cycling,D003-OLD02,D003-R12,v2,reconstructed_reference
-D003-U03,D003,development,What is my preference number 3?,previous preference 3,reading,D003-OLD03,D003-R13,v2,reconstructed_reference
-D003-U04,D003,development,What is my preference number 4?,previous preference 4,blue,D003-OLD04,D003-R14,v2,reconstructed_reference
-D003-U05,D003,development,What is my preference number 5?,previous preference 5,green,D003-OLD05,D003-R15,v2,reconstructed_reference
-D003-U06,D003,development,What is my preference number 6?,previous preference 6,tea,D003-OLD06,D003-R16,v2,reconstructed_reference
-D004-U01,D004,development,What is my preference number 1?,previous preference 1,cycling,D004-OLD01,D004-R11,v2,reconstructed_reference
-D004-U02,D004,development,What is my preference number 2?,previous preference 2,reading,D004-OLD02,D004-R12,v2,reconstructed_reference
-D004-U03,D004,development,What is my preference number 3?,previous preference 3,blue,D004-OLD03,D004-R13,v2,reconstructed_reference
-D004-U04,D004,development,What is my preference number 4?,previous preference 4,green,D004-OLD04,D004-R14,v2,reconstructed_reference
-D004-U05,D004,development,What is my preference number 5?,previous preference 5,tea,D004-OLD05,D004-R15,v2,reconstructed_reference
-D004-U06,D004,development,What is my preference number 6?,previous preference 6,coffee,D004-OLD06,D004-R16,v2,reconstructed_reference
-D005-U01,D005,development,What is my preference number 1?,previous preference 1,reading,D005-OLD01,D005-R11,v2,reconstructed_reference
-D005-U02,D005,development,What is my preference number 2?,previous preference 2,blue,D005-OLD02,D005-R12,v2,reconstructed_reference
-D005-U03,D005,development,What is my preference number 3?,previous preference 3,green,D005-OLD03,D005-R13,v2,reconstructed_reference
-D005-U04,D005,development,What is my preference number 4?,previous preference 4,tea,D005-OLD04,D005-R14,v2,reconstructed_reference
-D005-U05,D005,development,What is my preference number 5?,previous preference 5,coffee,D005-OLD05,D005-R15,v2,reconstructed_reference
-D005-U06,D005,development,What is my preference number 6?,previous preference 6,noodles,D005-OLD06,D005-R16,v2,reconstructed_reference
-D006-U01,D006,development,What is my preference number 1?,previous preference 1,blue,D006-OLD01,D006-R11,v2,reconstructed_reference
-D006-U02,D006,development,What is my preference number 2?,previous preference 2,green,D006-OLD02,D006-R12,v2,reconstructed_reference
-D006-U03,D006,development,What is my preference number 3?,previous preference 3,tea,D006-OLD03,D006-R13,v2,reconstructed_reference
-D006-U04,D006,development,What is my preference number 4?,previous preference 4,coffee,D006-OLD04,D006-R14,v2,reconstructed_reference
-D006-U05,D006,development,What is my preference number 5?,previous preference 5,noodles,D006-OLD05,D006-R15,v2,reconstructed_reference
-D006-U06,D006,development,What is my preference number 6?,previous preference 6,rice,D006-OLD06,D006-R16,v2,reconstructed_reference
-D007-U01,D007,development,What is my preference number 1?,previous preference 1,green,D007-OLD01,D007-R11,v2,reconstructed_reference
-D007-U02,D007,development,What is my preference number 2?,previous preference 2,tea,D007-OLD02,D007-R12,v2,reconstructed_reference
-D007-U03,D007,development,What is my preference number 3?,previous preference 3,coffee,D007-OLD03,D007-R13,v2,reconstructed_reference
-D007-U04,D007,development,What is my preference number 4?,previous preference 4,noodles,D007-OLD04,D007-R14,v2,reconstructed_reference
-D007-U05,D007,development,What is my preference number 5?,previous preference 5,rice,D007-OLD05,D007-R15,v2,reconstructed_reference
-D007-U06,D007,development,What is my preference number 6?,previous preference 6,cycling,D007-OLD06,D007-R16,v2,reconstructed_reference
-D008-U01,D008,development,What is my preference number 1?,previous preference 1,tea,D008-OLD01,D008-R11,v2,reconstructed_reference
-D008-U02,D008,development,What is my preference number 2?,previous preference 2,coffee,D008-OLD02,D008-R12,v2,reconstructed_reference
-D008-U03,D008,development,What is my preference number 3?,previous preference 3,noodles,D008-OLD03,D008-R13,v2,reconstructed_reference
-D008-U04,D008,development,What is my preference number 4?,previous preference 4,rice,D008-OLD04,D008-R14,v2,reconstructed_reference
-D008-U05,D008,development,What is my preference number 5?,previous preference 5,cycling,D008-OLD05,D008-R15,v2,reconstructed_reference
-D008-U06,D008,development,What is my preference number 6?,previous preference 6,reading,D008-OLD06,D008-R16,v2,reconstructed_reference
-P001-U01,P001,primary,What is my preference number 1?,previous preference 1,coffee,P001-OLD01,P001-R11,v2,reconstructed_reference
-P001-U02,P001,primary,What is my preference number 2?,previous preference 2,noodles,P001-OLD02,P001-R12,v2,reconstructed_reference
-P001-U03,P001,primary,What is my preference number 3?,previous preference 3,rice,P001-OLD03,P001-R13,v2,reconstructed_reference
-P001-U04,P001,primary,What is my preference number 4?,previous preference 4,cycling,P001-OLD04,P001-R14,v2,reconstructed_reference
-P001-U05,P001,primary,What is my preference number 5?,previous preference 5,reading,P001-OLD05,P001-R15,v2,reconstructed_reference
-P001-U06,P001,primary,What is my preference number 6?,previous preference 6,blue,P001-OLD06,P001-R16,v2,reconstructed_reference
-P002-U01,P002,primary,What is my preference number 1?,previous preference 1,noodles,P002-OLD01,P002-R11,v2,reconstructed_reference
-P002-U02,P002,primary,What is my preference number 2?,previous preference 2,rice,P002-OLD02,P002-R12,v2,reconstructed_reference
-P002-U03,P002,primary,What is my preference number 3?,previous preference 3,cycling,P002-OLD03,P002-R13,v2,reconstructed_reference
-P002-U04,P002,primary,What is my preference number 4?,previous preference 4,reading,P002-OLD04,P002-R14,v2,reconstructed_reference
-P002-U05,P002,primary,What is my preference number 5?,previous preference 5,blue,P002-OLD05,P002-R15,v2,reconstructed_reference
-P002-U06,P002,primary,What is my preference number 6?,previous preference 6,green,P002-OLD06,P002-R16,v2,reconstructed_reference
-P003-U01,P003,primary,What is my preference number 1?,previous preference 1,rice,P003-OLD01,P003-R11,v2,reconstructed_reference
-P003-U02,P003,primary,What is my preference number 2?,previous preference 2,cycling,P003-OLD02,P003-R12,v2,reconstructed_reference
-P003-U03,P003,primary,What is my preference number 3?,previous preference 3,reading,P003-OLD03,P003-R13,v2,reconstructed_reference
-P003-U04,P003,primary,What is my preference number 4?,previous preference 4,blue,P003-OLD04,P003-R14,v2,reconstructed_reference
-P003-U05,P003,primary,What is my preference number 5?,previous preference 5,green,P003-OLD05,P003-R15,v2,reconstructed_reference
-P003-U06,P003,primary,What is my preference number 6?,previous preference 6,tea,P003-OLD06,P003-R16,v2,reconstructed_reference
-P004-U01,P004,primary,What is my preference number 1?,previous preference 1,cycling,P004-OLD01,P004-R11,v2,reconstructed_reference
-P004-U02,P004,primary,What is my preference number 2?,previous preference 2,reading,P004-OLD02,P004-R12,v2,reconstructed_reference
-P004-U03,P004,primary,What is my preference number 3?,previous preference 3,blue,P004-OLD03,P004-R13,v2,reconstructed_reference
-P004-U04,P004,primary,What is my preference number 4?,previous preference 4,green,P004-OLD04,P004-R14,v2,reconstructed_reference
-P004-U05,P004,primary,What is my preference number 5?,previous preference 5,tea,P004-OLD05,P004-R15,v2,reconstructed_reference
-P004-U06,P004,primary,What is my preference number 6?,previous preference 6,coffee,P004-OLD06,P004-R16,v2,reconstructed_reference
-P005-U01,P005,primary,What is my preference number 1?,previous preference 1,reading,P005-OLD01,P005-R11,v2,reconstructed_reference
-P005-U02,P005,primary,What is my preference number 2?,previous preference 2,blue,P005-OLD02,P005-R12,v2,reconstructed_reference
-P005-U03,P005,primary,What is my preference number 3?,previous preference 3,green,P005-OLD03,P005-R13,v2,reconstructed_reference
-P005-U04,P005,primary,What is my preference number 4?,previous preference 4,tea,P005-OLD04,P005-R14,v2,reconstructed_reference
-P005-U05,P005,primary,What is my preference number 5?,previous preference 5,coffee,P005-OLD05,P005-R15,v2,reconstructed_reference
-P005-U06,P005,primary,What is my preference number 6?,previous preference 6,noodles,P005-OLD06,P005-R16,v2,reconstructed_reference
-P006-U01,P006,primary,What is my preference number 1?,previous preference 1,blue,P006-OLD01,P006-R11,v2,reconstructed_reference
-P006-U02,P006,primary,What is my preference number 2?,previous preference 2,green,P006-OLD02,P006-R12,v2,reconstructed_reference
-P006-U03,P006,primary,What is my preference number 3?,previous preference 3,tea,P006-OLD03,P006-R13,v2,reconstructed_reference
-P006-U04,P006,primary,What is my preference number 4?,previous preference 4,coffee,P006-OLD04,P006-R14,v2,reconstructed_reference
-P006-U05,P006,primary,What is my preference number 5?,previous preference 5,noodles,P006-OLD05,P006-R15,v2,reconstructed_reference
-P006-U06,P006,primary,What is my preference number 6?,previous preference 6,rice,P006-OLD06,P006-R16,v2,reconstructed_reference
-P007-U01,P007,primary,What is my preference number 1?,previous preference 1,green,P007-OLD01,P007-R11,v2,reconstructed_reference
-P007-U02,P007,primary,What is my preference number 2?,previous preference 2,tea,P007-OLD02,P007-R12,v2,reconstructed_reference
-P007-U03,P007,primary,What is my preference number 3?,previous preference 3,coffee,P007-OLD03,P007-R13,v2,reconstructed_reference
-P007-U04,P007,primary,What is my preference number 4?,previous preference 4,noodles,P007-OLD04,P007-R14,v2,reconstructed_reference
-P007-U05,P007,primary,What is my preference number 5?,previous preference 5,rice,P007-OLD05,P007-R15,v2,reconstructed_reference
-P007-U06,P007,primary,What is my preference number 6?,previous preference 6,cycling,P007-OLD06,P007-R16,v2,reconstructed_reference
-P008-U01,P008,primary,What is my preference number 1?,previous preference 1,tea,P008-OLD01,P008-R11,v2,reconstructed_reference
-P008-U02,P008,primary,What is my preference number 2?,previous preference 2,coffee,P008-OLD02,P008-R12,v2,reconstructed_reference
-P008-U03,P008,primary,What is my preference number 3?,previous preference 3,noodles,P008-OLD03,P008-R13,v2,reconstructed_reference
-P008-U04,P008,primary,What is my preference number 4?,previous preference 4,rice,P008-OLD04,P008-R14,v2,reconstructed_reference
-P008-U05,P008,primary,What is my preference number 5?,previous preference 5,cycling,P008-OLD05,P008-R15,v2,reconstructed_reference
-P008-U06,P008,primary,What is my preference number 6?,previous preference 6,reading,P008-OLD06,P008-R16,v2,reconstructed_reference
-P009-U01,P009,primary,What is my preference number 1?,previous preference 1,coffee,P009-OLD01,P009-R11,v2,reconstructed_reference
-P009-U02,P009,primary,What is my preference number 2?,previous preference 2,noodles,P009-OLD02,P009-R12,v2,reconstructed_reference
-P009-U03,P009,primary,What is my preference number 3?,previous preference 3,rice,P009-OLD03,P009-R13,v2,reconstructed_reference
-P009-U04,P009,primary,What is my preference number 4?,previous preference 4,cycling,P009-OLD04,P009-R14,v2,reconstructed_reference
-P009-U05,P009,primary,What is my preference number 5?,previous preference 5,reading,P009-OLD05,P009-R15,v2,reconstructed_reference
-P009-U06,P009,primary,What is my preference number 6?,previous preference 6,blue,P009-OLD06,P009-R16,v2,reconstructed_reference
-P010-U01,P010,primary,What is my preference number 1?,previous preference 1,noodles,P010-OLD01,P010-R11,v2,reconstructed_reference
-P010-U02,P010,primary,What is my preference number 2?,previous preference 2,rice,P010-OLD02,P010-R12,v2,reconstructed_reference
-P010-U03,P010,primary,What is my preference number 3?,previous preference 3,cycling,P010-OLD03,P010-R13,v2,reconstructed_reference
-P010-U04,P010,primary,What is my preference number 4?,previous preference 4,reading,P010-OLD04,P010-R14,v2,reconstructed_reference
-P010-U05,P010,primary,What is my preference number 5?,previous preference 5,blue,P010-OLD05,P010-R15,v2,reconstructed_reference
-P010-U06,P010,primary,What is my preference number 6?,previous preference 6,green,P010-OLD06,P010-R16,v2,reconstructed_reference
-P011-U01,P011,primary,What is my preference number 1?,previous preference 1,rice,P011-OLD01,P011-R11,v2,reconstructed_reference
-P011-U02,P011,primary,What is my preference number 2?,previous preference 2,cycling,P011-OLD02,P011-R12,v2,reconstructed_reference
-P011-U03,P011,primary,What is my preference number 3?,previous preference 3,reading,P011-OLD03,P011-R13,v2,reconstructed_reference
-P011-U04,P011,primary,What is my preference number 4?,previous preference 4,blue,P011-OLD04,P011-R14,v2,reconstructed_reference
-P011-U05,P011,primary,What is my preference number 5?,previous preference 5,green,P011-OLD05,P011-R15,v2,reconstructed_reference
-P011-U06,P011,primary,What is my preference number 6?,previous preference 6,tea,P011-OLD06,P011-R16,v2,reconstructed_reference
-P012-U01,P012,primary,What is my preference number 1?,previous preference 1,cycling,P012-OLD01,P012-R11,v2,reconstructed_reference
-P012-U02,P012,primary,What is my preference number 2?,previous preference 2,reading,P012-OLD02,P012-R12,v2,reconstructed_reference
-P012-U03,P012,primary,What is my preference number 3?,previous preference 3,blue,P012-OLD03,P012-R13,v2,reconstructed_reference
-P012-U04,P012,primary,What is my preference number 4?,previous preference 4,green,P012-OLD04,P012-R14,v2,reconstructed_reference
-P012-U05,P012,primary,What is my preference number 5?,previous preference 5,tea,P012-OLD05,P012-R15,v2,reconstructed_reference
-P012-U06,P012,primary,What is my preference number 6?,previous preference 6,coffee,P012-OLD06,P012-R16,v2,reconstructed_reference
-P013-U01,P013,primary,What is my preference number 1?,previous preference 1,reading,P013-OLD01,P013-R11,v2,reconstructed_reference
-P013-U02,P013,primary,What is my preference number 2?,previous preference 2,blue,P013-OLD02,P013-R12,v2,reconstructed_reference
-P013-U03,P013,primary,What is my preference number 3?,previous preference 3,green,P013-OLD03,P013-R13,v2,reconstructed_reference
-P013-U04,P013,primary,What is my preference number 4?,previous preference 4,tea,P013-OLD04,P013-R14,v2,reconstructed_reference
-P013-U05,P013,primary,What is my preference number 5?,previous preference 5,coffee,P013-OLD05,P013-R15,v2,reconstructed_reference
-P013-U06,P013,primary,What is my preference number 6?,previous preference 6,noodles,P013-OLD06,P013-R16,v2,reconstructed_reference
-P014-U01,P014,primary,What is my preference number 1?,previous preference 1,blue,P014-OLD01,P014-R11,v2,reconstructed_reference
-P014-U02,P014,primary,What is my preference number 2?,previous preference 2,green,P014-OLD02,P014-R12,v2,reconstructed_reference
-P014-U03,P014,primary,What is my preference number 3?,previous preference 3,tea,P014-OLD03,P014-R13,v2,reconstructed_reference
-P014-U04,P014,primary,What is my preference number 4?,previous preference 4,coffee,P014-OLD04,P014-R14,v2,reconstructed_reference
-P014-U05,P014,primary,What is my preference number 5?,previous preference 5,noodles,P014-OLD05,P014-R15,v2,reconstructed_reference
-P014-U06,P014,primary,What is my preference number 6?,previous preference 6,rice,P014-OLD06,P014-R16,v2,reconstructed_reference
-P015-U01,P015,primary,What is my preference number 1?,previous preference 1,green,P015-OLD01,P015-R11,v2,reconstructed_reference
-P015-U02,P015,primary,What is my preference number 2?,previous preference 2,tea,P015-OLD02,P015-R12,v2,reconstructed_reference
-P015-U03,P015,primary,What is my preference number 3?,previous preference 3,coffee,P015-OLD03,P015-R13,v2,reconstructed_reference
-P015-U04,P015,primary,What is my preference number 4?,previous preference 4,noodles,P015-OLD04,P015-R14,v2,reconstructed_reference
-P015-U05,P015,primary,What is my preference number 5?,previous preference 5,rice,P015-OLD05,P015-R15,v2,reconstructed_reference
-P015-U06,P015,primary,What is my preference number 6?,previous preference 6,cycling,P015-OLD06,P015-R16,v2,reconstructed_reference
-P016-U01,P016,primary,What is my preference number 1?,previous preference 1,tea,P016-OLD01,P016-R11,v2,reconstructed_reference
-P016-U02,P016,primary,What is my preference number 2?,previous preference 2,coffee,P016-OLD02,P016-R12,v2,reconstructed_reference
-P016-U03,P016,primary,What is my preference number 3?,previous preference 3,noodles,P016-OLD03,P016-R13,v2,reconstructed_reference
-P016-U04,P016,primary,What is my preference number 4?,previous preference 4,rice,P016-OLD04,P016-R14,v2,reconstructed_reference
-P016-U05,P016,primary,What is my preference number 5?,previous preference 5,cycling,P016-OLD05,P016-R15,v2,reconstructed_reference
-P016-U06,P016,primary,What is my preference number 6?,previous preference 6,reading,P016-OLD06,P016-R16,v2,reconstructed_reference
-P017-U01,P017,primary,What is my preference number 1?,previous preference 1,coffee,P017-OLD01,P017-R11,v2,reconstructed_reference
-P017-U02,P017,primary,What is my preference number 2?,previous preference 2,noodles,P017-OLD02,P017-R12,v2,reconstructed_reference
-P017-U03,P017,primary,What is my preference number 3?,previous preference 3,rice,P017-OLD03,P017-R13,v2,reconstructed_reference
-P017-U04,P017,primary,What is my preference number 4?,previous preference 4,cycling,P017-OLD04,P017-R14,v2,reconstructed_reference
-P017-U05,P017,primary,What is my preference number 5?,previous preference 5,reading,P017-OLD05,P017-R15,v2,reconstructed_reference
-P017-U06,P017,primary,What is my preference number 6?,previous preference 6,blue,P017-OLD06,P017-R16,v2,reconstructed_reference
-P018-U01,P018,primary,What is my preference number 1?,previous preference 1,noodles,P018-OLD01,P018-R11,v2,reconstructed_reference
-P018-U02,P018,primary,What is my preference number 2?,previous preference 2,rice,P018-OLD02,P018-R12,v2,reconstructed_reference
-P018-U03,P018,primary,What is my preference number 3?,previous preference 3,cycling,P018-OLD03,P018-R13,v2,reconstructed_reference
-P018-U04,P018,primary,What is my preference number 4?,previous preference 4,reading,P018-OLD04,P018-R14,v2,reconstructed_reference
-P018-U05,P018,primary,What is my preference number 5?,previous preference 5,blue,P018-OLD05,P018-R15,v2,reconstructed_reference
-P018-U06,P018,primary,What is my preference number 6?,previous preference 6,green,P018-OLD06,P018-R16,v2,reconstructed_reference
-P019-U01,P019,primary,What is my preference number 1?,previous preference 1,rice,P019-OLD01,P019-R11,v2,reconstructed_reference
-P019-U02,P019,primary,What is my preference number 2?,previous preference 2,cycling,P019-OLD02,P019-R12,v2,reconstructed_reference
-P019-U03,P019,primary,What is my preference number 3?,previous preference 3,reading,P019-OLD03,P019-R13,v2,reconstructed_reference
-P019-U04,P019,primary,What is my preference number 4?,previous preference 4,blue,P019-OLD04,P019-R14,v2,reconstructed_reference
-P019-U05,P019,primary,What is my preference number 5?,previous preference 5,green,P019-OLD05,P019-R15,v2,reconstructed_reference
-P019-U06,P019,primary,What is my preference number 6?,previous preference 6,tea,P019-OLD06,P019-R16,v2,reconstructed_reference
-P020-U01,P020,primary,What is my preference number 1?,previous preference 1,cycling,P020-OLD01,P020-R11,v2,reconstructed_reference
-P020-U02,P020,primary,What is my preference number 2?,previous preference 2,reading,P020-OLD02,P020-R12,v2,reconstructed_reference
-P020-U03,P020,primary,What is my preference number 3?,previous preference 3,blue,P020-OLD03,P020-R13,v2,reconstructed_reference
-P020-U04,P020,primary,What is my preference number 4?,previous preference 4,green,P020-OLD04,P020-R14,v2,reconstructed_reference
-P020-U05,P020,primary,What is my preference number 5?,previous preference 5,tea,P020-OLD05,P020-R15,v2,reconstructed_reference
-P020-U06,P020,primary,What is my preference number 6?,previous preference 6,coffee,P020-OLD06,P020-R16,v2,reconstructed_reference
-P021-U01,P021,primary,What is my preference number 1?,previous preference 1,reading,P021-OLD01,P021-R11,v2,reconstructed_reference
-P021-U02,P021,primary,What is my preference number 2?,previous preference 2,blue,P021-OLD02,P021-R12,v2,reconstructed_reference
-P021-U03,P021,primary,What is my preference number 3?,previous preference 3,green,P021-OLD03,P021-R13,v2,reconstructed_reference
-P021-U04,P021,primary,What is my preference number 4?,previous preference 4,tea,P021-OLD04,P021-R14,v2,reconstructed_reference
-P021-U05,P021,primary,What is my preference number 5?,previous preference 5,coffee,P021-OLD05,P021-R15,v2,reconstructed_reference
-P021-U06,P021,primary,What is my preference number 6?,previous preference 6,noodles,P021-OLD06,P021-R16,v2,reconstructed_reference
-P022-U01,P022,primary,What is my preference number 1?,previous preference 1,blue,P022-OLD01,P022-R11,v2,reconstructed_reference
-P022-U02,P022,primary,What is my preference number 2?,previous preference 2,green,P022-OLD02,P022-R12,v2,reconstructed_reference
-P022-U03,P022,primary,What is my preference number 3?,previous preference 3,tea,P022-OLD03,P022-R13,v2,reconstructed_reference
-P022-U04,P022,primary,What is my preference number 4?,previous preference 4,coffee,P022-OLD04,P022-R14,v2,reconstructed_reference
-P022-U05,P022,primary,What is my preference number 5?,previous preference 5,noodles,P022-OLD05,P022-R15,v2,reconstructed_reference
-P022-U06,P022,primary,What is my preference number 6?,previous preference 6,rice,P022-OLD06,P022-R16,v2,reconstructed_reference
-P023-U01,P023,primary,What is my preference number 1?,previous preference 1,green,P023-OLD01,P023-R11,v2,reconstructed_reference
-P023-U02,P023,primary,What is my preference number 2?,previous preference 2,tea,P023-OLD02,P023-R12,v2,reconstructed_reference
-P023-U03,P023,primary,What is my preference number 3?,previous preference 3,coffee,P023-OLD03,P023-R13,v2,reconstructed_reference
-P023-U04,P023,primary,What is my preference number 4?,previous preference 4,noodles,P023-OLD04,P023-R14,v2,reconstructed_reference
-P023-U05,P023,primary,What is my preference number 5?,previous preference 5,rice,P023-OLD05,P023-R15,v2,reconstructed_reference
-P023-U06,P023,primary,What is my preference number 6?,previous preference 6,cycling,P023-OLD06,P023-R16,v2,reconstructed_reference
-P024-U01,P024,primary,What is my preference number 1?,previous preference 1,tea,P024-OLD01,P024-R11,v2,reconstructed_reference
-P024-U02,P024,primary,What is my preference number 2?,previous preference 2,coffee,P024-OLD02,P024-R12,v2,reconstructed_reference
-P024-U03,P024,primary,What is my preference number 3?,previous preference 3,noodles,P024-OLD03,P024-R13,v2,reconstructed_reference
-P024-U04,P024,primary,What is my preference number 4?,previous preference 4,rice,P024-OLD04,P024-R14,v2,reconstructed_reference
-P024-U05,P024,primary,What is my preference number 5?,previous preference 5,cycling,P024-OLD05,P024-R15,v2,reconstructed_reference
-P024-U06,P024,primary,What is my preference number 6?,previous preference 6,reading,P024-OLD06,P024-R16,v2,reconstructed_reference
-P025-U01,P025,primary,What is my preference number 1?,previous preference 1,coffee,P025-OLD01,P025-R11,v2,reconstructed_reference
-P025-U02,P025,primary,What is my preference number 2?,previous preference 2,noodles,P025-OLD02,P025-R12,v2,reconstructed_reference
-P025-U03,P025,primary,What is my preference number 3?,previous preference 3,rice,P025-OLD03,P025-R13,v2,reconstructed_reference
-P025-U04,P025,primary,What is my preference number 4?,previous preference 4,cycling,P025-OLD04,P025-R14,v2,reconstructed_reference
-P025-U05,P025,primary,What is my preference number 5?,previous preference 5,reading,P025-OLD05,P025-R15,v2,reconstructed_reference
-P025-U06,P025,primary,What is my preference number 6?,previous preference 6,blue,P025-OLD06,P025-R16,v2,reconstructed_reference
-P026-U01,P026,primary,What is my preference number 1?,previous preference 1,noodles,P026-OLD01,P026-R11,v2,reconstructed_reference
-P026-U02,P026,primary,What is my preference number 2?,previous preference 2,rice,P026-OLD02,P026-R12,v2,reconstructed_reference
-P026-U03,P026,primary,What is my preference number 3?,previous preference 3,cycling,P026-OLD03,P026-R13,v2,reconstructed_reference
-P026-U04,P026,primary,What is my preference number 4?,previous preference 4,reading,P026-OLD04,P026-R14,v2,reconstructed_reference
-P026-U05,P026,primary,What is my preference number 5?,previous preference 5,blue,P026-OLD05,P026-R15,v2,reconstructed_reference
-P026-U06,P026,primary,What is my preference number 6?,previous preference 6,green,P026-OLD06,P026-R16,v2,reconstructed_reference
-P027-U01,P027,primary,What is my preference number 1?,previous preference 1,rice,P027-OLD01,P027-R11,v2,reconstructed_reference
-P027-U02,P027,primary,What is my preference number 2?,previous preference 2,cycling,P027-OLD02,P027-R12,v2,reconstructed_reference
-P027-U03,P027,primary,What is my preference number 3?,previous preference 3,reading,P027-OLD03,P027-R13,v2,reconstructed_reference
-P027-U04,P027,primary,What is my preference number 4?,previous preference 4,blue,P027-OLD04,P027-R14,v2,reconstructed_reference
-P027-U05,P027,primary,What is my preference number 5?,previous preference 5,green,P027-OLD05,P027-R15,v2,reconstructed_reference
-P027-U06,P027,primary,What is my preference number 6?,previous preference 6,tea,P027-OLD06,P027-R16,v2,reconstructed_reference
-P028-U01,P028,primary,What is my preference number 1?,previous preference 1,cycling,P028-OLD01,P028-R11,v2,reconstructed_reference
-P028-U02,P028,primary,What is my preference number 2?,previous preference 2,reading,P028-OLD02,P028-R12,v2,reconstructed_reference
-P028-U03,P028,primary,What is my preference number 3?,previous preference 3,blue,P028-OLD03,P028-R13,v2,reconstructed_reference
-P028-U04,P028,primary,What is my preference number 4?,previous preference 4,green,P028-OLD04,P028-R14,v2,reconstructed_reference
-P028-U05,P028,primary,What is my preference number 5?,previous preference 5,tea,P028-OLD05,P028-R15,v2,reconstructed_reference
-P028-U06,P028,primary,What is my preference number 6?,previous preference 6,coffee,P028-OLD06,P028-R16,v2,reconstructed_reference
-P029-U01,P029,primary,What is my preference number 1?,previous preference 1,reading,P029-OLD01,P029-R11,v2,reconstructed_reference
-P029-U02,P029,primary,What is my preference number 2?,previous preference 2,blue,P029-OLD02,P029-R12,v2,reconstructed_reference
-P029-U03,P029,primary,What is my preference number 3?,previous preference 3,green,P029-OLD03,P029-R13,v2,reconstructed_reference
-P029-U04,P029,primary,What is my preference number 4?,previous preference 4,tea,P029-OLD04,P029-R14,v2,reconstructed_reference
-P029-U05,P029,primary,What is my preference number 5?,previous preference 5,coffee,P029-OLD05,P029-R15,v2,reconstructed_reference
-P029-U06,P029,primary,What is my preference number 6?,previous preference 6,noodles,P029-OLD06,P029-R16,v2,reconstructed_reference
-P030-U01,P030,primary,What is my preference number 1?,previous preference 1,blue,P030-OLD01,P030-R11,v2,reconstructed_reference
-P030-U02,P030,primary,What is my preference number 2?,previous preference 2,green,P030-OLD02,P030-R12,v2,reconstructed_reference
-P030-U03,P030,primary,What is my preference number 3?,previous preference 3,tea,P030-OLD03,P030-R13,v2,reconstructed_reference
-P030-U04,P030,primary,What is my preference number 4?,previous preference 4,coffee,P030-OLD04,P030-R14,v2,reconstructed_reference
-P030-U05,P030,primary,What is my preference number 5?,previous preference 5,noodles,P030-OLD05,P030-R15,v2,reconstructed_reference
-P030-U06,P030,primary,What is my preference number 6?,previous preference 6,rice,P030-OLD06,P030-R16,v2,reconstructed_reference
-P031-U01,P031,primary,What is my preference number 1?,previous preference 1,green,P031-OLD01,P031-R11,v2,reconstructed_reference
-P031-U02,P031,primary,What is my preference number 2?,previous preference 2,tea,P031-OLD02,P031-R12,v2,reconstructed_reference
-P031-U03,P031,primary,What is my preference number 3?,previous preference 3,coffee,P031-OLD03,P031-R13,v2,reconstructed_reference
-P031-U04,P031,primary,What is my preference number 4?,previous preference 4,noodles,P031-OLD04,P031-R14,v2,reconstructed_reference
-P031-U05,P031,primary,What is my preference number 5?,previous preference 5,rice,P031-OLD05,P031-R15,v2,reconstructed_reference
-P031-U06,P031,primary,What is my preference number 6?,previous preference 6,cycling,P031-OLD06,P031-R16,v2,reconstructed_reference
-P032-U01,P032,primary,What is my preference number 1?,previous preference 1,tea,P032-OLD01,P032-R11,v2,reconstructed_reference
-P032-U02,P032,primary,What is my preference number 2?,previous preference 2,coffee,P032-OLD02,P032-R12,v2,reconstructed_reference
-P032-U03,P032,primary,What is my preference number 3?,previous preference 3,noodles,P032-OLD03,P032-R13,v2,reconstructed_reference
-P032-U04,P032,primary,What is my preference number 4?,previous preference 4,rice,P032-OLD04,P032-R14,v2,reconstructed_reference
-P032-U05,P032,primary,What is my preference number 5?,previous preference 5,cycling,P032-OLD05,P032-R15,v2,reconstructed_reference
-P032-U06,P032,primary,What is my preference number 6?,previous preference 6,reading,P032-OLD06,P032-R16,v2,reconstructed_reference
-P033-U01,P033,primary,What is my preference number 1?,previous preference 1,coffee,P033-OLD01,P033-R11,v2,reconstructed_reference
-P033-U02,P033,primary,What is my preference number 2?,previous preference 2,noodles,P033-OLD02,P033-R12,v2,reconstructed_reference
-P033-U03,P033,primary,What is my preference number 3?,previous preference 3,rice,P033-OLD03,P033-R13,v2,reconstructed_reference
-P033-U04,P033,primary,What is my preference number 4?,previous preference 4,cycling,P033-OLD04,P033-R14,v2,reconstructed_reference
-P033-U05,P033,primary,What is my preference number 5?,previous preference 5,reading,P033-OLD05,P033-R15,v2,reconstructed_reference
-P033-U06,P033,primary,What is my preference number 6?,previous preference 6,blue,P033-OLD06,P033-R16,v2,reconstructed_reference
-P034-U01,P034,primary,What is my preference number 1?,previous preference 1,noodles,P034-OLD01,P034-R11,v2,reconstructed_reference
-P034-U02,P034,primary,What is my preference number 2?,previous preference 2,rice,P034-OLD02,P034-R12,v2,reconstructed_reference
-P034-U03,P034,primary,What is my preference number 3?,previous preference 3,cycling,P034-OLD03,P034-R13,v2,reconstructed_reference
-P034-U04,P034,primary,What is my preference number 4?,previous preference 4,reading,P034-OLD04,P034-R14,v2,reconstructed_reference
-P034-U05,P034,primary,What is my preference number 5?,previous preference 5,blue,P034-OLD05,P034-R15,v2,reconstructed_reference
-P034-U06,P034,primary,What is my preference number 6?,previous preference 6,green,P034-OLD06,P034-R16,v2,reconstructed_reference
-P035-U01,P035,primary,What is my preference number 1?,previous preference 1,rice,P035-OLD01,P035-R11,v2,reconstructed_reference
-P035-U02,P035,primary,What is my preference number 2?,previous preference 2,cycling,P035-OLD02,P035-R12,v2,reconstructed_reference
-P035-U03,P035,primary,What is my preference number 3?,previous preference 3,reading,P035-OLD03,P035-R13,v2,reconstructed_reference
-P035-U04,P035,primary,What is my preference number 4?,previous preference 4,blue,P035-OLD04,P035-R14,v2,reconstructed_reference
-P035-U05,P035,primary,What is my preference number 5?,previous preference 5,green,P035-OLD05,P035-R15,v2,reconstructed_reference
-P035-U06,P035,primary,What is my preference number 6?,previous preference 6,tea,P035-OLD06,P035-R16,v2,reconstructed_reference
-P036-U01,P036,primary,What is my preference number 1?,previous preference 1,cycling,P036-OLD01,P036-R11,v2,reconstructed_reference
-P036-U02,P036,primary,What is my preference number 2?,previous preference 2,reading,P036-OLD02,P036-R12,v2,reconstructed_reference
-P036-U03,P036,primary,What is my preference number 3?,previous preference 3,blue,P036-OLD03,P036-R13,v2,reconstructed_reference
-P036-U04,P036,primary,What is my preference number 4?,previous preference 4,green,P036-OLD04,P036-R14,v2,reconstructed_reference
-P036-U05,P036,primary,What is my preference number 5?,previous preference 5,tea,P036-OLD05,P036-R15,v2,reconstructed_reference
-P036-U06,P036,primary,What is my preference number 6?,previous preference 6,coffee,P036-OLD06,P036-R16,v2,reconstructed_reference
-P037-U01,P037,primary,What is my preference number 1?,previous preference 1,reading,P037-OLD01,P037-R11,v2,reconstructed_reference
-P037-U02,P037,primary,What is my preference number 2?,previous preference 2,blue,P037-OLD02,P037-R12,v2,reconstructed_reference
-P037-U03,P037,primary,What is my preference number 3?,previous preference 3,green,P037-OLD03,P037-R13,v2,reconstructed_reference
-P037-U04,P037,primary,What is my preference number 4?,previous preference 4,tea,P037-OLD04,P037-R14,v2,reconstructed_reference
-P037-U05,P037,primary,What is my preference number 5?,previous preference 5,coffee,P037-OLD05,P037-R15,v2,reconstructed_reference
-P037-U06,P037,primary,What is my preference number 6?,previous preference 6,noodles,P037-OLD06,P037-R16,v2,reconstructed_reference
-P038-U01,P038,primary,What is my preference number 1?,previous preference 1,blue,P038-OLD01,P038-R11,v2,reconstructed_reference
-P038-U02,P038,primary,What is my preference number 2?,previous preference 2,green,P038-OLD02,P038-R12,v2,reconstructed_reference
-P038-U03,P038,primary,What is my preference number 3?,previous preference 3,tea,P038-OLD03,P038-R13,v2,reconstructed_reference
-P038-U04,P038,primary,What is my preference number 4?,previous preference 4,coffee,P038-OLD04,P038-R14,v2,reconstructed_reference
-P038-U05,P038,primary,What is my preference number 5?,previous preference 5,noodles,P038-OLD05,P038-R15,v2,reconstructed_reference
-P038-U06,P038,primary,What is my preference number 6?,previous preference 6,rice,P038-OLD06,P038-R16,v2,reconstructed_reference
-P039-U01,P039,primary,What is my preference number 1?,previous preference 1,green,P039-OLD01,P039-R11,v2,reconstructed_reference
-P039-U02,P039,primary,What is my preference number 2?,previous preference 2,tea,P039-OLD02,P039-R12,v2,reconstructed_reference
-P039-U03,P039,primary,What is my preference number 3?,previous preference 3,coffee,P039-OLD03,P039-R13,v2,reconstructed_reference
-P039-U04,P039,primary,What is my preference number 4?,previous preference 4,noodles,P039-OLD04,P039-R14,v2,reconstructed_reference
-P039-U05,P039,primary,What is my preference number 5?,previous preference 5,rice,P039-OLD05,P039-R15,v2,reconstructed_reference
-P039-U06,P039,primary,What is my preference number 6?,previous preference 6,cycling,P039-OLD06,P039-R16,v2,reconstructed_reference
-P040-U01,P040,primary,What is my preference number 1?,previous preference 1,tea,P040-OLD01,P040-R11,v2,reconstructed_reference
-P040-U02,P040,primary,What is my preference number 2?,previous preference 2,coffee,P040-OLD02,P040-R12,v2,reconstructed_reference
-P040-U03,P040,primary,What is my preference number 3?,previous preference 3,noodles,P040-OLD03,P040-R13,v2,reconstructed_reference
-P040-U04,P040,primary,What is my preference number 4?,previous preference 4,rice,P040-OLD04,P040-R14,v2,reconstructed_reference
-P040-U05,P040,primary,What is my preference number 5?,previous preference 5,cycling,P040-OLD05,P040-R15,v2,reconstructed_reference
-P040-U06,P040,primary,What is my preference number 6?,previous preference 6,reading,P040-OLD06,P040-R16,v2,reconstructed_reference
-H001-U01,H001,held-out,Apa preference saya number 1?,previous preference 1,coffee,H001-OLD01,H001-R11,v2,reconstructed_reference
-H001-U02,H001,held-out,Apa preference saya number 2?,previous preference 2,noodles,H001-OLD02,H001-R12,v2,reconstructed_reference
-H001-U03,H001,held-out,Apa preference saya number 3?,previous preference 3,rice,H001-OLD03,H001-R13,v2,reconstructed_reference
-H001-U04,H001,held-out,Apa preference saya number 4?,previous preference 4,cycling,H001-OLD04,H001-R14,v2,reconstructed_reference
-H001-U05,H001,held-out,Apa preference saya number 5?,previous preference 5,reading,H001-OLD05,H001-R15,v2,reconstructed_reference
-H001-U06,H001,held-out,Apa preference saya number 6?,previous preference 6,blue,H001-OLD06,H001-R16,v2,reconstructed_reference
-H002-U01,H002,held-out,Apa preference saya number 1?,previous preference 1,noodles,H002-OLD01,H002-R11,v2,reconstructed_reference
-H002-U02,H002,held-out,Apa preference saya number 2?,previous preference 2,rice,H002-OLD02,H002-R12,v2,reconstructed_reference
-H002-U03,H002,held-out,Apa preference saya number 3?,previous preference 3,cycling,H002-OLD03,H002-R13,v2,reconstructed_reference
-H002-U04,H002,held-out,Apa preference saya number 4?,previous preference 4,reading,H002-OLD04,H002-R14,v2,reconstructed_reference
-H002-U05,H002,held-out,Apa preference saya number 5?,previous preference 5,blue,H002-OLD05,H002-R15,v2,reconstructed_reference
-H002-U06,H002,held-out,Apa preference saya number 6?,previous preference 6,green,H002-OLD06,H002-R16,v2,reconstructed_reference
-H003-U01,H003,held-out,Apa preference saya number 1?,previous preference 1,rice,H003-OLD01,H003-R11,v2,reconstructed_reference
-H003-U02,H003,held-out,Apa preference saya number 2?,previous preference 2,cycling,H003-OLD02,H003-R12,v2,reconstructed_reference
-H003-U03,H003,held-out,Apa preference saya number 3?,previous preference 3,reading,H003-OLD03,H003-R13,v2,reconstructed_reference
-H003-U04,H003,held-out,Apa preference saya number 4?,previous preference 4,blue,H003-OLD04,H003-R14,v2,reconstructed_reference
-H003-U05,H003,held-out,Apa preference saya number 5?,previous preference 5,green,H003-OLD05,H003-R15,v2,reconstructed_reference
-H003-U06,H003,held-out,Apa preference saya number 6?,previous preference 6,tea,H003-OLD06,H003-R16,v2,reconstructed_reference
-H004-U01,H004,held-out,Apa preference saya number 1?,previous preference 1,cycling,H004-OLD01,H004-R11,v2,reconstructed_reference
-H004-U02,H004,held-out,Apa preference saya number 2?,previous preference 2,reading,H004-OLD02,H004-R12,v2,reconstructed_reference
-H004-U03,H004,held-out,Apa preference saya number 3?,previous preference 3,blue,H004-OLD03,H004-R13,v2,reconstructed_reference
-H004-U04,H004,held-out,Apa preference saya number 4?,previous preference 4,green,H004-OLD04,H004-R14,v2,reconstructed_reference
-H004-U05,H004,held-out,Apa preference saya number 5?,previous preference 5,tea,H004-OLD05,H004-R15,v2,reconstructed_reference
-H004-U06,H004,held-out,Apa preference saya number 6?,previous preference 6,coffee,H004-OLD06,H004-R16,v2,reconstructed_reference
-H005-U01,H005,held-out,Apa preference saya number 1?,previous preference 1,reading,H005-OLD01,H005-R11,v2,reconstructed_reference
-H005-U02,H005,held-out,Apa preference saya number 2?,previous preference 2,blue,H005-OLD02,H005-R12,v2,reconstructed_reference
-H005-U03,H005,held-out,Apa preference saya number 3?,previous preference 3,green,H005-OLD03,H005-R13,v2,reconstructed_reference
-H005-U04,H005,held-out,Apa preference saya number 4?,previous preference 4,tea,H005-OLD04,H005-R14,v2,reconstructed_reference
-H005-U05,H005,held-out,Apa preference saya number 5?,previous preference 5,coffee,H005-OLD05,H005-R15,v2,reconstructed_reference
-H005-U06,H005,held-out,Apa preference saya number 6?,previous preference 6,noodles,H005-OLD06,H005-R16,v2,reconstructed_reference
-H006-U01,H006,held-out,Apa preference saya number 1?,previous preference 1,blue,H006-OLD01,H006-R11,v2,reconstructed_reference
-H006-U02,H006,held-out,Apa preference saya number 2?,previous preference 2,green,H006-OLD02,H006-R12,v2,reconstructed_reference
-H006-U03,H006,held-out,Apa preference saya number 3?,previous preference 3,tea,H006-OLD03,H006-R13,v2,reconstructed_reference
-H006-U04,H006,held-out,Apa preference saya number 4?,previous preference 4,coffee,H006-OLD04,H006-R14,v2,reconstructed_reference
-H006-U05,H006,held-out,Apa preference saya number 5?,previous preference 5,noodles,H006-OLD05,H006-R15,v2,reconstructed_reference
-H006-U06,H006,held-out,Apa preference saya number 6?,previous preference 6,rice,H006-OLD06,H006-R16,v2,reconstructed_reference
-H007-U01,H007,held-out,Apa preference saya number 1?,previous preference 1,green,H007-OLD01,H007-R11,v2,reconstructed_reference
-H007-U02,H007,held-out,Apa preference saya number 2?,previous preference 2,tea,H007-OLD02,H007-R12,v2,reconstructed_reference
-H007-U03,H007,held-out,Apa preference saya number 3?,previous preference 3,coffee,H007-OLD03,H007-R13,v2,reconstructed_reference
-H007-U04,H007,held-out,Apa preference saya number 4?,previous preference 4,noodles,H007-OLD04,H007-R14,v2,reconstructed_reference
-H007-U05,H007,held-out,Apa preference saya number 5?,previous preference 5,rice,H007-OLD05,H007-R15,v2,reconstructed_reference
-H007-U06,H007,held-out,Apa preference saya number 6?,previous preference 6,cycling,H007-OLD06,H007-R16,v2,reconstructed_reference
-H008-U01,H008,held-out,Apa preference saya number 1?,previous preference 1,tea,H008-OLD01,H008-R11,v2,reconstructed_reference
-H008-U02,H008,held-out,Apa preference saya number 2?,previous preference 2,coffee,H008-OLD02,H008-R12,v2,reconstructed_reference
-H008-U03,H008,held-out,Apa preference saya number 3?,previous preference 3,noodles,H008-OLD03,H008-R13,v2,reconstructed_reference
-H008-U04,H008,held-out,Apa preference saya number 4?,previous preference 4,rice,H008-OLD04,H008-R14,v2,reconstructed_reference
-H008-U05,H008,held-out,Apa preference saya number 5?,previous preference 5,cycling,H008-OLD05,H008-R15,v2,reconstructed_reference
-H008-U06,H008,held-out,Apa preference saya number 6?,previous preference 6,reading,H008-OLD06,H008-R16,v2,reconstructed_reference
-H009-U01,H009,held-out,Apa preference saya number 1?,previous preference 1,coffee,H009-OLD01,H009-R11,v2,reconstructed_reference
-H009-U02,H009,held-out,Apa preference saya number 2?,previous preference 2,noodles,H009-OLD02,H009-R12,v2,reconstructed_reference
-H009-U03,H009,held-out,Apa preference saya number 3?,previous preference 3,rice,H009-OLD03,H009-R13,v2,reconstructed_reference
-H009-U04,H009,held-out,Apa preference saya number 4?,previous preference 4,cycling,H009-OLD04,H009-R14,v2,reconstructed_reference
-H009-U05,H009,held-out,Apa preference saya number 5?,previous preference 5,reading,H009-OLD05,H009-R15,v2,reconstructed_reference
-H009-U06,H009,held-out,Apa preference saya number 6?,previous preference 6,blue,H009-OLD06,H009-R16,v2,reconstructed_reference
-H010-U01,H010,held-out,Apa preference saya number 1?,previous preference 1,noodles,H010-OLD01,H010-R11,v2,reconstructed_reference
-H010-U02,H010,held-out,Apa preference saya number 2?,previous preference 2,rice,H010-OLD02,H010-R12,v2,reconstructed_reference
-H010-U03,H010,held-out,Apa preference saya number 3?,previous preference 3,cycling,H010-OLD03,H010-R13,v2,reconstructed_reference
-H010-U04,H010,held-out,Apa preference saya number 4?,previous preference 4,reading,H010-OLD04,H010-R14,v2,reconstructed_reference
-H010-U05,H010,held-out,Apa preference saya number 5?,previous preference 5,blue,H010-OLD05,H010-R15,v2,reconstructed_reference
-H010-U06,H010,held-out,Apa preference saya number 6?,previous preference 6,green,H010-OLD06,H010-R16,v2,reconstructed_reference
-H011-U01,H011,held-out,Apa preference saya number 1?,previous preference 1,rice,H011-OLD01,H011-R11,v2,reconstructed_reference
-H011-U02,H011,held-out,Apa preference saya number 2?,previous preference 2,cycling,H011-OLD02,H011-R12,v2,reconstructed_reference
-H011-U03,H011,held-out,Apa preference saya number 3?,previous preference 3,reading,H011-OLD03,H011-R13,v2,reconstructed_reference
-H011-U04,H011,held-out,Apa preference saya number 4?,previous preference 4,blue,H011-OLD04,H011-R14,v2,reconstructed_reference
-H011-U05,H011,held-out,Apa preference saya number 5?,previous preference 5,green,H011-OLD05,H011-R15,v2,reconstructed_reference
-H011-U06,H011,held-out,Apa preference saya number 6?,previous preference 6,tea,H011-OLD06,H011-R16,v2,reconstructed_reference
-H012-U01,H012,held-out,Apa preference saya number 1?,previous preference 1,cycling,H012-OLD01,H012-R11,v2,reconstructed_reference
-H012-U02,H012,held-out,Apa preference saya number 2?,previous preference 2,reading,H012-OLD02,H012-R12,v2,reconstructed_reference
-H012-U03,H012,held-out,Apa preference saya number 3?,previous preference 3,blue,H012-OLD03,H012-R13,v2,reconstructed_reference
-H012-U04,H012,held-out,Apa preference saya number 4?,previous preference 4,green,H012-OLD04,H012-R14,v2,reconstructed_reference
-H012-U05,H012,held-out,Apa preference saya number 5?,previous preference 5,tea,H012-OLD05,H012-R15,v2,reconstructed_reference
-H012-U06,H012,held-out,Apa preference saya number 6?,previous preference 6,coffee,H012-OLD06,H012-R16,v2,reconstructed_reference
-H013-U01,H013,held-out,Apa preference saya number 1?,previous preference 1,reading,H013-OLD01,H013-R11,v2,reconstructed_reference
-H013-U02,H013,held-out,Apa preference saya number 2?,previous preference 2,blue,H013-OLD02,H013-R12,v2,reconstructed_reference
-H013-U03,H013,held-out,Apa preference saya number 3?,previous preference 3,green,H013-OLD03,H013-R13,v2,reconstructed_reference
-H013-U04,H013,held-out,Apa preference saya number 4?,previous preference 4,tea,H013-OLD04,H013-R14,v2,reconstructed_reference
-H013-U05,H013,held-out,Apa preference saya number 5?,previous preference 5,coffee,H013-OLD05,H013-R15,v2,reconstructed_reference
-H013-U06,H013,held-out,Apa preference saya number 6?,previous preference 6,noodles,H013-OLD06,H013-R16,v2,reconstructed_reference
-H014-U01,H014,held-out,Apa preference saya number 1?,previous preference 1,blue,H014-OLD01,H014-R11,v2,reconstructed_reference
-H014-U02,H014,held-out,Apa preference saya number 2?,previous preference 2,green,H014-OLD02,H014-R12,v2,reconstructed_reference
-H014-U03,H014,held-out,Apa preference saya number 3?,previous preference 3,tea,H014-OLD03,H014-R13,v2,reconstructed_reference
-H014-U04,H014,held-out,Apa preference saya number 4?,previous preference 4,coffee,H014-OLD04,H014-R14,v2,reconstructed_reference
-H014-U05,H014,held-out,Apa preference saya number 5?,previous preference 5,noodles,H014-OLD05,H014-R15,v2,reconstructed_reference
-H014-U06,H014,held-out,Apa preference saya number 6?,previous preference 6,rice,H014-OLD06,H014-R16,v2,reconstructed_reference
-H015-U01,H015,held-out,Apa preference saya number 1?,previous preference 1,green,H015-OLD01,H015-R11,v2,reconstructed_reference
-H015-U02,H015,held-out,Apa preference saya number 2?,previous preference 2,tea,H015-OLD02,H015-R12,v2,reconstructed_reference
-H015-U03,H015,held-out,Apa preference saya number 3?,previous preference 3,coffee,H015-OLD03,H015-R13,v2,reconstructed_reference
-H015-U04,H015,held-out,Apa preference saya number 4?,previous preference 4,noodles,H015-OLD04,H015-R14,v2,reconstructed_reference
-H015-U05,H015,held-out,Apa preference saya number 5?,previous preference 5,rice,H015-OLD05,H015-R15,v2,reconstructed_reference
-H015-U06,H015,held-out,Apa preference saya number 6?,previous preference 6,cycling,H015-OLD06,H015-R16,v2,reconstructed_reference
-H016-U01,H016,held-out,Apa preference saya number 1?,previous preference 1,tea,H016-OLD01,H016-R11,v2,reconstructed_reference
-H016-U02,H016,held-out,Apa preference saya number 2?,previous preference 2,coffee,H016-OLD02,H016-R12,v2,reconstructed_reference
-H016-U03,H016,held-out,Apa preference saya number 3?,previous preference 3,noodles,H016-OLD03,H016-R13,v2,reconstructed_reference
-H016-U04,H016,held-out,Apa preference saya number 4?,previous preference 4,rice,H016-OLD04,H016-R14,v2,reconstructed_reference
-H016-U05,H016,held-out,Apa preference saya number 5?,previous preference 5,cycling,H016-OLD05,H016-R15,v2,reconstructed_reference
-H016-U06,H016,held-out,Apa preference saya number 6?,previous preference 6,reading,H016-OLD06,H016-R16,v2,reconstructed_reference
-H017-U01,H017,held-out,Apa preference saya number 1?,previous preference 1,coffee,H017-OLD01,H017-R11,v2,reconstructed_reference
-H017-U02,H017,held-out,Apa preference saya number 2?,previous preference 2,noodles,H017-OLD02,H017-R12,v2,reconstructed_reference
-H017-U03,H017,held-out,Apa preference saya number 3?,previous preference 3,rice,H017-OLD03,H017-R13,v2,reconstructed_reference
-H017-U04,H017,held-out,Apa preference saya number 4?,previous preference 4,cycling,H017-OLD04,H017-R14,v2,reconstructed_reference
-H017-U05,H017,held-out,Apa preference saya number 5?,previous preference 5,reading,H017-OLD05,H017-R15,v2,reconstructed_reference
-H017-U06,H017,held-out,Apa preference saya number 6?,previous preference 6,blue,H017-OLD06,H017-R16,v2,reconstructed_reference
-H018-U01,H018,held-out,Apa preference saya number 1?,previous preference 1,noodles,H018-OLD01,H018-R11,v2,reconstructed_reference
-H018-U02,H018,held-out,Apa preference saya number 2?,previous preference 2,rice,H018-OLD02,H018-R12,v2,reconstructed_reference
-H018-U03,H018,held-out,Apa preference saya number 3?,previous preference 3,cycling,H018-OLD03,H018-R13,v2,reconstructed_reference
-H018-U04,H018,held-out,Apa preference saya number 4?,previous preference 4,reading,H018-OLD04,H018-R14,v2,reconstructed_reference
-H018-U05,H018,held-out,Apa preference saya number 5?,previous preference 5,blue,H018-OLD05,H018-R15,v2,reconstructed_reference
-H018-U06,H018,held-out,Apa preference saya number 6?,previous preference 6,green,H018-OLD06,H018-R16,v2,reconstructed_reference
-H019-U01,H019,held-out,Apa preference saya number 1?,previous preference 1,rice,H019-OLD01,H019-R11,v2,reconstructed_reference
-H019-U02,H019,held-out,Apa preference saya number 2?,previous preference 2,cycling,H019-OLD02,H019-R12,v2,reconstructed_reference
-H019-U03,H019,held-out,Apa preference saya number 3?,previous preference 3,reading,H019-OLD03,H019-R13,v2,reconstructed_reference
-H019-U04,H019,held-out,Apa preference saya number 4?,previous preference 4,blue,H019-OLD04,H019-R14,v2,reconstructed_reference
-H019-U05,H019,held-out,Apa preference saya number 5?,previous preference 5,green,H019-OLD05,H019-R15,v2,reconstructed_reference
-H019-U06,H019,held-out,Apa preference saya number 6?,previous preference 6,tea,H019-OLD06,H019-R16,v2,reconstructed_reference
-H020-U01,H020,held-out,Apa preference saya number 1?,previous preference 1,cycling,H020-OLD01,H020-R11,v2,reconstructed_reference
-H020-U02,H020,held-out,Apa preference saya number 2?,previous preference 2,reading,H020-OLD02,H020-R12,v2,reconstructed_reference
-H020-U03,H020,held-out,Apa preference saya number 3?,previous preference 3,blue,H020-OLD03,H020-R13,v2,reconstructed_reference
-H020-U04,H020,held-out,Apa preference saya number 4?,previous preference 4,green,H020-OLD04,H020-R14,v2,reconstructed_reference
-H020-U05,H020,held-out,Apa preference saya number 5?,previous preference 5,tea,H020-OLD05,H020-R15,v2,reconstructed_reference
-H020-U06,H020,held-out,Apa preference saya number 6?,previous preference 6,coffee,H020-OLD06,H020-R16,v2,reconstructed_reference
+trial_id,persona_id,split,query,old_value,expected_value,old_evidence_id,evidence_id,active_identity_version,provenance,conversation_id,old_conversation_id,evidence_owner
+D001-U01,D001,development,What is my current morning drink?,tea,coffee,D001-OLD01,D001-R11,v2,reconstructed_reference,D001-C2,D001-EARLIER,D001
+D001-U02,D001,development,What is my current weekend meal?,rice,vegetable soup,D001-OLD02,D001-R12,v2,reconstructed_reference,D001-C2,D001-EARLIER,D001
+D001-U03,D001,development,What is my current exercise?,walking,swimming,D001-OLD03,D001-R13,v2,reconstructed_reference,D001-C2,D001-EARLIER,D001
+D001-U04,D001,development,What is my current reading genre?,poetry,travel writing,D001-OLD04,D001-R14,v2,reconstructed_reference,D001-C2,D001-EARLIER,D001
+D001-U05,D001,development,What is my current preferred colour?,yellow,ochre,D001-OLD05,D001-R15,v2,reconstructed_reference,D001-C2,D001-EARLIER,D001
+D001-U06,D001,development,What is my current music?,a different earlier choice,jazz,D001-OLD06,D001-R16,v2,reconstructed_reference,D001-C2,D001-EARLIER,D001
+D002-U01,D002,development,What is my current morning drink?,tea,barley water,D002-OLD01,D002-R11,v2,reconstructed_reference,D002-C2,D002-EARLIER,D002
+D002-U02,D002,development,What is my current weekend meal?,rice,nasi lemak,D002-OLD02,D002-R12,v2,reconstructed_reference,D002-C2,D002-EARLIER,D002
+D002-U03,D002,development,What is my current exercise?,walking,badminton,D002-OLD03,D002-R13,v2,reconstructed_reference,D002-C2,D002-EARLIER,D002
+D002-U04,D002,development,What is my current reading genre?,poetry,history,D002-OLD04,D002-R14,v2,reconstructed_reference,D002-C2,D002-EARLIER,D002
+D002-U05,D002,development,What is my current preferred colour?,yellow,teal,D002-OLD05,D002-R15,v2,reconstructed_reference,D002-C2,D002-EARLIER,D002
+D002-U06,D002,development,What is my current music?,jazz,traditional music,D002-OLD06,D002-R16,v2,reconstructed_reference,D002-C2,D002-EARLIER,D002
+D003-U01,D003,development,What is my current morning drink?,tea,warm water,D003-OLD01,D003-R11,v2,reconstructed_reference,D003-C2,D003-EARLIER,D003
+D003-U02,D003,development,What is my current weekend meal?,rice,curry and rice,D003-OLD02,D003-R12,v2,reconstructed_reference,D003-C2,D003-EARLIER,D003
+D003-U03,D003,development,What is my current exercise?,walking,cycling,D003-OLD03,D003-R13,v2,reconstructed_reference,D003-C2,D003-EARLIER,D003
+D003-U04,D003,development,What is my current reading genre?,poetry,biographies,D003-OLD04,D003-R14,v2,reconstructed_reference,D003-C2,D003-EARLIER,D003
+D003-U05,D003,development,What is my current preferred colour?,yellow,green,D003-OLD05,D003-R15,v2,reconstructed_reference,D003-C2,D003-EARLIER,D003
+D003-U06,D003,development,What is my current music?,jazz,classical music,D003-OLD06,D003-R16,v2,reconstructed_reference,D003-C2,D003-EARLIER,D003
+D004-U01,D004,development,What is my current morning drink?,a different earlier choice,tea,D004-OLD01,D004-R11,v2,reconstructed_reference,D004-C2,D004-EARLIER,D004
+D004-U02,D004,development,What is my current weekend meal?,rice,roti canai,D004-OLD02,D004-R12,v2,reconstructed_reference,D004-C2,D004-EARLIER,D004
+D004-U03,D004,development,What is my current exercise?,a different earlier choice,walking,D004-OLD03,D004-R13,v2,reconstructed_reference,D004-C2,D004-EARLIER,D004
+D004-U04,D004,development,What is my current reading genre?,poetry,mystery novels,D004-OLD04,D004-R14,v2,reconstructed_reference,D004-C2,D004-EARLIER,D004
+D004-U05,D004,development,What is my current preferred colour?,yellow,purple,D004-OLD05,D004-R15,v2,reconstructed_reference,D004-C2,D004-EARLIER,D004
+D004-U06,D004,development,What is my current music?,jazz,indie pop,D004-OLD06,D004-R16,v2,reconstructed_reference,D004-C2,D004-EARLIER,D004
+D005-U01,D005,development,What is my current morning drink?,tea,milo,D005-OLD01,D005-R11,v2,reconstructed_reference,D005-C2,D005-EARLIER,D005
+D005-U02,D005,development,What is my current weekend meal?,rice,noodles,D005-OLD02,D005-R12,v2,reconstructed_reference,D005-C2,D005-EARLIER,D005
+D005-U03,D005,development,What is my current exercise?,walking,yoga,D005-OLD03,D005-R13,v2,reconstructed_reference,D005-C2,D005-EARLIER,D005
+D005-U04,D005,development,What is my current reading genre?,poetry,science fiction,D005-OLD04,D005-R14,v2,reconstructed_reference,D005-C2,D005-EARLIER,D005
+D005-U05,D005,development,What is my current preferred colour?,yellow,blue,D005-OLD05,D005-R15,v2,reconstructed_reference,D005-C2,D005-EARLIER,D005
+D005-U06,D005,development,What is my current music?,jazz,acoustic music,D005-OLD06,D005-R16,v2,reconstructed_reference,D005-C2,D005-EARLIER,D005
+D006-U01,D006,development,What is my current morning drink?,tea,coffee,D006-OLD01,D006-R11,v2,reconstructed_reference,D006-C2,D006-EARLIER,D006
+D006-U02,D006,development,What is my current weekend meal?,rice,vegetable soup,D006-OLD02,D006-R12,v2,reconstructed_reference,D006-C2,D006-EARLIER,D006
+D006-U03,D006,development,What is my current exercise?,walking,swimming,D006-OLD03,D006-R13,v2,reconstructed_reference,D006-C2,D006-EARLIER,D006
+D006-U04,D006,development,What is my current reading genre?,poetry,travel writing,D006-OLD04,D006-R14,v2,reconstructed_reference,D006-C2,D006-EARLIER,D006
+D006-U05,D006,development,What is my current preferred colour?,yellow,ochre,D006-OLD05,D006-R15,v2,reconstructed_reference,D006-C2,D006-EARLIER,D006
+D006-U06,D006,development,What is my current music?,a different earlier choice,jazz,D006-OLD06,D006-R16,v2,reconstructed_reference,D006-C2,D006-EARLIER,D006
+D007-U01,D007,development,What is my current morning drink?,tea,milo,D007-OLD01,D007-R11,v2,reconstructed_reference,D007-C2,D007-EARLIER,D007
+D007-U02,D007,development,What is my current weekend meal?,rice,noodles,D007-OLD02,D007-R12,v2,reconstructed_reference,D007-C2,D007-EARLIER,D007
+D007-U03,D007,development,What is my current exercise?,walking,yoga,D007-OLD03,D007-R13,v2,reconstructed_reference,D007-C2,D007-EARLIER,D007
+D007-U04,D007,development,What is my current reading genre?,poetry,science fiction,D007-OLD04,D007-R14,v2,reconstructed_reference,D007-C2,D007-EARLIER,D007
+D007-U05,D007,development,What is my current preferred colour?,yellow,blue,D007-OLD05,D007-R15,v2,reconstructed_reference,D007-C2,D007-EARLIER,D007
+D007-U06,D007,development,What is my current music?,jazz,acoustic music,D007-OLD06,D007-R16,v2,reconstructed_reference,D007-C2,D007-EARLIER,D007
+D008-U01,D008,development,What is my current morning drink?,tea,coffee,D008-OLD01,D008-R11,v2,reconstructed_reference,D008-C2,D008-EARLIER,D008
+D008-U02,D008,development,What is my current weekend meal?,rice,vegetable soup,D008-OLD02,D008-R12,v2,reconstructed_reference,D008-C2,D008-EARLIER,D008
+D008-U03,D008,development,What is my current exercise?,walking,swimming,D008-OLD03,D008-R13,v2,reconstructed_reference,D008-C2,D008-EARLIER,D008
+D008-U04,D008,development,What is my current reading genre?,poetry,travel writing,D008-OLD04,D008-R14,v2,reconstructed_reference,D008-C2,D008-EARLIER,D008
+D008-U05,D008,development,What is my current preferred colour?,yellow,ochre,D008-OLD05,D008-R15,v2,reconstructed_reference,D008-C2,D008-EARLIER,D008
+D008-U06,D008,development,What is my current music?,a different earlier choice,jazz,D008-OLD06,D008-R16,v2,reconstructed_reference,D008-C2,D008-EARLIER,D008
+P001-U01,P001,primary,What is my current morning drink?,tea,barley water,P001-OLD01,P001-R11,v2,reconstructed_reference,P001-C2,P001-EARLIER,P001
+P001-U02,P001,primary,What is my current weekend meal?,rice,nasi lemak,P001-OLD02,P001-R12,v2,reconstructed_reference,P001-C2,P001-EARLIER,P001
+P001-U03,P001,primary,What is my current exercise?,walking,badminton,P001-OLD03,P001-R13,v2,reconstructed_reference,P001-C2,P001-EARLIER,P001
+P001-U04,P001,primary,What is my current reading genre?,poetry,history,P001-OLD04,P001-R14,v2,reconstructed_reference,P001-C2,P001-EARLIER,P001
+P001-U05,P001,primary,What is my current preferred colour?,yellow,teal,P001-OLD05,P001-R15,v2,reconstructed_reference,P001-C2,P001-EARLIER,P001
+P001-U06,P001,primary,What is my current music?,jazz,traditional music,P001-OLD06,P001-R16,v2,reconstructed_reference,P001-C2,P001-EARLIER,P001
+P002-U01,P002,primary,What is my current morning drink?,tea,warm water,P002-OLD01,P002-R11,v2,reconstructed_reference,P002-C2,P002-EARLIER,P002
+P002-U02,P002,primary,What is my current weekend meal?,rice,curry and rice,P002-OLD02,P002-R12,v2,reconstructed_reference,P002-C2,P002-EARLIER,P002
+P002-U03,P002,primary,What is my current exercise?,walking,cycling,P002-OLD03,P002-R13,v2,reconstructed_reference,P002-C2,P002-EARLIER,P002
+P002-U04,P002,primary,What is my current reading genre?,poetry,biographies,P002-OLD04,P002-R14,v2,reconstructed_reference,P002-C2,P002-EARLIER,P002
+P002-U05,P002,primary,What is my current preferred colour?,yellow,green,P002-OLD05,P002-R15,v2,reconstructed_reference,P002-C2,P002-EARLIER,P002
+P002-U06,P002,primary,What is my current music?,jazz,classical music,P002-OLD06,P002-R16,v2,reconstructed_reference,P002-C2,P002-EARLIER,P002
+P003-U01,P003,primary,What is my current morning drink?,a different earlier choice,tea,P003-OLD01,P003-R11,v2,reconstructed_reference,P003-C2,P003-EARLIER,P003
+P003-U02,P003,primary,What is my current weekend meal?,rice,roti canai,P003-OLD02,P003-R12,v2,reconstructed_reference,P003-C2,P003-EARLIER,P003
+P003-U03,P003,primary,What is my current exercise?,a different earlier choice,walking,P003-OLD03,P003-R13,v2,reconstructed_reference,P003-C2,P003-EARLIER,P003
+P003-U04,P003,primary,What is my current reading genre?,poetry,mystery novels,P003-OLD04,P003-R14,v2,reconstructed_reference,P003-C2,P003-EARLIER,P003
+P003-U05,P003,primary,What is my current preferred colour?,yellow,purple,P003-OLD05,P003-R15,v2,reconstructed_reference,P003-C2,P003-EARLIER,P003
+P003-U06,P003,primary,What is my current music?,jazz,indie pop,P003-OLD06,P003-R16,v2,reconstructed_reference,P003-C2,P003-EARLIER,P003
+P004-U01,P004,primary,What is my current morning drink?,tea,milo,P004-OLD01,P004-R11,v2,reconstructed_reference,P004-C2,P004-EARLIER,P004
+P004-U02,P004,primary,What is my current weekend meal?,rice,noodles,P004-OLD02,P004-R12,v2,reconstructed_reference,P004-C2,P004-EARLIER,P004
+P004-U03,P004,primary,What is my current exercise?,walking,yoga,P004-OLD03,P004-R13,v2,reconstructed_reference,P004-C2,P004-EARLIER,P004
+P004-U04,P004,primary,What is my current reading genre?,poetry,science fiction,P004-OLD04,P004-R14,v2,reconstructed_reference,P004-C2,P004-EARLIER,P004
+P004-U05,P004,primary,What is my current preferred colour?,yellow,blue,P004-OLD05,P004-R15,v2,reconstructed_reference,P004-C2,P004-EARLIER,P004
+P004-U06,P004,primary,What is my current music?,jazz,acoustic music,P004-OLD06,P004-R16,v2,reconstructed_reference,P004-C2,P004-EARLIER,P004
+P005-U01,P005,primary,What is my current morning drink?,a different earlier choice,tea,P005-OLD01,P005-R11,v2,reconstructed_reference,P005-C2,P005-EARLIER,P005
+P005-U02,P005,primary,What is my current weekend meal?,rice,roti canai,P005-OLD02,P005-R12,v2,reconstructed_reference,P005-C2,P005-EARLIER,P005
+P005-U03,P005,primary,What is my current exercise?,a different earlier choice,walking,P005-OLD03,P005-R13,v2,reconstructed_reference,P005-C2,P005-EARLIER,P005
+P005-U04,P005,primary,What is my current reading genre?,poetry,mystery novels,P005-OLD04,P005-R14,v2,reconstructed_reference,P005-C2,P005-EARLIER,P005
+P005-U05,P005,primary,What is my current preferred colour?,yellow,purple,P005-OLD05,P005-R15,v2,reconstructed_reference,P005-C2,P005-EARLIER,P005
+P005-U06,P005,primary,What is my current music?,jazz,indie pop,P005-OLD06,P005-R16,v2,reconstructed_reference,P005-C2,P005-EARLIER,P005
+P006-U01,P006,primary,What is my current morning drink?,tea,milo,P006-OLD01,P006-R11,v2,reconstructed_reference,P006-C2,P006-EARLIER,P006
+P006-U02,P006,primary,What is my current weekend meal?,rice,noodles,P006-OLD02,P006-R12,v2,reconstructed_reference,P006-C2,P006-EARLIER,P006
+P006-U03,P006,primary,What is my current exercise?,walking,yoga,P006-OLD03,P006-R13,v2,reconstructed_reference,P006-C2,P006-EARLIER,P006
+P006-U04,P006,primary,What is my current reading genre?,poetry,science fiction,P006-OLD04,P006-R14,v2,reconstructed_reference,P006-C2,P006-EARLIER,P006
+P006-U05,P006,primary,What is my current preferred colour?,yellow,blue,P006-OLD05,P006-R15,v2,reconstructed_reference,P006-C2,P006-EARLIER,P006
+P006-U06,P006,primary,What is my current music?,jazz,acoustic music,P006-OLD06,P006-R16,v2,reconstructed_reference,P006-C2,P006-EARLIER,P006
+P007-U01,P007,primary,What is my current morning drink?,tea,coffee,P007-OLD01,P007-R11,v2,reconstructed_reference,P007-C2,P007-EARLIER,P007
+P007-U02,P007,primary,What is my current weekend meal?,rice,vegetable soup,P007-OLD02,P007-R12,v2,reconstructed_reference,P007-C2,P007-EARLIER,P007
+P007-U03,P007,primary,What is my current exercise?,walking,swimming,P007-OLD03,P007-R13,v2,reconstructed_reference,P007-C2,P007-EARLIER,P007
+P007-U04,P007,primary,What is my current reading genre?,poetry,travel writing,P007-OLD04,P007-R14,v2,reconstructed_reference,P007-C2,P007-EARLIER,P007
+P007-U05,P007,primary,What is my current preferred colour?,yellow,ochre,P007-OLD05,P007-R15,v2,reconstructed_reference,P007-C2,P007-EARLIER,P007
+P007-U06,P007,primary,What is my current music?,a different earlier choice,jazz,P007-OLD06,P007-R16,v2,reconstructed_reference,P007-C2,P007-EARLIER,P007
+P008-U01,P008,primary,What is my current morning drink?,tea,barley water,P008-OLD01,P008-R11,v2,reconstructed_reference,P008-C2,P008-EARLIER,P008
+P008-U02,P008,primary,What is my current weekend meal?,rice,nasi lemak,P008-OLD02,P008-R12,v2,reconstructed_reference,P008-C2,P008-EARLIER,P008
+P008-U03,P008,primary,What is my current exercise?,walking,badminton,P008-OLD03,P008-R13,v2,reconstructed_reference,P008-C2,P008-EARLIER,P008
+P008-U04,P008,primary,What is my current reading genre?,poetry,history,P008-OLD04,P008-R14,v2,reconstructed_reference,P008-C2,P008-EARLIER,P008
+P008-U05,P008,primary,What is my current preferred colour?,yellow,teal,P008-OLD05,P008-R15,v2,reconstructed_reference,P008-C2,P008-EARLIER,P008
+P008-U06,P008,primary,What is my current music?,jazz,traditional music,P008-OLD06,P008-R16,v2,reconstructed_reference,P008-C2,P008-EARLIER,P008
+P009-U01,P009,primary,What is my current morning drink?,tea,warm water,P009-OLD01,P009-R11,v2,reconstructed_reference,P009-C2,P009-EARLIER,P009
+P009-U02,P009,primary,What is my current weekend meal?,rice,curry and rice,P009-OLD02,P009-R12,v2,reconstructed_reference,P009-C2,P009-EARLIER,P009
+P009-U03,P009,primary,What is my current exercise?,walking,cycling,P009-OLD03,P009-R13,v2,reconstructed_reference,P009-C2,P009-EARLIER,P009
+P009-U04,P009,primary,What is my current reading genre?,poetry,biographies,P009-OLD04,P009-R14,v2,reconstructed_reference,P009-C2,P009-EARLIER,P009
+P009-U05,P009,primary,What is my current preferred colour?,yellow,green,P009-OLD05,P009-R15,v2,reconstructed_reference,P009-C2,P009-EARLIER,P009
+P009-U06,P009,primary,What is my current music?,jazz,classical music,P009-OLD06,P009-R16,v2,reconstructed_reference,P009-C2,P009-EARLIER,P009
+P010-U01,P010,primary,What is my current morning drink?,a different earlier choice,tea,P010-OLD01,P010-R11,v2,reconstructed_reference,P010-C2,P010-EARLIER,P010
+P010-U02,P010,primary,What is my current weekend meal?,rice,roti canai,P010-OLD02,P010-R12,v2,reconstructed_reference,P010-C2,P010-EARLIER,P010
+P010-U03,P010,primary,What is my current exercise?,a different earlier choice,walking,P010-OLD03,P010-R13,v2,reconstructed_reference,P010-C2,P010-EARLIER,P010
+P010-U04,P010,primary,What is my current reading genre?,poetry,mystery novels,P010-OLD04,P010-R14,v2,reconstructed_reference,P010-C2,P010-EARLIER,P010
+P010-U05,P010,primary,What is my current preferred colour?,yellow,purple,P010-OLD05,P010-R15,v2,reconstructed_reference,P010-C2,P010-EARLIER,P010
+P010-U06,P010,primary,What is my current music?,jazz,indie pop,P010-OLD06,P010-R16,v2,reconstructed_reference,P010-C2,P010-EARLIER,P010
+P011-U01,P011,primary,What is my current morning drink?,tea,warm water,P011-OLD01,P011-R11,v2,reconstructed_reference,P011-C2,P011-EARLIER,P011
+P011-U02,P011,primary,What is my current weekend meal?,rice,curry and rice,P011-OLD02,P011-R12,v2,reconstructed_reference,P011-C2,P011-EARLIER,P011
+P011-U03,P011,primary,What is my current exercise?,walking,cycling,P011-OLD03,P011-R13,v2,reconstructed_reference,P011-C2,P011-EARLIER,P011
+P011-U04,P011,primary,What is my current reading genre?,poetry,biographies,P011-OLD04,P011-R14,v2,reconstructed_reference,P011-C2,P011-EARLIER,P011
+P011-U05,P011,primary,What is my current preferred colour?,yellow,green,P011-OLD05,P011-R15,v2,reconstructed_reference,P011-C2,P011-EARLIER,P011
+P011-U06,P011,primary,What is my current music?,jazz,classical music,P011-OLD06,P011-R16,v2,reconstructed_reference,P011-C2,P011-EARLIER,P011
+P012-U01,P012,primary,What is my current morning drink?,a different earlier choice,tea,P012-OLD01,P012-R11,v2,reconstructed_reference,P012-C2,P012-EARLIER,P012
+P012-U02,P012,primary,What is my current weekend meal?,rice,roti canai,P012-OLD02,P012-R12,v2,reconstructed_reference,P012-C2,P012-EARLIER,P012
+P012-U03,P012,primary,What is my current exercise?,a different earlier choice,walking,P012-OLD03,P012-R13,v2,reconstructed_reference,P012-C2,P012-EARLIER,P012
+P012-U04,P012,primary,What is my current reading genre?,poetry,mystery novels,P012-OLD04,P012-R14,v2,reconstructed_reference,P012-C2,P012-EARLIER,P012
+P012-U05,P012,primary,What is my current preferred colour?,yellow,purple,P012-OLD05,P012-R15,v2,reconstructed_reference,P012-C2,P012-EARLIER,P012
+P012-U06,P012,primary,What is my current music?,jazz,indie pop,P012-OLD06,P012-R16,v2,reconstructed_reference,P012-C2,P012-EARLIER,P012
+P013-U01,P013,primary,What is my current morning drink?,tea,milo,P013-OLD01,P013-R11,v2,reconstructed_reference,P013-C2,P013-EARLIER,P013
+P013-U02,P013,primary,What is my current weekend meal?,rice,noodles,P013-OLD02,P013-R12,v2,reconstructed_reference,P013-C2,P013-EARLIER,P013
+P013-U03,P013,primary,What is my current exercise?,walking,yoga,P013-OLD03,P013-R13,v2,reconstructed_reference,P013-C2,P013-EARLIER,P013
+P013-U04,P013,primary,What is my current reading genre?,poetry,science fiction,P013-OLD04,P013-R14,v2,reconstructed_reference,P013-C2,P013-EARLIER,P013
+P013-U05,P013,primary,What is my current preferred colour?,yellow,blue,P013-OLD05,P013-R15,v2,reconstructed_reference,P013-C2,P013-EARLIER,P013
+P013-U06,P013,primary,What is my current music?,jazz,acoustic music,P013-OLD06,P013-R16,v2,reconstructed_reference,P013-C2,P013-EARLIER,P013
+P014-U01,P014,primary,What is my current morning drink?,tea,coffee,P014-OLD01,P014-R11,v2,reconstructed_reference,P014-C2,P014-EARLIER,P014
+P014-U02,P014,primary,What is my current weekend meal?,rice,vegetable soup,P014-OLD02,P014-R12,v2,reconstructed_reference,P014-C2,P014-EARLIER,P014
+P014-U03,P014,primary,What is my current exercise?,walking,swimming,P014-OLD03,P014-R13,v2,reconstructed_reference,P014-C2,P014-EARLIER,P014
+P014-U04,P014,primary,What is my current reading genre?,poetry,travel writing,P014-OLD04,P014-R14,v2,reconstructed_reference,P014-C2,P014-EARLIER,P014
+P014-U05,P014,primary,What is my current preferred colour?,yellow,ochre,P014-OLD05,P014-R15,v2,reconstructed_reference,P014-C2,P014-EARLIER,P014
+P014-U06,P014,primary,What is my current music?,a different earlier choice,jazz,P014-OLD06,P014-R16,v2,reconstructed_reference,P014-C2,P014-EARLIER,P014
+P015-U01,P015,primary,What is my current morning drink?,tea,barley water,P015-OLD01,P015-R11,v2,reconstructed_reference,P015-C2,P015-EARLIER,P015
+P015-U02,P015,primary,What is my current weekend meal?,rice,nasi lemak,P015-OLD02,P015-R12,v2,reconstructed_reference,P015-C2,P015-EARLIER,P015
+P015-U03,P015,primary,What is my current exercise?,walking,badminton,P015-OLD03,P015-R13,v2,reconstructed_reference,P015-C2,P015-EARLIER,P015
+P015-U04,P015,primary,What is my current reading genre?,poetry,history,P015-OLD04,P015-R14,v2,reconstructed_reference,P015-C2,P015-EARLIER,P015
+P015-U05,P015,primary,What is my current preferred colour?,yellow,teal,P015-OLD05,P015-R15,v2,reconstructed_reference,P015-C2,P015-EARLIER,P015
+P015-U06,P015,primary,What is my current music?,jazz,traditional music,P015-OLD06,P015-R16,v2,reconstructed_reference,P015-C2,P015-EARLIER,P015
+P016-U01,P016,primary,What is my current morning drink?,tea,warm water,P016-OLD01,P016-R11,v2,reconstructed_reference,P016-C2,P016-EARLIER,P016
+P016-U02,P016,primary,What is my current weekend meal?,rice,curry and rice,P016-OLD02,P016-R12,v2,reconstructed_reference,P016-C2,P016-EARLIER,P016
+P016-U03,P016,primary,What is my current exercise?,walking,cycling,P016-OLD03,P016-R13,v2,reconstructed_reference,P016-C2,P016-EARLIER,P016
+P016-U04,P016,primary,What is my current reading genre?,poetry,biographies,P016-OLD04,P016-R14,v2,reconstructed_reference,P016-C2,P016-EARLIER,P016
+P016-U05,P016,primary,What is my current preferred colour?,yellow,green,P016-OLD05,P016-R15,v2,reconstructed_reference,P016-C2,P016-EARLIER,P016
+P016-U06,P016,primary,What is my current music?,jazz,classical music,P016-OLD06,P016-R16,v2,reconstructed_reference,P016-C2,P016-EARLIER,P016
+P017-U01,P017,primary,What is my current morning drink?,tea,barley water,P017-OLD01,P017-R11,v2,reconstructed_reference,P017-C2,P017-EARLIER,P017
+P017-U02,P017,primary,What is my current weekend meal?,rice,nasi lemak,P017-OLD02,P017-R12,v2,reconstructed_reference,P017-C2,P017-EARLIER,P017
+P017-U03,P017,primary,What is my current exercise?,walking,badminton,P017-OLD03,P017-R13,v2,reconstructed_reference,P017-C2,P017-EARLIER,P017
+P017-U04,P017,primary,What is my current reading genre?,poetry,history,P017-OLD04,P017-R14,v2,reconstructed_reference,P017-C2,P017-EARLIER,P017
+P017-U05,P017,primary,What is my current preferred colour?,yellow,teal,P017-OLD05,P017-R15,v2,reconstructed_reference,P017-C2,P017-EARLIER,P017
+P017-U06,P017,primary,What is my current music?,jazz,traditional music,P017-OLD06,P017-R16,v2,reconstructed_reference,P017-C2,P017-EARLIER,P017
+P018-U01,P018,primary,What is my current morning drink?,tea,warm water,P018-OLD01,P018-R11,v2,reconstructed_reference,P018-C2,P018-EARLIER,P018
+P018-U02,P018,primary,What is my current weekend meal?,rice,curry and rice,P018-OLD02,P018-R12,v2,reconstructed_reference,P018-C2,P018-EARLIER,P018
+P018-U03,P018,primary,What is my current exercise?,walking,cycling,P018-OLD03,P018-R13,v2,reconstructed_reference,P018-C2,P018-EARLIER,P018
+P018-U04,P018,primary,What is my current reading genre?,poetry,biographies,P018-OLD04,P018-R14,v2,reconstructed_reference,P018-C2,P018-EARLIER,P018
+P018-U05,P018,primary,What is my current preferred colour?,yellow,green,P018-OLD05,P018-R15,v2,reconstructed_reference,P018-C2,P018-EARLIER,P018
+P018-U06,P018,primary,What is my current music?,jazz,classical music,P018-OLD06,P018-R16,v2,reconstructed_reference,P018-C2,P018-EARLIER,P018
+P019-U01,P019,primary,What is my current morning drink?,a different earlier choice,tea,P019-OLD01,P019-R11,v2,reconstructed_reference,P019-C2,P019-EARLIER,P019
+P019-U02,P019,primary,What is my current weekend meal?,rice,roti canai,P019-OLD02,P019-R12,v2,reconstructed_reference,P019-C2,P019-EARLIER,P019
+P019-U03,P019,primary,What is my current exercise?,a different earlier choice,walking,P019-OLD03,P019-R13,v2,reconstructed_reference,P019-C2,P019-EARLIER,P019
+P019-U04,P019,primary,What is my current reading genre?,poetry,mystery novels,P019-OLD04,P019-R14,v2,reconstructed_reference,P019-C2,P019-EARLIER,P019
+P019-U05,P019,primary,What is my current preferred colour?,yellow,purple,P019-OLD05,P019-R15,v2,reconstructed_reference,P019-C2,P019-EARLIER,P019
+P019-U06,P019,primary,What is my current music?,jazz,indie pop,P019-OLD06,P019-R16,v2,reconstructed_reference,P019-C2,P019-EARLIER,P019
+P020-U01,P020,primary,What is my current morning drink?,tea,milo,P020-OLD01,P020-R11,v2,reconstructed_reference,P020-C2,P020-EARLIER,P020
+P020-U02,P020,primary,What is my current weekend meal?,rice,noodles,P020-OLD02,P020-R12,v2,reconstructed_reference,P020-C2,P020-EARLIER,P020
+P020-U03,P020,primary,What is my current exercise?,walking,yoga,P020-OLD03,P020-R13,v2,reconstructed_reference,P020-C2,P020-EARLIER,P020
+P020-U04,P020,primary,What is my current reading genre?,poetry,science fiction,P020-OLD04,P020-R14,v2,reconstructed_reference,P020-C2,P020-EARLIER,P020
+P020-U05,P020,primary,What is my current preferred colour?,yellow,blue,P020-OLD05,P020-R15,v2,reconstructed_reference,P020-C2,P020-EARLIER,P020
+P020-U06,P020,primary,What is my current music?,jazz,acoustic music,P020-OLD06,P020-R16,v2,reconstructed_reference,P020-C2,P020-EARLIER,P020
+P021-U01,P021,primary,What is my current morning drink?,tea,coffee,P021-OLD01,P021-R11,v2,reconstructed_reference,P021-C2,P021-EARLIER,P021
+P021-U02,P021,primary,What is my current weekend meal?,rice,vegetable soup,P021-OLD02,P021-R12,v2,reconstructed_reference,P021-C2,P021-EARLIER,P021
+P021-U03,P021,primary,What is my current exercise?,walking,swimming,P021-OLD03,P021-R13,v2,reconstructed_reference,P021-C2,P021-EARLIER,P021
+P021-U04,P021,primary,What is my current reading genre?,poetry,travel writing,P021-OLD04,P021-R14,v2,reconstructed_reference,P021-C2,P021-EARLIER,P021
+P021-U05,P021,primary,What is my current preferred colour?,yellow,ochre,P021-OLD05,P021-R15,v2,reconstructed_reference,P021-C2,P021-EARLIER,P021
+P021-U06,P021,primary,What is my current music?,a different earlier choice,jazz,P021-OLD06,P021-R16,v2,reconstructed_reference,P021-C2,P021-EARLIER,P021
+P022-U01,P022,primary,What is my current morning drink?,tea,barley water,P022-OLD01,P022-R11,v2,reconstructed_reference,P022-C2,P022-EARLIER,P022
+P022-U02,P022,primary,What is my current weekend meal?,rice,nasi lemak,P022-OLD02,P022-R12,v2,reconstructed_reference,P022-C2,P022-EARLIER,P022
+P022-U03,P022,primary,What is my current exercise?,walking,badminton,P022-OLD03,P022-R13,v2,reconstructed_reference,P022-C2,P022-EARLIER,P022
+P022-U04,P022,primary,What is my current reading genre?,poetry,history,P022-OLD04,P022-R14,v2,reconstructed_reference,P022-C2,P022-EARLIER,P022
+P022-U05,P022,primary,What is my current preferred colour?,yellow,teal,P022-OLD05,P022-R15,v2,reconstructed_reference,P022-C2,P022-EARLIER,P022
+P022-U06,P022,primary,What is my current music?,jazz,traditional music,P022-OLD06,P022-R16,v2,reconstructed_reference,P022-C2,P022-EARLIER,P022
+P023-U01,P023,primary,What is my current morning drink?,tea,coffee,P023-OLD01,P023-R11,v2,reconstructed_reference,P023-C2,P023-EARLIER,P023
+P023-U02,P023,primary,What is my current weekend meal?,rice,vegetable soup,P023-OLD02,P023-R12,v2,reconstructed_reference,P023-C2,P023-EARLIER,P023
+P023-U03,P023,primary,What is my current exercise?,walking,swimming,P023-OLD03,P023-R13,v2,reconstructed_reference,P023-C2,P023-EARLIER,P023
+P023-U04,P023,primary,What is my current reading genre?,poetry,travel writing,P023-OLD04,P023-R14,v2,reconstructed_reference,P023-C2,P023-EARLIER,P023
+P023-U05,P023,primary,What is my current preferred colour?,yellow,ochre,P023-OLD05,P023-R15,v2,reconstructed_reference,P023-C2,P023-EARLIER,P023
+P023-U06,P023,primary,What is my current music?,a different earlier choice,jazz,P023-OLD06,P023-R16,v2,reconstructed_reference,P023-C2,P023-EARLIER,P023
+P024-U01,P024,primary,What is my current morning drink?,tea,barley water,P024-OLD01,P024-R11,v2,reconstructed_reference,P024-C2,P024-EARLIER,P024
+P024-U02,P024,primary,What is my current weekend meal?,rice,nasi lemak,P024-OLD02,P024-R12,v2,reconstructed_reference,P024-C2,P024-EARLIER,P024
+P024-U03,P024,primary,What is my current exercise?,walking,badminton,P024-OLD03,P024-R13,v2,reconstructed_reference,P024-C2,P024-EARLIER,P024
+P024-U04,P024,primary,What is my current reading genre?,poetry,history,P024-OLD04,P024-R14,v2,reconstructed_reference,P024-C2,P024-EARLIER,P024
+P024-U05,P024,primary,What is my current preferred colour?,yellow,teal,P024-OLD05,P024-R15,v2,reconstructed_reference,P024-C2,P024-EARLIER,P024
+P024-U06,P024,primary,What is my current music?,jazz,traditional music,P024-OLD06,P024-R16,v2,reconstructed_reference,P024-C2,P024-EARLIER,P024
+P025-U01,P025,primary,What is my current morning drink?,tea,warm water,P025-OLD01,P025-R11,v2,reconstructed_reference,P025-C2,P025-EARLIER,P025
+P025-U02,P025,primary,What is my current weekend meal?,rice,curry and rice,P025-OLD02,P025-R12,v2,reconstructed_reference,P025-C2,P025-EARLIER,P025
+P025-U03,P025,primary,What is my current exercise?,walking,cycling,P025-OLD03,P025-R13,v2,reconstructed_reference,P025-C2,P025-EARLIER,P025
+P025-U04,P025,primary,What is my current reading genre?,poetry,biographies,P025-OLD04,P025-R14,v2,reconstructed_reference,P025-C2,P025-EARLIER,P025
+P025-U05,P025,primary,What is my current preferred colour?,yellow,green,P025-OLD05,P025-R15,v2,reconstructed_reference,P025-C2,P025-EARLIER,P025
+P025-U06,P025,primary,What is my current music?,jazz,classical music,P025-OLD06,P025-R16,v2,reconstructed_reference,P025-C2,P025-EARLIER,P025
+P026-U01,P026,primary,What is my current morning drink?,a different earlier choice,tea,P026-OLD01,P026-R11,v2,reconstructed_reference,P026-C2,P026-EARLIER,P026
+P026-U02,P026,primary,What is my current weekend meal?,rice,roti canai,P026-OLD02,P026-R12,v2,reconstructed_reference,P026-C2,P026-EARLIER,P026
+P026-U03,P026,primary,What is my current exercise?,a different earlier choice,walking,P026-OLD03,P026-R13,v2,reconstructed_reference,P026-C2,P026-EARLIER,P026
+P026-U04,P026,primary,What is my current reading genre?,poetry,mystery novels,P026-OLD04,P026-R14,v2,reconstructed_reference,P026-C2,P026-EARLIER,P026
+P026-U05,P026,primary,What is my current preferred colour?,yellow,purple,P026-OLD05,P026-R15,v2,reconstructed_reference,P026-C2,P026-EARLIER,P026
+P026-U06,P026,primary,What is my current music?,jazz,indie pop,P026-OLD06,P026-R16,v2,reconstructed_reference,P026-C2,P026-EARLIER,P026
+P027-U01,P027,primary,What is my current morning drink?,tea,milo,P027-OLD01,P027-R11,v2,reconstructed_reference,P027-C2,P027-EARLIER,P027
+P027-U02,P027,primary,What is my current weekend meal?,rice,noodles,P027-OLD02,P027-R12,v2,reconstructed_reference,P027-C2,P027-EARLIER,P027
+P027-U03,P027,primary,What is my current exercise?,walking,yoga,P027-OLD03,P027-R13,v2,reconstructed_reference,P027-C2,P027-EARLIER,P027
+P027-U04,P027,primary,What is my current reading genre?,poetry,science fiction,P027-OLD04,P027-R14,v2,reconstructed_reference,P027-C2,P027-EARLIER,P027
+P027-U05,P027,primary,What is my current preferred colour?,yellow,blue,P027-OLD05,P027-R15,v2,reconstructed_reference,P027-C2,P027-EARLIER,P027
+P027-U06,P027,primary,What is my current music?,jazz,acoustic music,P027-OLD06,P027-R16,v2,reconstructed_reference,P027-C2,P027-EARLIER,P027
+P028-U01,P028,primary,What is my current morning drink?,tea,coffee,P028-OLD01,P028-R11,v2,reconstructed_reference,P028-C2,P028-EARLIER,P028
+P028-U02,P028,primary,What is my current weekend meal?,rice,vegetable soup,P028-OLD02,P028-R12,v2,reconstructed_reference,P028-C2,P028-EARLIER,P028
+P028-U03,P028,primary,What is my current exercise?,walking,swimming,P028-OLD03,P028-R13,v2,reconstructed_reference,P028-C2,P028-EARLIER,P028
+P028-U04,P028,primary,What is my current reading genre?,poetry,travel writing,P028-OLD04,P028-R14,v2,reconstructed_reference,P028-C2,P028-EARLIER,P028
+P028-U05,P028,primary,What is my current preferred colour?,yellow,ochre,P028-OLD05,P028-R15,v2,reconstructed_reference,P028-C2,P028-EARLIER,P028
+P028-U06,P028,primary,What is my current music?,a different earlier choice,jazz,P028-OLD06,P028-R16,v2,reconstructed_reference,P028-C2,P028-EARLIER,P028
+P029-U01,P029,primary,What is my current morning drink?,tea,milo,P029-OLD01,P029-R11,v2,reconstructed_reference,P029-C2,P029-EARLIER,P029
+P029-U02,P029,primary,What is my current weekend meal?,rice,noodles,P029-OLD02,P029-R12,v2,reconstructed_reference,P029-C2,P029-EARLIER,P029
+P029-U03,P029,primary,What is my current exercise?,walking,yoga,P029-OLD03,P029-R13,v2,reconstructed_reference,P029-C2,P029-EARLIER,P029
+P029-U04,P029,primary,What is my current reading genre?,poetry,science fiction,P029-OLD04,P029-R14,v2,reconstructed_reference,P029-C2,P029-EARLIER,P029
+P029-U05,P029,primary,What is my current preferred colour?,yellow,blue,P029-OLD05,P029-R15,v2,reconstructed_reference,P029-C2,P029-EARLIER,P029
+P029-U06,P029,primary,What is my current music?,jazz,acoustic music,P029-OLD06,P029-R16,v2,reconstructed_reference,P029-C2,P029-EARLIER,P029
+P030-U01,P030,primary,What is my current morning drink?,tea,coffee,P030-OLD01,P030-R11,v2,reconstructed_reference,P030-C2,P030-EARLIER,P030
+P030-U02,P030,primary,What is my current weekend meal?,rice,vegetable soup,P030-OLD02,P030-R12,v2,reconstructed_reference,P030-C2,P030-EARLIER,P030
+P030-U03,P030,primary,What is my current exercise?,walking,swimming,P030-OLD03,P030-R13,v2,reconstructed_reference,P030-C2,P030-EARLIER,P030
+P030-U04,P030,primary,What is my current reading genre?,poetry,travel writing,P030-OLD04,P030-R14,v2,reconstructed_reference,P030-C2,P030-EARLIER,P030
+P030-U05,P030,primary,What is my current preferred colour?,yellow,ochre,P030-OLD05,P030-R15,v2,reconstructed_reference,P030-C2,P030-EARLIER,P030
+P030-U06,P030,primary,What is my current music?,a different earlier choice,jazz,P030-OLD06,P030-R16,v2,reconstructed_reference,P030-C2,P030-EARLIER,P030
+P031-U01,P031,primary,What is my current morning drink?,tea,barley water,P031-OLD01,P031-R11,v2,reconstructed_reference,P031-C2,P031-EARLIER,P031
+P031-U02,P031,primary,What is my current weekend meal?,rice,nasi lemak,P031-OLD02,P031-R12,v2,reconstructed_reference,P031-C2,P031-EARLIER,P031
+P031-U03,P031,primary,What is my current exercise?,walking,badminton,P031-OLD03,P031-R13,v2,reconstructed_reference,P031-C2,P031-EARLIER,P031
+P031-U04,P031,primary,What is my current reading genre?,poetry,history,P031-OLD04,P031-R14,v2,reconstructed_reference,P031-C2,P031-EARLIER,P031
+P031-U05,P031,primary,What is my current preferred colour?,yellow,teal,P031-OLD05,P031-R15,v2,reconstructed_reference,P031-C2,P031-EARLIER,P031
+P031-U06,P031,primary,What is my current music?,jazz,traditional music,P031-OLD06,P031-R16,v2,reconstructed_reference,P031-C2,P031-EARLIER,P031
+P032-U01,P032,primary,What is my current morning drink?,tea,warm water,P032-OLD01,P032-R11,v2,reconstructed_reference,P032-C2,P032-EARLIER,P032
+P032-U02,P032,primary,What is my current weekend meal?,rice,curry and rice,P032-OLD02,P032-R12,v2,reconstructed_reference,P032-C2,P032-EARLIER,P032
+P032-U03,P032,primary,What is my current exercise?,walking,cycling,P032-OLD03,P032-R13,v2,reconstructed_reference,P032-C2,P032-EARLIER,P032
+P032-U04,P032,primary,What is my current reading genre?,poetry,biographies,P032-OLD04,P032-R14,v2,reconstructed_reference,P032-C2,P032-EARLIER,P032
+P032-U05,P032,primary,What is my current preferred colour?,yellow,green,P032-OLD05,P032-R15,v2,reconstructed_reference,P032-C2,P032-EARLIER,P032
+P032-U06,P032,primary,What is my current music?,jazz,classical music,P032-OLD06,P032-R16,v2,reconstructed_reference,P032-C2,P032-EARLIER,P032
+P033-U01,P033,primary,What is my current morning drink?,a different earlier choice,tea,P033-OLD01,P033-R11,v2,reconstructed_reference,P033-C2,P033-EARLIER,P033
+P033-U02,P033,primary,What is my current weekend meal?,rice,roti canai,P033-OLD02,P033-R12,v2,reconstructed_reference,P033-C2,P033-EARLIER,P033
+P033-U03,P033,primary,What is my current exercise?,a different earlier choice,walking,P033-OLD03,P033-R13,v2,reconstructed_reference,P033-C2,P033-EARLIER,P033
+P033-U04,P033,primary,What is my current reading genre?,poetry,mystery novels,P033-OLD04,P033-R14,v2,reconstructed_reference,P033-C2,P033-EARLIER,P033
+P033-U05,P033,primary,What is my current preferred colour?,yellow,purple,P033-OLD05,P033-R15,v2,reconstructed_reference,P033-C2,P033-EARLIER,P033
+P033-U06,P033,primary,What is my current music?,jazz,indie pop,P033-OLD06,P033-R16,v2,reconstructed_reference,P033-C2,P033-EARLIER,P033
+P034-U01,P034,primary,What is my current morning drink?,tea,milo,P034-OLD01,P034-R11,v2,reconstructed_reference,P034-C2,P034-EARLIER,P034
+P034-U02,P034,primary,What is my current weekend meal?,rice,noodles,P034-OLD02,P034-R12,v2,reconstructed_reference,P034-C2,P034-EARLIER,P034
+P034-U03,P034,primary,What is my current exercise?,walking,yoga,P034-OLD03,P034-R13,v2,reconstructed_reference,P034-C2,P034-EARLIER,P034
+P034-U04,P034,primary,What is my current reading genre?,poetry,science fiction,P034-OLD04,P034-R14,v2,reconstructed_reference,P034-C2,P034-EARLIER,P034
+P034-U05,P034,primary,What is my current preferred colour?,yellow,blue,P034-OLD05,P034-R15,v2,reconstructed_reference,P034-C2,P034-EARLIER,P034
+P034-U06,P034,primary,What is my current music?,jazz,acoustic music,P034-OLD06,P034-R16,v2,reconstructed_reference,P034-C2,P034-EARLIER,P034
+P035-U01,P035,primary,What is my current morning drink?,a different earlier choice,tea,P035-OLD01,P035-R11,v2,reconstructed_reference,P035-C2,P035-EARLIER,P035
+P035-U02,P035,primary,What is my current weekend meal?,rice,roti canai,P035-OLD02,P035-R12,v2,reconstructed_reference,P035-C2,P035-EARLIER,P035
+P035-U03,P035,primary,What is my current exercise?,a different earlier choice,walking,P035-OLD03,P035-R13,v2,reconstructed_reference,P035-C2,P035-EARLIER,P035
+P035-U04,P035,primary,What is my current reading genre?,poetry,mystery novels,P035-OLD04,P035-R14,v2,reconstructed_reference,P035-C2,P035-EARLIER,P035
+P035-U05,P035,primary,What is my current preferred colour?,yellow,purple,P035-OLD05,P035-R15,v2,reconstructed_reference,P035-C2,P035-EARLIER,P035
+P035-U06,P035,primary,What is my current music?,jazz,indie pop,P035-OLD06,P035-R16,v2,reconstructed_reference,P035-C2,P035-EARLIER,P035
+P036-U01,P036,primary,What is my current morning drink?,tea,milo,P036-OLD01,P036-R11,v2,reconstructed_reference,P036-C2,P036-EARLIER,P036
+P036-U02,P036,primary,What is my current weekend meal?,rice,noodles,P036-OLD02,P036-R12,v2,reconstructed_reference,P036-C2,P036-EARLIER,P036
+P036-U03,P036,primary,What is my current exercise?,walking,yoga,P036-OLD03,P036-R13,v2,reconstructed_reference,P036-C2,P036-EARLIER,P036
+P036-U04,P036,primary,What is my current reading genre?,poetry,science fiction,P036-OLD04,P036-R14,v2,reconstructed_reference,P036-C2,P036-EARLIER,P036
+P036-U05,P036,primary,What is my current preferred colour?,yellow,blue,P036-OLD05,P036-R15,v2,reconstructed_reference,P036-C2,P036-EARLIER,P036
+P036-U06,P036,primary,What is my current music?,jazz,acoustic music,P036-OLD06,P036-R16,v2,reconstructed_reference,P036-C2,P036-EARLIER,P036
+P037-U01,P037,primary,What is my current morning drink?,tea,coffee,P037-OLD01,P037-R11,v2,reconstructed_reference,P037-C2,P037-EARLIER,P037
+P037-U02,P037,primary,What is my current weekend meal?,rice,vegetable soup,P037-OLD02,P037-R12,v2,reconstructed_reference,P037-C2,P037-EARLIER,P037
+P037-U03,P037,primary,What is my current exercise?,walking,swimming,P037-OLD03,P037-R13,v2,reconstructed_reference,P037-C2,P037-EARLIER,P037
+P037-U04,P037,primary,What is my current reading genre?,poetry,travel writing,P037-OLD04,P037-R14,v2,reconstructed_reference,P037-C2,P037-EARLIER,P037
+P037-U05,P037,primary,What is my current preferred colour?,yellow,ochre,P037-OLD05,P037-R15,v2,reconstructed_reference,P037-C2,P037-EARLIER,P037
+P037-U06,P037,primary,What is my current music?,a different earlier choice,jazz,P037-OLD06,P037-R16,v2,reconstructed_reference,P037-C2,P037-EARLIER,P037
+P038-U01,P038,primary,What is my current morning drink?,tea,barley water,P038-OLD01,P038-R11,v2,reconstructed_reference,P038-C2,P038-EARLIER,P038
+P038-U02,P038,primary,What is my current weekend meal?,rice,nasi lemak,P038-OLD02,P038-R12,v2,reconstructed_reference,P038-C2,P038-EARLIER,P038
+P038-U03,P038,primary,What is my current exercise?,walking,badminton,P038-OLD03,P038-R13,v2,reconstructed_reference,P038-C2,P038-EARLIER,P038
+P038-U04,P038,primary,What is my current reading genre?,poetry,history,P038-OLD04,P038-R14,v2,reconstructed_reference,P038-C2,P038-EARLIER,P038
+P038-U05,P038,primary,What is my current preferred colour?,yellow,teal,P038-OLD05,P038-R15,v2,reconstructed_reference,P038-C2,P038-EARLIER,P038
+P038-U06,P038,primary,What is my current music?,jazz,traditional music,P038-OLD06,P038-R16,v2,reconstructed_reference,P038-C2,P038-EARLIER,P038
+P039-U01,P039,primary,What is my current morning drink?,tea,warm water,P039-OLD01,P039-R11,v2,reconstructed_reference,P039-C2,P039-EARLIER,P039
+P039-U02,P039,primary,What is my current weekend meal?,rice,curry and rice,P039-OLD02,P039-R12,v2,reconstructed_reference,P039-C2,P039-EARLIER,P039
+P039-U03,P039,primary,What is my current exercise?,walking,cycling,P039-OLD03,P039-R13,v2,reconstructed_reference,P039-C2,P039-EARLIER,P039
+P039-U04,P039,primary,What is my current reading genre?,poetry,biographies,P039-OLD04,P039-R14,v2,reconstructed_reference,P039-C2,P039-EARLIER,P039
+P039-U05,P039,primary,What is my current preferred colour?,yellow,green,P039-OLD05,P039-R15,v2,reconstructed_reference,P039-C2,P039-EARLIER,P039
+P039-U06,P039,primary,What is my current music?,jazz,classical music,P039-OLD06,P039-R16,v2,reconstructed_reference,P039-C2,P039-EARLIER,P039
+P040-U01,P040,primary,What is my current morning drink?,a different earlier choice,tea,P040-OLD01,P040-R11,v2,reconstructed_reference,P040-C2,P040-EARLIER,P040
+P040-U02,P040,primary,What is my current weekend meal?,rice,roti canai,P040-OLD02,P040-R12,v2,reconstructed_reference,P040-C2,P040-EARLIER,P040
+P040-U03,P040,primary,What is my current exercise?,a different earlier choice,walking,P040-OLD03,P040-R13,v2,reconstructed_reference,P040-C2,P040-EARLIER,P040
+P040-U04,P040,primary,What is my current reading genre?,poetry,mystery novels,P040-OLD04,P040-R14,v2,reconstructed_reference,P040-C2,P040-EARLIER,P040
+P040-U05,P040,primary,What is my current preferred colour?,yellow,purple,P040-OLD05,P040-R15,v2,reconstructed_reference,P040-C2,P040-EARLIER,P040
+P040-U06,P040,primary,What is my current music?,jazz,indie pop,P040-OLD06,P040-R16,v2,reconstructed_reference,P040-C2,P040-EARLIER,P040
+H001-U01,H001,held-out,What is my current morning drink?,tea,warm water,H001-OLD01,H001-R11,v2,reconstructed_reference,H001-C2,H001-EARLIER,H001
+H001-U02,H001,held-out,What is my current weekend meal?,rice,curry and rice,H001-OLD02,H001-R12,v2,reconstructed_reference,H001-C2,H001-EARLIER,H001
+H001-U03,H001,held-out,What is my current exercise?,walking,cycling,H001-OLD03,H001-R13,v2,reconstructed_reference,H001-C2,H001-EARLIER,H001
+H001-U04,H001,held-out,What is my current reading genre?,poetry,biographies,H001-OLD04,H001-R14,v2,reconstructed_reference,H001-C2,H001-EARLIER,H001
+H001-U05,H001,held-out,What is my current preferred colour?,yellow,green,H001-OLD05,H001-R15,v2,reconstructed_reference,H001-C2,H001-EARLIER,H001
+H001-U06,H001,held-out,What is my current music?,jazz,classical music,H001-OLD06,H001-R16,v2,reconstructed_reference,H001-C2,H001-EARLIER,H001
+H002-U01,H002,held-out,What is my current morning drink?,a different earlier choice,tea,H002-OLD01,H002-R11,v2,reconstructed_reference,H002-C2,H002-EARLIER,H002
+H002-U02,H002,held-out,What is my current weekend meal?,rice,roti canai,H002-OLD02,H002-R12,v2,reconstructed_reference,H002-C2,H002-EARLIER,H002
+H002-U03,H002,held-out,What is my current exercise?,a different earlier choice,walking,H002-OLD03,H002-R13,v2,reconstructed_reference,H002-C2,H002-EARLIER,H002
+H002-U04,H002,held-out,What is my current reading genre?,poetry,mystery novels,H002-OLD04,H002-R14,v2,reconstructed_reference,H002-C2,H002-EARLIER,H002
+H002-U05,H002,held-out,What is my current preferred colour?,yellow,purple,H002-OLD05,H002-R15,v2,reconstructed_reference,H002-C2,H002-EARLIER,H002
+H002-U06,H002,held-out,What is my current music?,jazz,indie pop,H002-OLD06,H002-R16,v2,reconstructed_reference,H002-C2,H002-EARLIER,H002
+H003-U01,H003,held-out,What is my current morning drink?,tea,milo,H003-OLD01,H003-R11,v2,reconstructed_reference,H003-C2,H003-EARLIER,H003
+H003-U02,H003,held-out,What is my current weekend meal?,rice,noodles,H003-OLD02,H003-R12,v2,reconstructed_reference,H003-C2,H003-EARLIER,H003
+H003-U03,H003,held-out,What is my current exercise?,walking,yoga,H003-OLD03,H003-R13,v2,reconstructed_reference,H003-C2,H003-EARLIER,H003
+H003-U04,H003,held-out,What is my current reading genre?,poetry,science fiction,H003-OLD04,H003-R14,v2,reconstructed_reference,H003-C2,H003-EARLIER,H003
+H003-U05,H003,held-out,What is my current preferred colour?,yellow,blue,H003-OLD05,H003-R15,v2,reconstructed_reference,H003-C2,H003-EARLIER,H003
+H003-U06,H003,held-out,What is my current music?,jazz,acoustic music,H003-OLD06,H003-R16,v2,reconstructed_reference,H003-C2,H003-EARLIER,H003
+H004-U01,H004,held-out,What is my current morning drink?,tea,coffee,H004-OLD01,H004-R11,v2,reconstructed_reference,H004-C2,H004-EARLIER,H004
+H004-U02,H004,held-out,What is my current weekend meal?,rice,vegetable soup,H004-OLD02,H004-R12,v2,reconstructed_reference,H004-C2,H004-EARLIER,H004
+H004-U03,H004,held-out,What is my current exercise?,walking,swimming,H004-OLD03,H004-R13,v2,reconstructed_reference,H004-C2,H004-EARLIER,H004
+H004-U04,H004,held-out,What is my current reading genre?,poetry,travel writing,H004-OLD04,H004-R14,v2,reconstructed_reference,H004-C2,H004-EARLIER,H004
+H004-U05,H004,held-out,What is my current preferred colour?,yellow,ochre,H004-OLD05,H004-R15,v2,reconstructed_reference,H004-C2,H004-EARLIER,H004
+H004-U06,H004,held-out,What is my current music?,a different earlier choice,jazz,H004-OLD06,H004-R16,v2,reconstructed_reference,H004-C2,H004-EARLIER,H004
+H005-U01,H005,held-out,What is my current morning drink?,tea,barley water,H005-OLD01,H005-R11,v2,reconstructed_reference,H005-C2,H005-EARLIER,H005
+H005-U02,H005,held-out,What is my current weekend meal?,rice,nasi lemak,H005-OLD02,H005-R12,v2,reconstructed_reference,H005-C2,H005-EARLIER,H005
+H005-U03,H005,held-out,What is my current exercise?,walking,badminton,H005-OLD03,H005-R13,v2,reconstructed_reference,H005-C2,H005-EARLIER,H005
+H005-U04,H005,held-out,What is my current reading genre?,poetry,history,H005-OLD04,H005-R14,v2,reconstructed_reference,H005-C2,H005-EARLIER,H005
+H005-U05,H005,held-out,What is my current preferred colour?,yellow,teal,H005-OLD05,H005-R15,v2,reconstructed_reference,H005-C2,H005-EARLIER,H005
+H005-U06,H005,held-out,What is my current music?,jazz,traditional music,H005-OLD06,H005-R16,v2,reconstructed_reference,H005-C2,H005-EARLIER,H005
+H006-U01,H006,held-out,What is my current morning drink?,tea,warm water,H006-OLD01,H006-R11,v2,reconstructed_reference,H006-C2,H006-EARLIER,H006
+H006-U02,H006,held-out,What is my current weekend meal?,rice,curry and rice,H006-OLD02,H006-R12,v2,reconstructed_reference,H006-C2,H006-EARLIER,H006
+H006-U03,H006,held-out,What is my current exercise?,walking,cycling,H006-OLD03,H006-R13,v2,reconstructed_reference,H006-C2,H006-EARLIER,H006
+H006-U04,H006,held-out,What is my current reading genre?,poetry,biographies,H006-OLD04,H006-R14,v2,reconstructed_reference,H006-C2,H006-EARLIER,H006
+H006-U05,H006,held-out,What is my current preferred colour?,yellow,green,H006-OLD05,H006-R15,v2,reconstructed_reference,H006-C2,H006-EARLIER,H006
+H006-U06,H006,held-out,What is my current music?,jazz,classical music,H006-OLD06,H006-R16,v2,reconstructed_reference,H006-C2,H006-EARLIER,H006
+H007-U01,H007,held-out,What is my current morning drink?,tea,barley water,H007-OLD01,H007-R11,v2,reconstructed_reference,H007-C2,H007-EARLIER,H007
+H007-U02,H007,held-out,What is my current weekend meal?,rice,nasi lemak,H007-OLD02,H007-R12,v2,reconstructed_reference,H007-C2,H007-EARLIER,H007
+H007-U03,H007,held-out,What is my current exercise?,walking,badminton,H007-OLD03,H007-R13,v2,reconstructed_reference,H007-C2,H007-EARLIER,H007
+H007-U04,H007,held-out,What is my current reading genre?,poetry,history,H007-OLD04,H007-R14,v2,reconstructed_reference,H007-C2,H007-EARLIER,H007
+H007-U05,H007,held-out,What is my current preferred colour?,yellow,teal,H007-OLD05,H007-R15,v2,reconstructed_reference,H007-C2,H007-EARLIER,H007
+H007-U06,H007,held-out,What is my current music?,jazz,traditional music,H007-OLD06,H007-R16,v2,reconstructed_reference,H007-C2,H007-EARLIER,H007
+H008-U01,H008,held-out,What is my current morning drink?,tea,warm water,H008-OLD01,H008-R11,v2,reconstructed_reference,H008-C2,H008-EARLIER,H008
+H008-U02,H008,held-out,What is my current weekend meal?,rice,curry and rice,H008-OLD02,H008-R12,v2,reconstructed_reference,H008-C2,H008-EARLIER,H008
+H008-U03,H008,held-out,What is my current exercise?,walking,cycling,H008-OLD03,H008-R13,v2,reconstructed_reference,H008-C2,H008-EARLIER,H008
+H008-U04,H008,held-out,What is my current reading genre?,poetry,biographies,H008-OLD04,H008-R14,v2,reconstructed_reference,H008-C2,H008-EARLIER,H008
+H008-U05,H008,held-out,What is my current preferred colour?,yellow,green,H008-OLD05,H008-R15,v2,reconstructed_reference,H008-C2,H008-EARLIER,H008
+H008-U06,H008,held-out,What is my current music?,jazz,classical music,H008-OLD06,H008-R16,v2,reconstructed_reference,H008-C2,H008-EARLIER,H008
+H009-U01,H009,held-out,What is my current morning drink?,a different earlier choice,tea,H009-OLD01,H009-R11,v2,reconstructed_reference,H009-C2,H009-EARLIER,H009
+H009-U02,H009,held-out,What is my current weekend meal?,rice,roti canai,H009-OLD02,H009-R12,v2,reconstructed_reference,H009-C2,H009-EARLIER,H009
+H009-U03,H009,held-out,What is my current exercise?,a different earlier choice,walking,H009-OLD03,H009-R13,v2,reconstructed_reference,H009-C2,H009-EARLIER,H009
+H009-U04,H009,held-out,What is my current reading genre?,poetry,mystery novels,H009-OLD04,H009-R14,v2,reconstructed_reference,H009-C2,H009-EARLIER,H009
+H009-U05,H009,held-out,What is my current preferred colour?,yellow,purple,H009-OLD05,H009-R15,v2,reconstructed_reference,H009-C2,H009-EARLIER,H009
+H009-U06,H009,held-out,What is my current music?,jazz,indie pop,H009-OLD06,H009-R16,v2,reconstructed_reference,H009-C2,H009-EARLIER,H009
+H010-U01,H010,held-out,What is my current morning drink?,tea,milo,H010-OLD01,H010-R11,v2,reconstructed_reference,H010-C2,H010-EARLIER,H010
+H010-U02,H010,held-out,What is my current weekend meal?,rice,noodles,H010-OLD02,H010-R12,v2,reconstructed_reference,H010-C2,H010-EARLIER,H010
+H010-U03,H010,held-out,What is my current exercise?,walking,yoga,H010-OLD03,H010-R13,v2,reconstructed_reference,H010-C2,H010-EARLIER,H010
+H010-U04,H010,held-out,What is my current reading genre?,poetry,science fiction,H010-OLD04,H010-R14,v2,reconstructed_reference,H010-C2,H010-EARLIER,H010
+H010-U05,H010,held-out,What is my current preferred colour?,yellow,blue,H010-OLD05,H010-R15,v2,reconstructed_reference,H010-C2,H010-EARLIER,H010
+H010-U06,H010,held-out,What is my current music?,jazz,acoustic music,H010-OLD06,H010-R16,v2,reconstructed_reference,H010-C2,H010-EARLIER,H010
+H011-U01,H011,held-out,What is my current morning drink?,tea,coffee,H011-OLD01,H011-R11,v2,reconstructed_reference,H011-C2,H011-EARLIER,H011
+H011-U02,H011,held-out,What is my current weekend meal?,rice,vegetable soup,H011-OLD02,H011-R12,v2,reconstructed_reference,H011-C2,H011-EARLIER,H011
+H011-U03,H011,held-out,What is my current exercise?,walking,swimming,H011-OLD03,H011-R13,v2,reconstructed_reference,H011-C2,H011-EARLIER,H011
+H011-U04,H011,held-out,What is my current reading genre?,poetry,travel writing,H011-OLD04,H011-R14,v2,reconstructed_reference,H011-C2,H011-EARLIER,H011
+H011-U05,H011,held-out,What is my current preferred colour?,yellow,ochre,H011-OLD05,H011-R15,v2,reconstructed_reference,H011-C2,H011-EARLIER,H011
+H011-U06,H011,held-out,What is my current music?,a different earlier choice,jazz,H011-OLD06,H011-R16,v2,reconstructed_reference,H011-C2,H011-EARLIER,H011
+H012-U01,H012,held-out,What is my current morning drink?,tea,barley water,H012-OLD01,H012-R11,v2,reconstructed_reference,H012-C2,H012-EARLIER,H012
+H012-U02,H012,held-out,What is my current weekend meal?,rice,nasi lemak,H012-OLD02,H012-R12,v2,reconstructed_reference,H012-C2,H012-EARLIER,H012
+H012-U03,H012,held-out,What is my current exercise?,walking,badminton,H012-OLD03,H012-R13,v2,reconstructed_reference,H012-C2,H012-EARLIER,H012
+H012-U04,H012,held-out,What is my current reading genre?,poetry,history,H012-OLD04,H012-R14,v2,reconstructed_reference,H012-C2,H012-EARLIER,H012
+H012-U05,H012,held-out,What is my current preferred colour?,yellow,teal,H012-OLD05,H012-R15,v2,reconstructed_reference,H012-C2,H012-EARLIER,H012
+H012-U06,H012,held-out,What is my current music?,jazz,traditional music,H012-OLD06,H012-R16,v2,reconstructed_reference,H012-C2,H012-EARLIER,H012
+H013-U01,H013,held-out,What is my current morning drink?,tea,coffee,H013-OLD01,H013-R11,v2,reconstructed_reference,H013-C2,H013-EARLIER,H013
+H013-U02,H013,held-out,What is my current weekend meal?,rice,vegetable soup,H013-OLD02,H013-R12,v2,reconstructed_reference,H013-C2,H013-EARLIER,H013
+H013-U03,H013,held-out,What is my current exercise?,walking,swimming,H013-OLD03,H013-R13,v2,reconstructed_reference,H013-C2,H013-EARLIER,H013
+H013-U04,H013,held-out,What is my current reading genre?,poetry,travel writing,H013-OLD04,H013-R14,v2,reconstructed_reference,H013-C2,H013-EARLIER,H013
+H013-U05,H013,held-out,What is my current preferred colour?,yellow,ochre,H013-OLD05,H013-R15,v2,reconstructed_reference,H013-C2,H013-EARLIER,H013
+H013-U06,H013,held-out,What is my current music?,a different earlier choice,jazz,H013-OLD06,H013-R16,v2,reconstructed_reference,H013-C2,H013-EARLIER,H013
+H014-U01,H014,held-out,What is my current morning drink?,tea,barley water,H014-OLD01,H014-R11,v2,reconstructed_reference,H014-C2,H014-EARLIER,H014
+H014-U02,H014,held-out,What is my current weekend meal?,rice,nasi lemak,H014-OLD02,H014-R12,v2,reconstructed_reference,H014-C2,H014-EARLIER,H014
+H014-U03,H014,held-out,What is my current exercise?,walking,badminton,H014-OLD03,H014-R13,v2,reconstructed_reference,H014-C2,H014-EARLIER,H014
+H014-U04,H014,held-out,What is my current reading genre?,poetry,history,H014-OLD04,H014-R14,v2,reconstructed_reference,H014-C2,H014-EARLIER,H014
+H014-U05,H014,held-out,What is my current preferred colour?,yellow,teal,H014-OLD05,H014-R15,v2,reconstructed_reference,H014-C2,H014-EARLIER,H014
+H014-U06,H014,held-out,What is my current music?,jazz,traditional music,H014-OLD06,H014-R16,v2,reconstructed_reference,H014-C2,H014-EARLIER,H014
+H015-U01,H015,held-out,What is my current morning drink?,tea,warm water,H015-OLD01,H015-R11,v2,reconstructed_reference,H015-C2,H015-EARLIER,H015
+H015-U02,H015,held-out,What is my current weekend meal?,rice,curry and rice,H015-OLD02,H015-R12,v2,reconstructed_reference,H015-C2,H015-EARLIER,H015
+H015-U03,H015,held-out,What is my current exercise?,walking,cycling,H015-OLD03,H015-R13,v2,reconstructed_reference,H015-C2,H015-EARLIER,H015
+H015-U04,H015,held-out,What is my current reading genre?,poetry,biographies,H015-OLD04,H015-R14,v2,reconstructed_reference,H015-C2,H015-EARLIER,H015
+H015-U05,H015,held-out,What is my current preferred colour?,yellow,green,H015-OLD05,H015-R15,v2,reconstructed_reference,H015-C2,H015-EARLIER,H015
+H015-U06,H015,held-out,What is my current music?,jazz,classical music,H015-OLD06,H015-R16,v2,reconstructed_reference,H015-C2,H015-EARLIER,H015
+H016-U01,H016,held-out,What is my current morning drink?,a different earlier choice,tea,H016-OLD01,H016-R11,v2,reconstructed_reference,H016-C2,H016-EARLIER,H016
+H016-U02,H016,held-out,What is my current weekend meal?,rice,roti canai,H016-OLD02,H016-R12,v2,reconstructed_reference,H016-C2,H016-EARLIER,H016
+H016-U03,H016,held-out,What is my current exercise?,a different earlier choice,walking,H016-OLD03,H016-R13,v2,reconstructed_reference,H016-C2,H016-EARLIER,H016
+H016-U04,H016,held-out,What is my current reading genre?,poetry,mystery novels,H016-OLD04,H016-R14,v2,reconstructed_reference,H016-C2,H016-EARLIER,H016
+H016-U05,H016,held-out,What is my current preferred colour?,yellow,purple,H016-OLD05,H016-R15,v2,reconstructed_reference,H016-C2,H016-EARLIER,H016
+H016-U06,H016,held-out,What is my current music?,jazz,indie pop,H016-OLD06,H016-R16,v2,reconstructed_reference,H016-C2,H016-EARLIER,H016
+H017-U01,H017,held-out,What is my current morning drink?,tea,milo,H017-OLD01,H017-R11,v2,reconstructed_reference,H017-C2,H017-EARLIER,H017
+H017-U02,H017,held-out,What is my current weekend meal?,rice,noodles,H017-OLD02,H017-R12,v2,reconstructed_reference,H017-C2,H017-EARLIER,H017
+H017-U03,H017,held-out,What is my current exercise?,walking,yoga,H017-OLD03,H017-R13,v2,reconstructed_reference,H017-C2,H017-EARLIER,H017
+H017-U04,H017,held-out,What is my current reading genre?,poetry,science fiction,H017-OLD04,H017-R14,v2,reconstructed_reference,H017-C2,H017-EARLIER,H017
+H017-U05,H017,held-out,What is my current preferred colour?,yellow,blue,H017-OLD05,H017-R15,v2,reconstructed_reference,H017-C2,H017-EARLIER,H017
+H017-U06,H017,held-out,What is my current music?,jazz,acoustic music,H017-OLD06,H017-R16,v2,reconstructed_reference,H017-C2,H017-EARLIER,H017
+H018-U01,H018,held-out,What is my current morning drink?,tea,coffee,H018-OLD01,H018-R11,v2,reconstructed_reference,H018-C2,H018-EARLIER,H018
+H018-U02,H018,held-out,What is my current weekend meal?,rice,vegetable soup,H018-OLD02,H018-R12,v2,reconstructed_reference,H018-C2,H018-EARLIER,H018
+H018-U03,H018,held-out,What is my current exercise?,walking,swimming,H018-OLD03,H018-R13,v2,reconstructed_reference,H018-C2,H018-EARLIER,H018
+H018-U04,H018,held-out,What is my current reading genre?,poetry,travel writing,H018-OLD04,H018-R14,v2,reconstructed_reference,H018-C2,H018-EARLIER,H018
+H018-U05,H018,held-out,What is my current preferred colour?,yellow,ochre,H018-OLD05,H018-R15,v2,reconstructed_reference,H018-C2,H018-EARLIER,H018
+H018-U06,H018,held-out,What is my current music?,a different earlier choice,jazz,H018-OLD06,H018-R16,v2,reconstructed_reference,H018-C2,H018-EARLIER,H018
+H019-U01,H019,held-out,What is my current morning drink?,tea,milo,H019-OLD01,H019-R11,v2,reconstructed_reference,H019-C2,H019-EARLIER,H019
+H019-U02,H019,held-out,What is my current weekend meal?,rice,noodles,H019-OLD02,H019-R12,v2,reconstructed_reference,H019-C2,H019-EARLIER,H019
+H019-U03,H019,held-out,What is my current exercise?,walking,yoga,H019-OLD03,H019-R13,v2,reconstructed_reference,H019-C2,H019-EARLIER,H019
+H019-U04,H019,held-out,What is my current reading genre?,poetry,science fiction,H019-OLD04,H019-R14,v2,reconstructed_reference,H019-C2,H019-EARLIER,H019
+H019-U05,H019,held-out,What is my current preferred colour?,yellow,blue,H019-OLD05,H019-R15,v2,reconstructed_reference,H019-C2,H019-EARLIER,H019
+H019-U06,H019,held-out,What is my current music?,jazz,acoustic music,H019-OLD06,H019-R16,v2,reconstructed_reference,H019-C2,H019-EARLIER,H019
+H020-U01,H020,held-out,What is my current morning drink?,tea,coffee,H020-OLD01,H020-R11,v2,reconstructed_reference,H020-C2,H020-EARLIER,H020
+H020-U02,H020,held-out,What is my current weekend meal?,rice,vegetable soup,H020-OLD02,H020-R12,v2,reconstructed_reference,H020-C2,H020-EARLIER,H020
+H020-U03,H020,held-out,What is my current exercise?,walking,swimming,H020-OLD03,H020-R13,v2,reconstructed_reference,H020-C2,H020-EARLIER,H020
+H020-U04,H020,held-out,What is my current reading genre?,poetry,travel writing,H020-OLD04,H020-R14,v2,reconstructed_reference,H020-C2,H020-EARLIER,H020
+H020-U05,H020,held-out,What is my current preferred colour?,yellow,ochre,H020-OLD05,H020-R15,v2,reconstructed_reference,H020-C2,H020-EARLIER,H020
+H020-U06,H020,held-out,What is my current music?,a different earlier choice,jazz,H020-OLD06,H020-R16,v2,reconstructed_reference,H020-C2,H020-EARLIER,H020
