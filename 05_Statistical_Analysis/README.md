@@ -1,0 +1,2 @@
+# Statistics
+Run `python 05_Statistical_Analysis/analyze.py`. The analysis calculates mean paired persona F1 differences, percentile intervals from 10,000 paired persona resamples and two-sided sign flips with (b+1)/10001, followed by Holm correction over seven contrasts. Seed 20260619 is a reconstruction assumption; manuscript only specifies the generation seed. Results derive from synthetic allocations and do not verify Table 6.

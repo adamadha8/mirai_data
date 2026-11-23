@@ -1,0 +1,9 @@
+configuration,change,provenance
+Full MIRAI,all controls active,reconstructed_reference
+No owner/consent gate,owner and consent filters removed,reconstructed_reference
+No version ledger,latest write wins; prior versions unavailable,reconstructed_reference
+No relationship style,persona-wide style,reconstructed_reference
+No claim check,no claim verification,reconstructed_reference
+Flat RAG,untyped index,reconstructed_reference
+Tiered memory,hierarchical memory,reconstructed_reference
+Extract/consolidate,extract and consolidate,reconstructed_reference

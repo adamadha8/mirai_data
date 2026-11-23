@@ -1,0 +1,67 @@
+file,column,definition
+identity_items.csv,item_id,Synthetic item key
+identity_items.csv,persona_id,Synthetic unique persona key
+identity_items.csv,split,"Development, primary or held-out"
+identity_items.csv,category,Category (synthetic reference)
+identity_items.csv,query,Constructed query
+identity_items.csv,expected_value,Constructed reference answer
+identity_items.csv,evidence_id,Synthetic record identifier
+identity_items.csv,active_identity_version,Assumed identity version
+identity_items.csv,provenance,Source classification; reconstructed rows are synthetic
+identity_update_trials.csv,trial_id,Synthetic trial key
+identity_update_trials.csv,persona_id,Synthetic unique persona key
+identity_update_trials.csv,split,"Development, primary or held-out"
+identity_update_trials.csv,query,Constructed query
+identity_update_trials.csv,old_value,Old value (synthetic reference)
+identity_update_trials.csv,expected_value,Constructed reference answer
+identity_update_trials.csv,old_evidence_id,Old evidence id (synthetic reference)
+identity_update_trials.csv,evidence_id,Synthetic record identifier
+identity_update_trials.csv,active_identity_version,Assumed identity version
+identity_update_trials.csv,provenance,Source classification; reconstructed rows are synthetic
+memory_records.csv,record_id,Record id (synthetic reference)
+memory_records.csv,persona_id,Synthetic unique persona key
+memory_records.csv,attribute,Attribute (synthetic reference)
+memory_records.csv,value,Value (synthetic reference)
+memory_records.csv,source_actor,Actor supplying the record
+memory_records.csv,source_role,Actor role
+memory_records.csv,consent,Assumed permission state
+memory_records.csv,authority,Assumed source authorization
+memory_records.csv,observed_at,Observed at (synthetic reference)
+memory_records.csv,valid_from,Start of validity (inclusive)
+memory_records.csv,valid_to,End of validity (exclusive); blank means open
+memory_records.csv,supersedes,Prior record ID replaced by this record
+memory_records.csv,status,Status (synthetic reference)
+memory_records.csv,confidence,Confidence (synthetic reference)
+memory_records.csv,evidence_hash,"SHA-256 of ID and value, synthetic integrity marker"
+memory_records.csv,provenance,Source classification; reconstructed rows are synthetic
+no_evidence_trials.csv,trial_id,Synthetic trial key
+no_evidence_trials.csv,persona_id,Synthetic unique persona key
+no_evidence_trials.csv,split,"Development, primary or held-out"
+no_evidence_trials.csv,query,Constructed query
+no_evidence_trials.csv,expected_value,Constructed reference answer
+no_evidence_trials.csv,evidence_id,Synthetic record identifier
+no_evidence_trials.csv,active_identity_version,Assumed identity version
+no_evidence_trials.csv,provenance,Source classification; reconstructed rows are synthetic
+persona_splits.csv,persona_id,Synthetic unique persona key
+persona_splits.csv,split,"Development, primary or held-out"
+persona_splits.csv,provenance,Source classification; reconstructed rows are synthetic
+personas.csv,persona_id,Synthetic unique persona key
+personas.csv,split,"Development, primary or held-out"
+personas.csv,display_name,Display name (synthetic reference)
+personas.csv,language,Language (synthetic reference)
+personas.csv,identity_version,Identity version (synthetic reference)
+personas.csv,provenance,Source classification; reconstructed rows are synthetic
+source_attribution_trials.csv,trial_id,Synthetic trial key
+source_attribution_trials.csv,persona_id,Synthetic unique persona key
+source_attribution_trials.csv,split,"Development, primary or held-out"
+source_attribution_trials.csv,query,Constructed query
+source_attribution_trials.csv,expected_value,Constructed reference answer
+source_attribution_trials.csv,evidence_id,Synthetic record identifier
+source_attribution_trials.csv,active_identity_version,Assumed identity version
+source_attribution_trials.csv,provenance,Source classification; reconstructed rows are synthetic
+style_rules.csv,persona_id,Synthetic unique persona key
+style_rules.csv,split,"Development, primary or held-out"
+style_rules.csv,recipient,Recipient (synthetic reference)
+style_rules.csv,rule_id,Rule id (synthetic reference)
+style_rules.csv,rule,Rule (synthetic reference)
+style_rules.csv,provenance,Source classification; reconstructed rows are synthetic

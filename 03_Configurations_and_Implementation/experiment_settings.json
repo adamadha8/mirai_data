@@ -1,0 +1,18 @@
+{
+  "provenance": "manuscript_reported",
+  "generation_seed": 20260619,
+  "temperature": 0.2,
+  "top_p": 1,
+  "max_output_tokens": 512,
+  "top_k": 8,
+  "weights": {
+    "semantic": 0.45,
+    "lexical": 0.2,
+    "recency": 0.15,
+    "trust": 0.2
+  },
+  "response_model": "gpt-4o-mini-2024-07-18",
+  "embedding_model": "text-embedding-3-small",
+  "bootstrap_resamples": 10000,
+  "sign_flips": 10000
+}

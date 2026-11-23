@@ -1,0 +1,4 @@
+case,query,evidence,draft,final,expected,cause,provenance
+U-017,What drink do I usually order?,R114 tea; R287 correction coffee; identity v4,tea,tea,coffee,supersession link not resolved,manuscript_reported_example
+S-031,When did I join the robotics club?,R442: Amir joined in 2023; third speaker; identity v6,2023,2023,abstain,speaker-reference resolution failure,manuscript_reported_example
+A-009,What was the name of my first cat?,No cat record; identity v2,Milo,Milo,abstain,claim parser did not detect unsupported claim,manuscript_reported_example

@@ -1,0 +1,273 @@
+persona_id,split,recipient,rule_id,rule,provenance
+D001,development,friend,length,at most 25 words,reconstructed_reference
+D001,development,friend,formality,polite wording,reconstructed_reference
+D001,development,friend,greeting,include a greeting,reconstructed_reference
+D001,development,friend,language,use English,reconstructed_reference
+D002,development,friend,length,at most 25 words,reconstructed_reference
+D002,development,friend,formality,polite wording,reconstructed_reference
+D002,development,friend,greeting,include a greeting,reconstructed_reference
+D002,development,friend,language,use English,reconstructed_reference
+D003,development,friend,length,at most 25 words,reconstructed_reference
+D003,development,friend,formality,polite wording,reconstructed_reference
+D003,development,friend,greeting,include a greeting,reconstructed_reference
+D003,development,friend,language,use English,reconstructed_reference
+D004,development,friend,length,at most 25 words,reconstructed_reference
+D004,development,friend,formality,polite wording,reconstructed_reference
+D004,development,friend,greeting,include a greeting,reconstructed_reference
+D004,development,friend,language,use English,reconstructed_reference
+D005,development,friend,length,at most 25 words,reconstructed_reference
+D005,development,friend,formality,polite wording,reconstructed_reference
+D005,development,friend,greeting,include a greeting,reconstructed_reference
+D005,development,friend,language,use English,reconstructed_reference
+D006,development,friend,length,at most 25 words,reconstructed_reference
+D006,development,friend,formality,polite wording,reconstructed_reference
+D006,development,friend,greeting,include a greeting,reconstructed_reference
+D006,development,friend,language,use English,reconstructed_reference
+D007,development,friend,length,at most 25 words,reconstructed_reference
+D007,development,friend,formality,polite wording,reconstructed_reference
+D007,development,friend,greeting,include a greeting,reconstructed_reference
+D007,development,friend,language,use English,reconstructed_reference
+D008,development,friend,length,at most 25 words,reconstructed_reference
+D008,development,friend,formality,polite wording,reconstructed_reference
+D008,development,friend,greeting,include a greeting,reconstructed_reference
+D008,development,friend,language,use English,reconstructed_reference
+P001,primary,friend,length,at most 25 words,reconstructed_reference
+P001,primary,friend,formality,polite wording,reconstructed_reference
+P001,primary,friend,greeting,include a greeting,reconstructed_reference
+P001,primary,friend,language,use English,reconstructed_reference
+P002,primary,friend,length,at most 25 words,reconstructed_reference
+P002,primary,friend,formality,polite wording,reconstructed_reference
+P002,primary,friend,greeting,include a greeting,reconstructed_reference
+P002,primary,friend,language,use English,reconstructed_reference
+P003,primary,friend,length,at most 25 words,reconstructed_reference
+P003,primary,friend,formality,polite wording,reconstructed_reference
+P003,primary,friend,greeting,include a greeting,reconstructed_reference
+P003,primary,friend,language,use English,reconstructed_reference
+P004,primary,friend,length,at most 25 words,reconstructed_reference
+P004,primary,friend,formality,polite wording,reconstructed_reference
+P004,primary,friend,greeting,include a greeting,reconstructed_reference
+P004,primary,friend,language,use English,reconstructed_reference
+P005,primary,friend,length,at most 25 words,reconstructed_reference
+P005,primary,friend,formality,polite wording,reconstructed_reference
+P005,primary,friend,greeting,include a greeting,reconstructed_reference
+P005,primary,friend,language,use English,reconstructed_reference
+P006,primary,friend,length,at most 25 words,reconstructed_reference
+P006,primary,friend,formality,polite wording,reconstructed_reference
+P006,primary,friend,greeting,include a greeting,reconstructed_reference
+P006,primary,friend,language,use English,reconstructed_reference
+P007,primary,friend,length,at most 25 words,reconstructed_reference
+P007,primary,friend,formality,polite wording,reconstructed_reference
+P007,primary,friend,greeting,include a greeting,reconstructed_reference
+P007,primary,friend,language,use English,reconstructed_reference
+P008,primary,friend,length,at most 25 words,reconstructed_reference
+P008,primary,friend,formality,polite wording,reconstructed_reference
+P008,primary,friend,greeting,include a greeting,reconstructed_reference
+P008,primary,friend,language,use English,reconstructed_reference
+P009,primary,friend,length,at most 25 words,reconstructed_reference
+P009,primary,friend,formality,polite wording,reconstructed_reference
+P009,primary,friend,greeting,include a greeting,reconstructed_reference
+P009,primary,friend,language,use English,reconstructed_reference
+P010,primary,friend,length,at most 25 words,reconstructed_reference
+P010,primary,friend,formality,polite wording,reconstructed_reference
+P010,primary,friend,greeting,include a greeting,reconstructed_reference
+P010,primary,friend,language,use English,reconstructed_reference
+P011,primary,friend,length,at most 25 words,reconstructed_reference
+P011,primary,friend,formality,polite wording,reconstructed_reference
+P011,primary,friend,greeting,include a greeting,reconstructed_reference
+P011,primary,friend,language,use English,reconstructed_reference
+P012,primary,friend,length,at most 25 words,reconstructed_reference
+P012,primary,friend,formality,polite wording,reconstructed_reference
+P012,primary,friend,greeting,include a greeting,reconstructed_reference
+P012,primary,friend,language,use English,reconstructed_reference
+P013,primary,friend,length,at most 25 words,reconstructed_reference
+P013,primary,friend,formality,polite wording,reconstructed_reference
+P013,primary,friend,greeting,include a greeting,reconstructed_reference
+P013,primary,friend,language,use English,reconstructed_reference
+P014,primary,friend,length,at most 25 words,reconstructed_reference
+P014,primary,friend,formality,polite wording,reconstructed_reference
+P014,primary,friend,greeting,include a greeting,reconstructed_reference
+P014,primary,friend,language,use English,reconstructed_reference
+P015,primary,friend,length,at most 25 words,reconstructed_reference
+P015,primary,friend,formality,polite wording,reconstructed_reference
+P015,primary,friend,greeting,include a greeting,reconstructed_reference
+P015,primary,friend,language,use English,reconstructed_reference
+P016,primary,friend,length,at most 25 words,reconstructed_reference
+P016,primary,friend,formality,polite wording,reconstructed_reference
+P016,primary,friend,greeting,include a greeting,reconstructed_reference
+P016,primary,friend,language,use English,reconstructed_reference
+P017,primary,friend,length,at most 25 words,reconstructed_reference
+P017,primary,friend,formality,polite wording,reconstructed_reference
+P017,primary,friend,greeting,include a greeting,reconstructed_reference
+P017,primary,friend,language,use English,reconstructed_reference
+P018,primary,friend,length,at most 25 words,reconstructed_reference
+P018,primary,friend,formality,polite wording,reconstructed_reference
+P018,primary,friend,greeting,include a greeting,reconstructed_reference
+P018,primary,friend,language,use English,reconstructed_reference
+P019,primary,friend,length,at most 25 words,reconstructed_reference
+P019,primary,friend,formality,polite wording,reconstructed_reference
+P019,primary,friend,greeting,include a greeting,reconstructed_reference
+P019,primary,friend,language,use English,reconstructed_reference
+P020,primary,friend,length,at most 25 words,reconstructed_reference
+P020,primary,friend,formality,polite wording,reconstructed_reference
+P020,primary,friend,greeting,include a greeting,reconstructed_reference
+P020,primary,friend,language,use English,reconstructed_reference
+P021,primary,friend,length,at most 25 words,reconstructed_reference
+P021,primary,friend,formality,polite wording,reconstructed_reference
+P021,primary,friend,greeting,include a greeting,reconstructed_reference
+P021,primary,friend,language,use English,reconstructed_reference
+P022,primary,friend,length,at most 25 words,reconstructed_reference
+P022,primary,friend,formality,polite wording,reconstructed_reference
+P022,primary,friend,greeting,include a greeting,reconstructed_reference
+P022,primary,friend,language,use English,reconstructed_reference
+P023,primary,friend,length,at most 25 words,reconstructed_reference
+P023,primary,friend,formality,polite wording,reconstructed_reference
+P023,primary,friend,greeting,include a greeting,reconstructed_reference
+P023,primary,friend,language,use English,reconstructed_reference
+P024,primary,friend,length,at most 25 words,reconstructed_reference
+P024,primary,friend,formality,polite wording,reconstructed_reference
+P024,primary,friend,greeting,include a greeting,reconstructed_reference
+P024,primary,friend,language,use English,reconstructed_reference
+P025,primary,friend,length,at most 25 words,reconstructed_reference
+P025,primary,friend,formality,polite wording,reconstructed_reference
+P025,primary,friend,greeting,include a greeting,reconstructed_reference
+P025,primary,friend,language,use English,reconstructed_reference
+P026,primary,friend,length,at most 25 words,reconstructed_reference
+P026,primary,friend,formality,polite wording,reconstructed_reference
+P026,primary,friend,greeting,include a greeting,reconstructed_reference
+P026,primary,friend,language,use English,reconstructed_reference
+P027,primary,friend,length,at most 25 words,reconstructed_reference
+P027,primary,friend,formality,polite wording,reconstructed_reference
+P027,primary,friend,greeting,include a greeting,reconstructed_reference
+P027,primary,friend,language,use English,reconstructed_reference
+P028,primary,friend,length,at most 25 words,reconstructed_reference
+P028,primary,friend,formality,polite wording,reconstructed_reference
+P028,primary,friend,greeting,include a greeting,reconstructed_reference
+P028,primary,friend,language,use English,reconstructed_reference
+P029,primary,friend,length,at most 25 words,reconstructed_reference
+P029,primary,friend,formality,polite wording,reconstructed_reference
+P029,primary,friend,greeting,include a greeting,reconstructed_reference
+P029,primary,friend,language,use English,reconstructed_reference
+P030,primary,friend,length,at most 25 words,reconstructed_reference
+P030,primary,friend,formality,polite wording,reconstructed_reference
+P030,primary,friend,greeting,include a greeting,reconstructed_reference
+P030,primary,friend,language,use English,reconstructed_reference
+P031,primary,friend,length,at most 25 words,reconstructed_reference
+P031,primary,friend,formality,polite wording,reconstructed_reference
+P031,primary,friend,greeting,include a greeting,reconstructed_reference
+P031,primary,friend,language,use English,reconstructed_reference
+P032,primary,friend,length,at most 25 words,reconstructed_reference
+P032,primary,friend,formality,polite wording,reconstructed_reference
+P032,primary,friend,greeting,include a greeting,reconstructed_reference
+P032,primary,friend,language,use English,reconstructed_reference
+P033,primary,friend,length,at most 25 words,reconstructed_reference
+P033,primary,friend,formality,polite wording,reconstructed_reference
+P033,primary,friend,greeting,include a greeting,reconstructed_reference
+P033,primary,friend,language,use English,reconstructed_reference
+P034,primary,friend,length,at most 25 words,reconstructed_reference
+P034,primary,friend,formality,polite wording,reconstructed_reference
+P034,primary,friend,greeting,include a greeting,reconstructed_reference
+P034,primary,friend,language,use English,reconstructed_reference
+P035,primary,friend,length,at most 25 words,reconstructed_reference
+P035,primary,friend,formality,polite wording,reconstructed_reference
+P035,primary,friend,greeting,include a greeting,reconstructed_reference
+P035,primary,friend,language,use English,reconstructed_reference
+P036,primary,friend,length,at most 25 words,reconstructed_reference
+P036,primary,friend,formality,polite wording,reconstructed_reference
+P036,primary,friend,greeting,include a greeting,reconstructed_reference
+P036,primary,friend,language,use English,reconstructed_reference
+P037,primary,friend,length,at most 25 words,reconstructed_reference
+P037,primary,friend,formality,polite wording,reconstructed_reference
+P037,primary,friend,greeting,include a greeting,reconstructed_reference
+P037,primary,friend,language,use English,reconstructed_reference
+P038,primary,friend,length,at most 25 words,reconstructed_reference
+P038,primary,friend,formality,polite wording,reconstructed_reference
+P038,primary,friend,greeting,include a greeting,reconstructed_reference
+P038,primary,friend,language,use English,reconstructed_reference
+P039,primary,friend,length,at most 25 words,reconstructed_reference
+P039,primary,friend,formality,polite wording,reconstructed_reference
+P039,primary,friend,greeting,include a greeting,reconstructed_reference
+P039,primary,friend,language,use English,reconstructed_reference
+P040,primary,friend,length,at most 25 words,reconstructed_reference
+P040,primary,friend,formality,polite wording,reconstructed_reference
+P040,primary,friend,greeting,include a greeting,reconstructed_reference
+P040,primary,friend,language,use English,reconstructed_reference
+H001,held-out,friend,length,at most 25 words,reconstructed_reference
+H001,held-out,friend,formality,polite wording,reconstructed_reference
+H001,held-out,friend,greeting,include a greeting,reconstructed_reference
+H001,held-out,friend,language,include Malay and English,reconstructed_reference
+H002,held-out,friend,length,at most 25 words,reconstructed_reference
+H002,held-out,friend,formality,polite wording,reconstructed_reference
+H002,held-out,friend,greeting,include a greeting,reconstructed_reference
+H002,held-out,friend,language,include Malay and English,reconstructed_reference
+H003,held-out,friend,length,at most 25 words,reconstructed_reference
+H003,held-out,friend,formality,polite wording,reconstructed_reference
+H003,held-out,friend,greeting,include a greeting,reconstructed_reference
+H003,held-out,friend,language,include Malay and English,reconstructed_reference
+H004,held-out,friend,length,at most 25 words,reconstructed_reference
+H004,held-out,friend,formality,polite wording,reconstructed_reference
+H004,held-out,friend,greeting,include a greeting,reconstructed_reference
+H004,held-out,friend,language,include Malay and English,reconstructed_reference
+H005,held-out,friend,length,at most 25 words,reconstructed_reference
+H005,held-out,friend,formality,polite wording,reconstructed_reference
+H005,held-out,friend,greeting,include a greeting,reconstructed_reference
+H005,held-out,friend,language,include Malay and English,reconstructed_reference
+H006,held-out,friend,length,at most 25 words,reconstructed_reference
+H006,held-out,friend,formality,polite wording,reconstructed_reference
+H006,held-out,friend,greeting,include a greeting,reconstructed_reference
+H006,held-out,friend,language,include Malay and English,reconstructed_reference
+H007,held-out,friend,length,at most 25 words,reconstructed_reference
+H007,held-out,friend,formality,polite wording,reconstructed_reference
+H007,held-out,friend,greeting,include a greeting,reconstructed_reference
+H007,held-out,friend,language,include Malay and English,reconstructed_reference
+H008,held-out,friend,length,at most 25 words,reconstructed_reference
+H008,held-out,friend,formality,polite wording,reconstructed_reference
+H008,held-out,friend,greeting,include a greeting,reconstructed_reference
+H008,held-out,friend,language,include Malay and English,reconstructed_reference
+H009,held-out,friend,length,at most 25 words,reconstructed_reference
+H009,held-out,friend,formality,polite wording,reconstructed_reference
+H009,held-out,friend,greeting,include a greeting,reconstructed_reference
+H009,held-out,friend,language,include Malay and English,reconstructed_reference
+H010,held-out,friend,length,at most 25 words,reconstructed_reference
+H010,held-out,friend,formality,polite wording,reconstructed_reference
+H010,held-out,friend,greeting,include a greeting,reconstructed_reference
+H010,held-out,friend,language,include Malay and English,reconstructed_reference
+H011,held-out,friend,length,at most 25 words,reconstructed_reference
+H011,held-out,friend,formality,polite wording,reconstructed_reference
+H011,held-out,friend,greeting,include a greeting,reconstructed_reference
+H011,held-out,friend,language,include Malay and English,reconstructed_reference
+H012,held-out,friend,length,at most 25 words,reconstructed_reference
+H012,held-out,friend,formality,polite wording,reconstructed_reference
+H012,held-out,friend,greeting,include a greeting,reconstructed_reference
+H012,held-out,friend,language,include Malay and English,reconstructed_reference
+H013,held-out,friend,length,at most 25 words,reconstructed_reference
+H013,held-out,friend,formality,polite wording,reconstructed_reference
+H013,held-out,friend,greeting,include a greeting,reconstructed_reference
+H013,held-out,friend,language,include Malay and English,reconstructed_reference
+H014,held-out,friend,length,at most 25 words,reconstructed_reference
+H014,held-out,friend,formality,polite wording,reconstructed_reference
+H014,held-out,friend,greeting,include a greeting,reconstructed_reference
+H014,held-out,friend,language,include Malay and English,reconstructed_reference
+H015,held-out,friend,length,at most 25 words,reconstructed_reference
+H015,held-out,friend,formality,polite wording,reconstructed_reference
+H015,held-out,friend,greeting,include a greeting,reconstructed_reference
+H015,held-out,friend,language,include Malay and English,reconstructed_reference
+H016,held-out,friend,length,at most 25 words,reconstructed_reference
+H016,held-out,friend,formality,polite wording,reconstructed_reference
+H016,held-out,friend,greeting,include a greeting,reconstructed_reference
+H016,held-out,friend,language,include Malay and English,reconstructed_reference
+H017,held-out,friend,length,at most 25 words,reconstructed_reference
+H017,held-out,friend,formality,polite wording,reconstructed_reference
+H017,held-out,friend,greeting,include a greeting,reconstructed_reference
+H017,held-out,friend,language,include Malay and English,reconstructed_reference
+H018,held-out,friend,length,at most 25 words,reconstructed_reference
+H018,held-out,friend,formality,polite wording,reconstructed_reference
+H018,held-out,friend,greeting,include a greeting,reconstructed_reference
+H018,held-out,friend,language,include Malay and English,reconstructed_reference
+H019,held-out,friend,length,at most 25 words,reconstructed_reference
+H019,held-out,friend,formality,polite wording,reconstructed_reference
+H019,held-out,friend,greeting,include a greeting,reconstructed_reference
+H019,held-out,friend,language,include Malay and English,reconstructed_reference
+H020,held-out,friend,length,at most 25 words,reconstructed_reference
+H020,held-out,friend,formality,polite wording,reconstructed_reference
+H020,held-out,friend,greeting,include a greeting,reconstructed_reference
+H020,held-out,friend,language,include Malay and English,reconstructed_reference

@@ -1,0 +1,321 @@
+configuration,persona_id,tp,fp,fn,f1,provenance
+Full MIRAI,P001,38,0,2,0.9743589743589743,reconstructed_reference
+Full MIRAI,P002,39,1,1,0.975,reconstructed_reference
+Full MIRAI,P003,37,2,3,0.9367088607594937,reconstructed_reference
+Full MIRAI,P004,37,2,3,0.9367088607594937,reconstructed_reference
+Full MIRAI,P005,32,6,8,0.8205128205128205,reconstructed_reference
+Full MIRAI,P006,35,3,5,0.8974358974358975,reconstructed_reference
+Full MIRAI,P007,37,1,3,0.9487179487179487,reconstructed_reference
+Full MIRAI,P008,38,1,2,0.9620253164556962,reconstructed_reference
+Full MIRAI,P009,34,3,6,0.8831168831168831,reconstructed_reference
+Full MIRAI,P010,34,3,6,0.8831168831168831,reconstructed_reference
+Full MIRAI,P011,38,2,2,0.95,reconstructed_reference
+Full MIRAI,P012,34,1,6,0.9066666666666666,reconstructed_reference
+Full MIRAI,P013,38,0,2,0.9743589743589743,reconstructed_reference
+Full MIRAI,P014,34,5,6,0.8607594936708861,reconstructed_reference
+Full MIRAI,P015,37,2,3,0.9367088607594937,reconstructed_reference
+Full MIRAI,P016,38,0,2,0.9743589743589743,reconstructed_reference
+Full MIRAI,P017,35,4,5,0.8860759493670886,reconstructed_reference
+Full MIRAI,P018,33,2,7,0.88,reconstructed_reference
+Full MIRAI,P019,33,3,7,0.868421052631579,reconstructed_reference
+Full MIRAI,P020,36,3,4,0.9113924050632911,reconstructed_reference
+Full MIRAI,P021,37,2,3,0.9367088607594937,reconstructed_reference
+Full MIRAI,P022,37,2,3,0.9367088607594937,reconstructed_reference
+Full MIRAI,P023,37,3,3,0.925,reconstructed_reference
+Full MIRAI,P024,34,4,6,0.8717948717948718,reconstructed_reference
+Full MIRAI,P025,38,2,2,0.95,reconstructed_reference
+Full MIRAI,P026,33,3,7,0.868421052631579,reconstructed_reference
+Full MIRAI,P027,37,2,3,0.9367088607594937,reconstructed_reference
+Full MIRAI,P028,33,4,7,0.8571428571428571,reconstructed_reference
+Full MIRAI,P029,31,5,9,0.8157894736842105,reconstructed_reference
+Full MIRAI,P030,35,1,5,0.9210526315789473,reconstructed_reference
+Full MIRAI,P031,32,5,8,0.8311688311688312,reconstructed_reference
+Full MIRAI,P032,38,1,2,0.9620253164556962,reconstructed_reference
+Full MIRAI,P033,38,1,2,0.9620253164556962,reconstructed_reference
+Full MIRAI,P034,35,2,5,0.9090909090909091,reconstructed_reference
+Full MIRAI,P035,34,4,6,0.8717948717948718,reconstructed_reference
+Full MIRAI,P036,32,3,8,0.8533333333333334,reconstructed_reference
+Full MIRAI,P037,35,1,5,0.9210526315789473,reconstructed_reference
+Full MIRAI,P038,36,2,4,0.9230769230769231,reconstructed_reference
+Full MIRAI,P039,32,7,8,0.810126582278481,reconstructed_reference
+Full MIRAI,P040,36,1,4,0.935064935064935,reconstructed_reference
+No owner/consent gate,P001,36,2,4,0.9230769230769231,reconstructed_reference
+No owner/consent gate,P002,33,4,7,0.8571428571428571,reconstructed_reference
+No owner/consent gate,P003,35,4,5,0.8860759493670886,reconstructed_reference
+No owner/consent gate,P004,30,5,10,0.8,reconstructed_reference
+No owner/consent gate,P005,33,3,7,0.868421052631579,reconstructed_reference
+No owner/consent gate,P006,37,1,3,0.9487179487179487,reconstructed_reference
+No owner/consent gate,P007,36,2,4,0.9230769230769231,reconstructed_reference
+No owner/consent gate,P008,32,2,8,0.8648648648648649,reconstructed_reference
+No owner/consent gate,P009,33,5,7,0.8461538461538461,reconstructed_reference
+No owner/consent gate,P010,34,6,6,0.85,reconstructed_reference
+No owner/consent gate,P011,33,3,7,0.868421052631579,reconstructed_reference
+No owner/consent gate,P012,33,2,7,0.88,reconstructed_reference
+No owner/consent gate,P013,32,6,8,0.8205128205128205,reconstructed_reference
+No owner/consent gate,P014,36,2,4,0.9230769230769231,reconstructed_reference
+No owner/consent gate,P015,33,4,7,0.8571428571428571,reconstructed_reference
+No owner/consent gate,P016,34,4,6,0.8717948717948718,reconstructed_reference
+No owner/consent gate,P017,29,7,11,0.7631578947368421,reconstructed_reference
+No owner/consent gate,P018,33,5,7,0.8461538461538461,reconstructed_reference
+No owner/consent gate,P019,34,2,6,0.8947368421052632,reconstructed_reference
+No owner/consent gate,P020,32,5,8,0.8311688311688312,reconstructed_reference
+No owner/consent gate,P021,33,5,7,0.8461538461538461,reconstructed_reference
+No owner/consent gate,P022,30,7,10,0.7792207792207793,reconstructed_reference
+No owner/consent gate,P023,26,10,14,0.6842105263157895,reconstructed_reference
+No owner/consent gate,P024,33,5,7,0.8461538461538461,reconstructed_reference
+No owner/consent gate,P025,31,6,9,0.8051948051948052,reconstructed_reference
+No owner/consent gate,P026,35,4,5,0.8860759493670886,reconstructed_reference
+No owner/consent gate,P027,32,6,8,0.8205128205128205,reconstructed_reference
+No owner/consent gate,P028,35,1,5,0.9210526315789473,reconstructed_reference
+No owner/consent gate,P029,31,5,9,0.8157894736842105,reconstructed_reference
+No owner/consent gate,P030,35,1,5,0.9210526315789473,reconstructed_reference
+No owner/consent gate,P031,34,4,6,0.8717948717948718,reconstructed_reference
+No owner/consent gate,P032,34,4,6,0.8717948717948718,reconstructed_reference
+No owner/consent gate,P033,31,6,9,0.8051948051948052,reconstructed_reference
+No owner/consent gate,P034,35,3,5,0.8974358974358975,reconstructed_reference
+No owner/consent gate,P035,33,4,7,0.8571428571428571,reconstructed_reference
+No owner/consent gate,P036,37,2,3,0.9367088607594937,reconstructed_reference
+No owner/consent gate,P037,31,4,9,0.8266666666666667,reconstructed_reference
+No owner/consent gate,P038,32,5,8,0.8311688311688312,reconstructed_reference
+No owner/consent gate,P039,36,2,4,0.9230769230769231,reconstructed_reference
+No owner/consent gate,P040,33,4,7,0.8571428571428571,reconstructed_reference
+No version ledger,P001,35,1,5,0.9210526315789473,reconstructed_reference
+No version ledger,P002,35,2,5,0.9090909090909091,reconstructed_reference
+No version ledger,P003,35,3,5,0.8974358974358975,reconstructed_reference
+No version ledger,P004,32,4,8,0.8421052631578947,reconstructed_reference
+No version ledger,P005,35,1,5,0.9210526315789473,reconstructed_reference
+No version ledger,P006,36,1,4,0.935064935064935,reconstructed_reference
+No version ledger,P007,36,1,4,0.935064935064935,reconstructed_reference
+No version ledger,P008,33,3,7,0.868421052631579,reconstructed_reference
+No version ledger,P009,31,3,9,0.8378378378378378,reconstructed_reference
+No version ledger,P010,36,0,4,0.9473684210526315,reconstructed_reference
+No version ledger,P011,34,3,6,0.8831168831168831,reconstructed_reference
+No version ledger,P012,34,1,6,0.9066666666666666,reconstructed_reference
+No version ledger,P013,33,4,7,0.8571428571428571,reconstructed_reference
+No version ledger,P014,32,4,8,0.8421052631578947,reconstructed_reference
+No version ledger,P015,32,3,8,0.8533333333333334,reconstructed_reference
+No version ledger,P016,33,5,7,0.8461538461538461,reconstructed_reference
+No version ledger,P017,36,2,4,0.9230769230769231,reconstructed_reference
+No version ledger,P018,34,3,6,0.8831168831168831,reconstructed_reference
+No version ledger,P019,30,6,10,0.7894736842105263,reconstructed_reference
+No version ledger,P020,29,7,11,0.7631578947368421,reconstructed_reference
+No version ledger,P021,33,3,7,0.868421052631579,reconstructed_reference
+No version ledger,P022,32,5,8,0.8311688311688312,reconstructed_reference
+No version ledger,P023,31,5,9,0.8157894736842105,reconstructed_reference
+No version ledger,P024,36,2,4,0.9230769230769231,reconstructed_reference
+No version ledger,P025,31,5,9,0.8157894736842105,reconstructed_reference
+No version ledger,P026,33,2,7,0.88,reconstructed_reference
+No version ledger,P027,33,5,7,0.8461538461538461,reconstructed_reference
+No version ledger,P028,32,2,8,0.8648648648648649,reconstructed_reference
+No version ledger,P029,32,3,8,0.8533333333333334,reconstructed_reference
+No version ledger,P030,36,3,4,0.9113924050632911,reconstructed_reference
+No version ledger,P031,30,8,10,0.7692307692307693,reconstructed_reference
+No version ledger,P032,36,3,4,0.9113924050632911,reconstructed_reference
+No version ledger,P033,36,1,4,0.935064935064935,reconstructed_reference
+No version ledger,P034,33,5,7,0.8461538461538461,reconstructed_reference
+No version ledger,P035,35,3,5,0.8974358974358975,reconstructed_reference
+No version ledger,P036,34,4,6,0.8717948717948718,reconstructed_reference
+No version ledger,P037,33,1,7,0.8918918918918919,reconstructed_reference
+No version ledger,P038,34,5,6,0.8607594936708861,reconstructed_reference
+No version ledger,P039,32,4,8,0.8421052631578947,reconstructed_reference
+No version ledger,P040,36,2,4,0.9230769230769231,reconstructed_reference
+No relationship style,P001,33,2,7,0.88,reconstructed_reference
+No relationship style,P002,32,4,8,0.8421052631578947,reconstructed_reference
+No relationship style,P003,34,5,6,0.8607594936708861,reconstructed_reference
+No relationship style,P004,35,2,5,0.9090909090909091,reconstructed_reference
+No relationship style,P005,31,3,9,0.8378378378378378,reconstructed_reference
+No relationship style,P006,32,5,8,0.8311688311688312,reconstructed_reference
+No relationship style,P007,35,5,5,0.875,reconstructed_reference
+No relationship style,P008,34,3,6,0.8831168831168831,reconstructed_reference
+No relationship style,P009,34,3,6,0.8831168831168831,reconstructed_reference
+No relationship style,P010,34,3,6,0.8831168831168831,reconstructed_reference
+No relationship style,P011,37,0,3,0.961038961038961,reconstructed_reference
+No relationship style,P012,35,2,5,0.9090909090909091,reconstructed_reference
+No relationship style,P013,31,6,9,0.8051948051948052,reconstructed_reference
+No relationship style,P014,37,0,3,0.961038961038961,reconstructed_reference
+No relationship style,P015,37,2,3,0.9367088607594937,reconstructed_reference
+No relationship style,P016,37,0,3,0.961038961038961,reconstructed_reference
+No relationship style,P017,34,1,6,0.9066666666666666,reconstructed_reference
+No relationship style,P018,37,1,3,0.9487179487179487,reconstructed_reference
+No relationship style,P019,36,3,4,0.9113924050632911,reconstructed_reference
+No relationship style,P020,30,2,10,0.8333333333333334,reconstructed_reference
+No relationship style,P021,32,5,8,0.8311688311688312,reconstructed_reference
+No relationship style,P022,33,6,7,0.8354430379746836,reconstructed_reference
+No relationship style,P023,33,2,7,0.88,reconstructed_reference
+No relationship style,P024,33,4,7,0.8571428571428571,reconstructed_reference
+No relationship style,P025,31,6,9,0.8051948051948052,reconstructed_reference
+No relationship style,P026,33,4,7,0.8571428571428571,reconstructed_reference
+No relationship style,P027,33,4,7,0.8571428571428571,reconstructed_reference
+No relationship style,P028,35,4,5,0.8860759493670886,reconstructed_reference
+No relationship style,P029,35,3,5,0.8974358974358975,reconstructed_reference
+No relationship style,P030,36,1,4,0.935064935064935,reconstructed_reference
+No relationship style,P031,35,2,5,0.9090909090909091,reconstructed_reference
+No relationship style,P032,34,4,6,0.8717948717948718,reconstructed_reference
+No relationship style,P033,33,3,7,0.868421052631579,reconstructed_reference
+No relationship style,P034,39,0,1,0.9873417721518988,reconstructed_reference
+No relationship style,P035,36,1,4,0.935064935064935,reconstructed_reference
+No relationship style,P036,37,3,3,0.925,reconstructed_reference
+No relationship style,P037,36,2,4,0.9230769230769231,reconstructed_reference
+No relationship style,P038,38,1,2,0.9620253164556962,reconstructed_reference
+No relationship style,P039,32,6,8,0.8205128205128205,reconstructed_reference
+No relationship style,P040,37,1,3,0.9487179487179487,reconstructed_reference
+No claim check,P001,36,4,4,0.9,reconstructed_reference
+No claim check,P002,37,3,3,0.925,reconstructed_reference
+No claim check,P003,39,1,1,0.975,reconstructed_reference
+No claim check,P004,37,3,3,0.925,reconstructed_reference
+No claim check,P005,32,7,8,0.810126582278481,reconstructed_reference
+No claim check,P006,34,6,6,0.85,reconstructed_reference
+No claim check,P007,35,5,5,0.875,reconstructed_reference
+No claim check,P008,34,5,6,0.8607594936708861,reconstructed_reference
+No claim check,P009,35,5,5,0.875,reconstructed_reference
+No claim check,P010,37,3,3,0.925,reconstructed_reference
+No claim check,P011,37,3,3,0.925,reconstructed_reference
+No claim check,P012,34,6,6,0.85,reconstructed_reference
+No claim check,P013,35,5,5,0.875,reconstructed_reference
+No claim check,P014,34,6,6,0.85,reconstructed_reference
+No claim check,P015,36,4,4,0.9,reconstructed_reference
+No claim check,P016,36,3,4,0.9113924050632911,reconstructed_reference
+No claim check,P017,36,4,4,0.9,reconstructed_reference
+No claim check,P018,35,4,5,0.8860759493670886,reconstructed_reference
+No claim check,P019,32,7,8,0.810126582278481,reconstructed_reference
+No claim check,P020,37,3,3,0.925,reconstructed_reference
+No claim check,P021,36,4,4,0.9,reconstructed_reference
+No claim check,P022,36,4,4,0.9,reconstructed_reference
+No claim check,P023,32,8,8,0.8,reconstructed_reference
+No claim check,P024,34,6,6,0.85,reconstructed_reference
+No claim check,P025,36,4,4,0.9,reconstructed_reference
+No claim check,P026,37,3,3,0.925,reconstructed_reference
+No claim check,P027,38,2,2,0.95,reconstructed_reference
+No claim check,P028,37,2,3,0.9367088607594937,reconstructed_reference
+No claim check,P029,35,5,5,0.875,reconstructed_reference
+No claim check,P030,37,2,3,0.9367088607594937,reconstructed_reference
+No claim check,P031,35,5,5,0.875,reconstructed_reference
+No claim check,P032,36,4,4,0.9,reconstructed_reference
+No claim check,P033,36,3,4,0.9113924050632911,reconstructed_reference
+No claim check,P034,38,2,2,0.95,reconstructed_reference
+No claim check,P035,34,6,6,0.85,reconstructed_reference
+No claim check,P036,38,2,2,0.95,reconstructed_reference
+No claim check,P037,36,4,4,0.9,reconstructed_reference
+No claim check,P038,36,4,4,0.9,reconstructed_reference
+No claim check,P039,36,4,4,0.9,reconstructed_reference
+No claim check,P040,35,5,5,0.875,reconstructed_reference
+Flat RAG,P001,30,7,10,0.7792207792207793,reconstructed_reference
+Flat RAG,P002,29,8,11,0.7532467532467533,reconstructed_reference
+Flat RAG,P003,32,4,8,0.8421052631578947,reconstructed_reference
+Flat RAG,P004,27,9,13,0.7105263157894737,reconstructed_reference
+Flat RAG,P005,33,2,7,0.88,reconstructed_reference
+Flat RAG,P006,29,6,11,0.7733333333333333,reconstructed_reference
+Flat RAG,P007,32,8,8,0.8,reconstructed_reference
+Flat RAG,P008,33,3,7,0.868421052631579,reconstructed_reference
+Flat RAG,P009,24,8,16,0.6666666666666666,reconstructed_reference
+Flat RAG,P010,32,6,8,0.8205128205128205,reconstructed_reference
+Flat RAG,P011,33,5,7,0.8461538461538461,reconstructed_reference
+Flat RAG,P012,33,3,7,0.868421052631579,reconstructed_reference
+Flat RAG,P013,31,5,9,0.8157894736842105,reconstructed_reference
+Flat RAG,P014,34,2,6,0.8947368421052632,reconstructed_reference
+Flat RAG,P015,33,4,7,0.8571428571428571,reconstructed_reference
+Flat RAG,P016,30,8,10,0.7692307692307693,reconstructed_reference
+Flat RAG,P017,33,5,7,0.8461538461538461,reconstructed_reference
+Flat RAG,P018,33,5,7,0.8461538461538461,reconstructed_reference
+Flat RAG,P019,34,5,6,0.8607594936708861,reconstructed_reference
+Flat RAG,P020,28,10,12,0.717948717948718,reconstructed_reference
+Flat RAG,P021,32,4,8,0.8421052631578947,reconstructed_reference
+Flat RAG,P022,30,3,10,0.821917808219178,reconstructed_reference
+Flat RAG,P023,27,6,13,0.7397260273972602,reconstructed_reference
+Flat RAG,P024,30,8,10,0.7692307692307693,reconstructed_reference
+Flat RAG,P025,32,4,8,0.8421052631578947,reconstructed_reference
+Flat RAG,P026,33,3,7,0.868421052631579,reconstructed_reference
+Flat RAG,P027,28,7,12,0.7466666666666667,reconstructed_reference
+Flat RAG,P028,31,7,9,0.7948717948717948,reconstructed_reference
+Flat RAG,P029,28,7,12,0.7466666666666667,reconstructed_reference
+Flat RAG,P030,32,5,8,0.8311688311688312,reconstructed_reference
+Flat RAG,P031,36,3,4,0.9113924050632911,reconstructed_reference
+Flat RAG,P032,34,4,6,0.8717948717948718,reconstructed_reference
+Flat RAG,P033,30,7,10,0.7792207792207793,reconstructed_reference
+Flat RAG,P034,33,0,7,0.9041095890410958,reconstructed_reference
+Flat RAG,P035,31,6,9,0.8051948051948052,reconstructed_reference
+Flat RAG,P036,36,2,4,0.9230769230769231,reconstructed_reference
+Flat RAG,P037,34,5,6,0.8607594936708861,reconstructed_reference
+Flat RAG,P038,29,6,11,0.7733333333333333,reconstructed_reference
+Flat RAG,P039,30,5,10,0.8,reconstructed_reference
+Flat RAG,P040,34,2,6,0.8947368421052632,reconstructed_reference
+Tiered memory,P001,28,7,12,0.7466666666666667,reconstructed_reference
+Tiered memory,P002,29,9,11,0.7435897435897436,reconstructed_reference
+Tiered memory,P003,35,4,5,0.8860759493670886,reconstructed_reference
+Tiered memory,P004,36,3,4,0.9113924050632911,reconstructed_reference
+Tiered memory,P005,31,6,9,0.8051948051948052,reconstructed_reference
+Tiered memory,P006,29,7,11,0.7631578947368421,reconstructed_reference
+Tiered memory,P007,33,3,7,0.868421052631579,reconstructed_reference
+Tiered memory,P008,35,2,5,0.9090909090909091,reconstructed_reference
+Tiered memory,P009,37,1,3,0.9487179487179487,reconstructed_reference
+Tiered memory,P010,36,2,4,0.9230769230769231,reconstructed_reference
+Tiered memory,P011,33,5,7,0.8461538461538461,reconstructed_reference
+Tiered memory,P012,38,2,2,0.95,reconstructed_reference
+Tiered memory,P013,32,4,8,0.8421052631578947,reconstructed_reference
+Tiered memory,P014,34,5,6,0.8607594936708861,reconstructed_reference
+Tiered memory,P015,37,1,3,0.9487179487179487,reconstructed_reference
+Tiered memory,P016,29,7,11,0.7631578947368421,reconstructed_reference
+Tiered memory,P017,35,3,5,0.8974358974358975,reconstructed_reference
+Tiered memory,P018,34,5,6,0.8607594936708861,reconstructed_reference
+Tiered memory,P019,24,9,16,0.6575342465753424,reconstructed_reference
+Tiered memory,P020,32,2,8,0.8648648648648649,reconstructed_reference
+Tiered memory,P021,35,5,5,0.875,reconstructed_reference
+Tiered memory,P022,34,4,6,0.8717948717948718,reconstructed_reference
+Tiered memory,P023,31,7,9,0.7948717948717948,reconstructed_reference
+Tiered memory,P024,31,5,9,0.8157894736842105,reconstructed_reference
+Tiered memory,P025,34,3,6,0.8831168831168831,reconstructed_reference
+Tiered memory,P026,30,5,10,0.8,reconstructed_reference
+Tiered memory,P027,32,5,8,0.8311688311688312,reconstructed_reference
+Tiered memory,P028,35,4,5,0.8860759493670886,reconstructed_reference
+Tiered memory,P029,34,2,6,0.8947368421052632,reconstructed_reference
+Tiered memory,P030,35,5,5,0.875,reconstructed_reference
+Tiered memory,P031,34,3,6,0.8831168831168831,reconstructed_reference
+Tiered memory,P032,34,3,6,0.8831168831168831,reconstructed_reference
+Tiered memory,P033,28,6,12,0.7567567567567568,reconstructed_reference
+Tiered memory,P034,36,4,4,0.9,reconstructed_reference
+Tiered memory,P035,34,3,6,0.8831168831168831,reconstructed_reference
+Tiered memory,P036,36,1,4,0.935064935064935,reconstructed_reference
+Tiered memory,P037,31,4,9,0.8266666666666667,reconstructed_reference
+Tiered memory,P038,32,5,8,0.8311688311688312,reconstructed_reference
+Tiered memory,P039,30,7,10,0.7792207792207793,reconstructed_reference
+Tiered memory,P040,34,4,6,0.8717948717948718,reconstructed_reference
+Extract/consolidate,P001,37,2,3,0.9367088607594937,reconstructed_reference
+Extract/consolidate,P002,35,4,5,0.8860759493670886,reconstructed_reference
+Extract/consolidate,P003,30,4,10,0.8108108108108109,reconstructed_reference
+Extract/consolidate,P004,34,4,6,0.8717948717948718,reconstructed_reference
+Extract/consolidate,P005,35,2,5,0.9090909090909091,reconstructed_reference
+Extract/consolidate,P006,32,6,8,0.8205128205128205,reconstructed_reference
+Extract/consolidate,P007,33,4,7,0.8571428571428571,reconstructed_reference
+Extract/consolidate,P008,37,2,3,0.9367088607594937,reconstructed_reference
+Extract/consolidate,P009,31,6,9,0.8051948051948052,reconstructed_reference
+Extract/consolidate,P010,35,3,5,0.8974358974358975,reconstructed_reference
+Extract/consolidate,P011,32,5,8,0.8311688311688312,reconstructed_reference
+Extract/consolidate,P012,36,3,4,0.9113924050632911,reconstructed_reference
+Extract/consolidate,P013,36,4,4,0.9,reconstructed_reference
+Extract/consolidate,P014,36,4,4,0.9,reconstructed_reference
+Extract/consolidate,P015,36,3,4,0.9113924050632911,reconstructed_reference
+Extract/consolidate,P016,34,3,6,0.8831168831168831,reconstructed_reference
+Extract/consolidate,P017,32,7,8,0.810126582278481,reconstructed_reference
+Extract/consolidate,P018,33,3,7,0.868421052631579,reconstructed_reference
+Extract/consolidate,P019,34,2,6,0.8947368421052632,reconstructed_reference
+Extract/consolidate,P020,31,4,9,0.8266666666666667,reconstructed_reference
+Extract/consolidate,P021,28,4,12,0.7777777777777778,reconstructed_reference
+Extract/consolidate,P022,32,6,8,0.8205128205128205,reconstructed_reference
+Extract/consolidate,P023,35,2,5,0.9090909090909091,reconstructed_reference
+Extract/consolidate,P024,37,3,3,0.925,reconstructed_reference
+Extract/consolidate,P025,33,4,7,0.8571428571428571,reconstructed_reference
+Extract/consolidate,P026,30,4,10,0.8108108108108109,reconstructed_reference
+Extract/consolidate,P027,35,4,5,0.8860759493670886,reconstructed_reference
+Extract/consolidate,P028,33,4,7,0.8571428571428571,reconstructed_reference
+Extract/consolidate,P029,35,3,5,0.8974358974358975,reconstructed_reference
+Extract/consolidate,P030,30,6,10,0.7894736842105263,reconstructed_reference
+Extract/consolidate,P031,33,5,7,0.8461538461538461,reconstructed_reference
+Extract/consolidate,P032,33,5,7,0.8461538461538461,reconstructed_reference
+Extract/consolidate,P033,32,6,8,0.8205128205128205,reconstructed_reference
+Extract/consolidate,P034,37,1,3,0.9487179487179487,reconstructed_reference
+Extract/consolidate,P035,35,2,5,0.9090909090909091,reconstructed_reference
+Extract/consolidate,P036,36,2,4,0.9230769230769231,reconstructed_reference
+Extract/consolidate,P037,31,8,9,0.7848101265822784,reconstructed_reference
+Extract/consolidate,P038,34,4,6,0.8717948717948718,reconstructed_reference
+Extract/consolidate,P039,34,5,6,0.8607594936708861,reconstructed_reference
+Extract/consolidate,P040,32,3,8,0.8533333333333334,reconstructed_reference

@@ -1,0 +1,7 @@
+location,result,reference,fields
+Table 3,primary TP FP FN and targeted rates,04_Item_Level_Results/*.csv,tp;fp;fn;correct;passed
+Table 5,held-out rates,04_Item_Level_Results/*.csv,tp;fp;fn;correct;passed
+Table 6,persona paired differences and tests,05_Statistical_Analysis/persona_level_scores.csv,persona_id;configuration;f1
+Table 7,independent benchmarks and cross model,07_Public_Benchmarks/benchmark_information.csv,reported_score;actual_run
+Table 8,three representative failure types,08_Failure_and_Overhead_Logs/failure_cases.csv,case;cause
+Table 9,latency and token aggregates,08_Failure_and_Overhead_Logs/reported_overhead.csv,mean_seconds;p95_seconds;input_tokens;output_tokens

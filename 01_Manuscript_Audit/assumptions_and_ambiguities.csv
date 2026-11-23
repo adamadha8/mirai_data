@@ -1,0 +1,5 @@
+topic,reported,assumption,limitation
+Seed chronology,20260619; main runs 2025,reused as reference seed,chronology unexplained
+Held-out TP FP FN,F1 only,FP equals FN and TP rounded to target rate,one artificial realization
+Audit sampling,"40 per configuration, stratified",first 40 reconstructed responses,strata unspecified; not true original sample
+Timing,Table 9 aggregate statistics,none generated,individual recorded values unavailable

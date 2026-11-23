@@ -1,0 +1,2 @@
+benchmark,example_id,question,prediction,note,provenance
+LoCoMo,SYNTHETIC-EXAMPLE-1,What drink?,tea,illustrative only; not official format or model output,reconstructed_reference

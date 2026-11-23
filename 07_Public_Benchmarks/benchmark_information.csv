@@ -1,0 +1,5 @@
+benchmark,coverage,metric,reported_score,actual_run,official_source
+LoCoMo,1986,normalized partial-match F1,0.64,not run,not independently verified
+LongMemEval-S,500,binary correctness,0.61,not run,not independently verified
+MIRAI primary GPT-4.1 mini,1600,micro-F1,0.918,not run,manuscript Table 7
+MIRAI held-out GPT-4.1 mini,800,micro-F1,0.889,not run,manuscript Table 7

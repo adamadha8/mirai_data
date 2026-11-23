@@ -1,0 +1,2 @@
+# Illustrative audit
+320 synthetic records, 40 per configuration. Evaluator snapshots reported in manuscript: A gpt-5.4-mini-2026-03-17; B gpt-5.2-2025-12-11; adjudicator gpt-5.5-pro-2026-04-23. No model calls were made. Decisions here are synthetic binary labels; style decisions are not reconstructed. The sample selection and disagreements are artificial; calculated performance must not be compared as if it reproduced the reported audit.
